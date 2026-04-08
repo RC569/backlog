@@ -24,7 +24,6 @@
 | 2025/09/30 | Lil Wayne | Tha Carter IV | Hip-Hop |  | Unplayed |  |
 | 2025/10/25 | Edwin Birdsong | Edwin Birdsong | Funk/Soul |  | Unplayed |  |
 | 2025/10/21 | Carpenter Brut | EP I | Synthwave | Dark Synth | Unplayed |  |
-| 2025/11/19 | Jean-Jacques Perrey | The Amazing New Electronic Pop Sound of Jean Jacques Perrey | Electronic |  | Unplayed |  |
 | 2026/03/09 | Wham! | Make It Big | Pop | 80s Pop | Unplayed |  |
 | 2026/03/21 | Gris | Il Était Une Forêt | Metal | Black/Atmospheric | Unplayed |  |
 | 2026/03/28 | System of a Down | Steal This Album! | Metal | Alternative | Unplayed |  |
