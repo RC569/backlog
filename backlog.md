@@ -29,7 +29,6 @@
 | 2026/03/21 | Gris | Il Était Une Forêt | Metal | Black/Atmospheric | Unplayed |  |
 | 2026/03/28 | System of a Down | Steal This Album! | Metal | Alternative | Unplayed |  |
 | 2026/03/29 | Pendulum | Immersion | Drum n bass | Industrial Rock | Unplayed |  |
-| 2026/04/01 | Death Grips | No Love Deep Web | Hip-Hop | Experimental/Industrial | Relisten | In /Main |
 | 2026/04/01 | Nujabes | Metaphorical Music | Hip-Hop | Jazz Rap/Instrumental | Unplayed |  |
 | 2026/04/01 | Nujabes | Modal Soul | Hip-Hop | Jazz Rap/Instrumental | Unplayed |  |
 | 2026/04/01 | The Roots | Do You Want More?!!!??! | Hip-Hop | Conscious | Unplayed |  |
@@ -54,7 +53,7 @@
 | 2026/04/02 | Twenty One Pilots | Scaled and Icy | Pop | Alternative | Unplayed | Fuji Rec |
 | 2026/04/02 | usedcvnt | ultraviolet |  |  | Unplayed | Fuji Rec |
 | 2026/04/02 | Gesaffelstein | Conspiracy Pt.2 | Electronic | Dark/Industrial | Unplayed | Fuji Rec |
-| 2026/04/02 | Pachinko | D>E>A>T>H>M>E>T>A>L |  |  | Unplayed | Fuji Rec |
+| 2026/04/02 | Pachinko | D\>E\>A\>T\>H\>M\>E\>T\>A\>L |  |  | Unplayed | Fuji Rec |
 | 2026/04/02 | Mr.Kitty | Time | Electronic | Dark Synth | Unplayed | Fuji Rec |
 | 2026/04/02 | BLKSMIITH | DIGITAL TWIN |  |  | Unplayed | Fuji Rec |
 | 2026/04/02 | Beach House | depression cherry | Pop | Dream/Indie | Unplayed | Fuji Rec |
@@ -71,7 +70,6 @@
 | 2026/04/04 | Animal Collective | Merriweather Post Pavilion | Pop | Experimental/Indie | Unplayed |  |
 | 2026/04/04 | Bring Me The Horizon | That's The Spirit | Rock | Alternative | Unplayed |  |
 | 2026/04/04 | Squarepusher | Feed Me Weird Things | Electronic | Drill n bass | Unplayed |  |
-| 2026/04/05 | Flying Lotus | You're dead! | Electronic | IDM | Relisten | In /Main |
 | 2026/04/06 | Freddie Gibbs | Piñata  | Hip-Hop | Gangster Rap | Unplayed |  |
 | 2026/04/07 | DJ Close Your Eyes to Find Me | Angel Trance Edits Volume One | Electronic | Progressive Breaks | Unplayed |  |
 | 2026/04/07 | DJ Close Your Eyes to Find Me | Angel Trance Edits Volume Two | Electronic | Progressive Breaks | Unplayed |  |
@@ -85,11 +83,4 @@
 | 2026/04/07 | Death Grips | Niggas on the moon | Electronic | Experimental | Unplayed |  |
 | 2026/04/07 | Yayayi | Yayayi | Hip-Hop | Experimental | Unplayed |  |
 
-<div id=hello>
-Use this CSS with stylus.
-
-```css
-@-moz-document url("https://gist.github.com/RC569/4099f73cd6a46d854ddd5a01f91abd24"){.container-lg{max-width:unset}table{margin-left:auto;margin-right:auto}#user-content-hello{display:none}}
-```
-</div>
 <!-- | Date Added | Artist | Album | Genre | Subgenre | Status | Notes | -->
