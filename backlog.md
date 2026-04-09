@@ -33,7 +33,7 @@
 | 2026/04/01 | The Roots | Do You Want More?!!!??! | Hip-Hop | Conscious | Unplayed |  |
 | 2026/04/01 | JPEGMAFIA | Veteran | Hip-Hop | Experimental/Industrial | Unplayed |  |
 | 2026/04/01 | dälek | From Filthy Tongue of Gods and Griots | Hip-Hop | Experimental/Industrial | Unplayed |  |
-| 2026/04/01 | clipping. | CLPPNG | Hip-Hop | Experimental/Noise | Unplayed |  |
+| 2026/04/01 | clipping. | CLPPNG | Hip-Hop | Experimental/Noise | Relisten |  |
 | 2026/04/01 | Scattle | Sketch | Synthwave | Dark Synth | Unplayed |  |
 | 2026/04/01 | Nirvana | In Utero | Rock | Grunge | Unplayed |  |
 | 2026/04/01 | Neurosis | An Undying Love For A Burning World | Metal | Post-Metal/Sludge | Unplayed |  |
