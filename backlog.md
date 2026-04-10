@@ -84,10 +84,3 @@
 | 2026/04/07 | Yayayi | Yayayi | Hip-Hop | Experimental | Unplayed |  |
 
 <!-- | Date Added | Artist | Album | Genre | Subgenre | Status | Notes | -->
-<div id=hello>
-Use this CSS with stylus.
-
-```css
-@-moz-document url("https://gist.github.com/RC569/4099f73cd6a46d854ddd5a01f91abd24"){.container-lg{max-width:unset}table{margin-left:auto;margin-right:auto}#user-content-hello{display:none}}
-```
-</div>
