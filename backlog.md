@@ -39,30 +39,30 @@
 | 2026/04/01 | Nirvana | In Utero | Rock | Grunge | Unplayed |  |
 | 2026/04/01 | Neurosis | An Undying Love For A Burning World | Metal | Post-Metal/Sludge | Unplayed |  |
 | 2026/04/01 | ねりねり | おつまみ | Vocaloid |  | Unplayed |  |
-| 2026/04/02 | Childish Gambino | Because the Internet | Hip-Hop |  | Unplayed | Fuji Rec |
-| 2026/04/02 | Childish Gambino | Camp | Hip-Hop |  | Unplayed | Fuji Rec |
-| 2026/04/02 | Have a nice life | Deathconsciousness |  |  | Unplayed | Fuji Rec |
-| 2026/04/02 | siinamota | Alive |  |  | Unplayed | Fuji Rec |
-| 2026/04/02 | Vylet Pony | Monarch of Monsters |  |  | Unplayed | Fuji Rec |
-| 2026/04/02 | siinamota | kokegane no uta |  |  | Unplayed | Fuji Rec |
-| 2026/04/02 | 2003 Toyota Corolla | 2003 Toyota Corolla |  |  | Unplayed | Fuji Rec |
-| 2026/04/02 | Maroon 5 | V | Pop | Pop Rock | Unplayed | Fuji Rec |
-| 2026/04/02 | Bruno Mars | Doo-Wops & Hooligans | Pop | R&B/Pop | Unplayed | Fuji Rec |
-| 2026/04/02 | Frank Sinatra | Nothing But The Best | Jazz | Traditional Pop | Unplayed | Fuji Rec |
-| 2026/04/02 | Ozzy Ozbourne | Down to Earth | Metal |  | Unplayed | Fuji Rec |
-| 2026/04/02 | Twenty One Pilots | Scaled and Icy | Pop | Alternative | Unplayed | Fuji Rec |
-| 2026/04/02 | usedcvnt | ultraviolet |  |  | Unplayed | Fuji Rec |
-| 2026/04/02 | Gesaffelstein | Conspiracy Pt.2 | Electronic | Dark/Industrial | Unplayed | Fuji Rec |
-| 2026/04/02 | Pachinko | D\>E\>A\>T\>H\>M\>E\>T\>A\>L |  |  | Unplayed | Fuji Rec |
-| 2026/04/02 | Mr.Kitty | Time | Electronic | Dark Synth | Unplayed | Fuji Rec |
-| 2026/04/02 | BLKSMIITH | DIGITAL TWIN |  |  | Unplayed | Fuji Rec |
-| 2026/04/02 | Beach House | depression cherry | Pop | Dream/Indie | Unplayed | Fuji Rec |
-| 2026/04/02 | Gesaffelstein | Aleph | Electronic | Dark/Industrial | Unplayed | Fuji Rec |
-| 2026/04/02 | David Bowie | Heroes | Rock | Glam | Unplayed | Fuji Rec |
-| 2026/04/02 | Mitch Murder | Selection 2 | Synthwave |  | Unplayed | Fuji Rec |
-| 2026/04/02 | Troye Sivan | Blue Neighbourhood | Pop | Electropop/Indie | Unplayed | Fuji Rec |
-| 2026/04/02 | Aphex Twin | Drukqs | Electronic | Experimental/IDM | Unplayed | Fuji Rec |
-| 2026/04/02 | siinamota | Therefor. |  |  | Unplayed | Fuji Rec |
+| 2026/04/02 | Childish Gambino | Because the Internet | Hip-Hop |  | Unplayed | Recommended by friend |
+| 2026/04/02 | Childish Gambino | Camp | Hip-Hop |  | Unplayed | Recommended by friend |
+| 2026/04/02 | Have a nice life | Deathconsciousness |  |  | Unplayed | Recommended by friend |
+| 2026/04/02 | siinamota | Alive |  |  | Unplayed | Recommended by friend |
+| 2026/04/02 | Vylet Pony | Monarch of Monsters |  |  | Unplayed | Recommended by friend |
+| 2026/04/02 | siinamota | kokegane no uta |  |  | Unplayed | Recommended by friend |
+| 2026/04/02 | 2003 Toyota Corolla | 2003 Toyota Corolla |  |  | Unplayed | Recommended by friend |
+| 2026/04/02 | Maroon 5 | V | Pop | Pop Rock | Unplayed | Recommended by friend |
+| 2026/04/02 | Bruno Mars | Doo-Wops & Hooligans | Pop | R&B/Pop | Unplayed | Recommended by friend |
+| 2026/04/02 | Frank Sinatra | Nothing But The Best | Jazz | Traditional Pop | Unplayed | Recommended by friend |
+| 2026/04/02 | Ozzy Ozbourne | Down to Earth | Metal |  | Unplayed | Recommended by friend |
+| 2026/04/02 | Twenty One Pilots | Scaled and Icy | Pop | Alternative | Unplayed | Recommended by friend |
+| 2026/04/02 | usedcvnt | ultraviolet |  |  | Unplayed | Recommended by friend |
+| 2026/04/02 | Gesaffelstein | Conspiracy Pt.2 | Electronic | Dark/Industrial | Unplayed | Recommended by friend |
+| 2026/04/02 | Pachinko | D\>E\>A\>T\>H\>M\>E\>T\>A\>L |  |  | Unplayed | Recommended by friend |
+| 2026/04/02 | Mr.Kitty | Time | Electronic | Dark Synth | Unplayed | Recommended by friend |
+| 2026/04/02 | BLKSMIITH | DIGITAL TWIN |  |  | Unplayed | Recommended by friend |
+| 2026/04/02 | Beach House | depression cherry | Pop | Dream/Indie | Unplayed | Recommended by friend |
+| 2026/04/02 | Gesaffelstein | Aleph | Electronic | Dark/Industrial | Unplayed | Recommended by friend |
+| 2026/04/02 | David Bowie | Heroes | Rock | Glam | Unplayed | Recommended by friend |
+| 2026/04/02 | Mitch Murder | Selection 2 | Synthwave |  | Unplayed | Recommended by friend |
+| 2026/04/02 | Troye Sivan | Blue Neighbourhood | Pop | Electropop/Indie | Unplayed | Recommended by friend |
+| 2026/04/02 | Aphex Twin | Drukqs | Electronic | Experimental/IDM | Unplayed | Recommended by friend |
+| 2026/04/02 | siinamota | Therefor. |  |  | Unplayed | Recommended by friend |
 | 2026/04/03 | Flying Lotus | 1983 | Hip-Hop | Jazz Rap/Instrumental | Unplayed |  |
 | 2026/04/03 | Flying Lotus | Los Angeles | Hip-Hop | Jazz Rap/Experimental | Unplayed |  |
 | 2026/04/03 | Flying Lotus | Until the Quiet Comes | Hip-Hop | Jazz Rap/Experimental | Unplayed |  |
