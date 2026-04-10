@@ -24,7 +24,7 @@
 | 2025/09/30 | Lil Wayne | Tha Cater III | Hip-Hop |  | Unplayed | Low |  |
 | 2025/09/30 | Lil Wayne | Tha Carter IV | Hip-Hop |  | Unplayed | Low |  |
 | 2025/10/25 | Edwin Birdsong | Edwin Birdsong | Funk/Soul |  | Unplayed | Low |  |
-| 2025/10/21 | Carpenter Brut | EP I | Synthwave | Dark Synth | Unplayed | Low |  |
+| 2025/10/21 | Carpenter Brut | EP I | Synthwave | Dark Synth | Unplayed | Medium |  |
 | 2026/03/09 | Wham! | Make It Big | Pop | 80s Pop | Unplayed | Low |  |
 | 2026/03/21 | Gris | Il Était Une Forêt | Metal | Black/Atmospheric | Unplayed | Low |  |
 | 2026/03/28 | System of a Down | Steal This Album! | Metal | Alternative | Unplayed | Low |  |
@@ -33,13 +33,13 @@
 | 2026/04/01 | Nujabes | Modal Soul | Hip-Hop | Jazz Rap/Instrumental | Unplayed | Low |  |
 | 2026/04/01 | The Roots | Do You Want More?!!!??! | Hip-Hop | Conscious | Unplayed | Low |  |
 | 2026/04/01 | JPEGMAFIA | Veteran | Hip-Hop | Experimental/Industrial | Unplayed | Low |  |
-| 2026/04/01 | dälek | From Filthy Tongue of Gods and Griots | Hip-Hop | Experimental/Industrial | Unplayed | Low |  |
+| 2026/04/01 | dälek | From Filthy Tongue of Gods and Griots | Hip-Hop | Experimental/Industrial | Relisten | Low |  |
 | 2026/04/01 | clipping. | CLPPNG | Hip-Hop | Experimental/Noise | Relisten | Low |  |
 | 2026/04/01 | Scattle | Sketch | Synthwave | Dark Synth | Unplayed | Low |  |
 | 2026/04/01 | Nirvana | In Utero | Rock | Grunge | Unplayed | Low |  |
 | 2026/04/01 | Neurosis | An Undying Love For A Burning World | Metal | Post-Metal/Sludge | Unplayed | Low |  |
 | 2026/04/01 | ねりねり | おつまみ | Vocaloid |  | Unplayed | Low |  |
-| 2026/04/02 | Childish Gambino | Because the Internet | Hip-Hop |  | Unplayed | Low | Recommended by friend |
+| 2026/04/02 | Childish Gambino | Because the Internet | Hip-Hop |  | Unplayed | Medium | Recommended by friend |
 | 2026/04/02 | Childish Gambino | Camp | Hip-Hop |  | Unplayed | Low | Recommended by friend |
 | 2026/04/02 | Have a nice life | Deathconsciousness |  |  | Unplayed | Low | Recommended by friend |
 | 2026/04/02 | siinamota | Alive |  |  | Unplayed | Low | Recommended by friend |
@@ -79,8 +79,8 @@
 | 2026/04/07 | Erykah Badu | Baduizm | R&B | Neo-Soul | Unplayed | Low |  |
 | 2026/04/07 | Brian Eno | Ambient 1: Music For Airports | Ambient |  | Unplayed | Low |  |
 | 2026/04/07 | ミドリ | あらためまして、はじめまして、ミドリです。 | Punk | Art Punk, Jazz Rock | Unplayed | Low |  |
-| 2026/04/07 | Death Grips | Government Plates | Electronic | Experimental | Unplayed | Low |  |
-| 2026/04/07 | Death Grips | Niggas on the moon | Electronic | Experimental | Unplayed | Low |  |
+| 2026/04/07 | Death Grips | Government Plates | Electronic | Experimental | Unplayed | Medium |  |
+| 2026/04/07 | Death Grips | Niggas on the moon | Electronic | Experimental | Unplayed | Medium |  |
 | 2026/04/07 | Yayayi | Yayayi | Hip-Hop | Experimental | Unplayed | Low |  |
 
 <!-- | Date Added | Artist | Album | Genre | Subgenre | Status | Notes | -->
