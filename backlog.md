@@ -1,4 +1,5 @@
 # Music Backlog
+<div id="betterview">Click <a href="https://rc569.github.io/backlog">here</a> for a better view.</div>
 
 | Date Added | Artist | Album | Genre | Subgenre | Status | Notes |
 |-|-|-|-|-|-|-|
