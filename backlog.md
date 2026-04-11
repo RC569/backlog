@@ -38,7 +38,6 @@
 | 2026/04/01 | Nujabes | Modal Soul | Hip-Hop | Jazz Rap/Instrumental | Unplayed | Low |  |
 | 2026/04/01 | The Roots | Do You Want More?!!!??! | Hip-Hop | Conscious | Unplayed | Low |  |
 | 2026/04/01 | JPEGMAFIA | Veteran | Hip-Hop | Experimental/Industrial | Unplayed | Low |  |
-| 2026/04/01 | dälek | From Filthy Tongue of Gods and Griots | Hip-Hop | Experimental/Industrial | Relisten | High |  |
 | 2026/04/01 | clipping. | CLPPNG | Hip-Hop | Experimental/Noise | Relisten | Low |  |
 | 2026/04/01 | Scattle | Sketch | Synthwave | Dark Synth | Unplayed | Low |  |
 | 2026/04/01 | Nirvana | In Utero | Rock | Grunge | Unplayed | Low |  |
