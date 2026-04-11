@@ -41,7 +41,7 @@
 | 2026/04/01 | ねりねり | おつまみ | Vocaloid |  | Unplayed | Low |  |
 | 2026/04/02 | Childish Gambino | Because the Internet | Hip-Hop |  | Unplayed | Medium | Recommended by friend |
 | 2026/04/02 | Childish Gambino | Camp | Hip-Hop |  | Unplayed | Low | Recommended by friend |
-| 2026/04/02 | Have a nice life | Deathconsciousness |  |  | Unplayed | Low | Recommended by friend |
+| 2026/04/02 | Have a nice life | Deathconsciousness |  |  | Unplayed | Medium | Recommended by friend |
 | 2026/04/02 | siinamota | Alive |  |  | Unplayed | Low | Recommended by friend |
 | 2026/04/02 | Vylet Pony | Monarch of Monsters |  |  | Unplayed | Low | Recommended by friend |
 | 2026/04/02 | siinamota | kokegane no uta |  |  | Unplayed | Low | Recommended by friend |
