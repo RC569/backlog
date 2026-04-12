@@ -86,5 +86,9 @@
 | 2026/04/07 | Death Grips | Government Plates | Electronic | Experimental | Relisten | Medium |  |
 | 2026/04/07 | Death Grips | Niggas on the moon | Electronic | Experimental | Unplayed | Medium |  |
 | 2026/04/07 | Yayayi | Yayayi | Hip-Hop | Experimental | Unplayed | Low |  |
+| 2026/04/08 | J Dilla | The Official Jay Dee Instrumental Series Vol. 1: Unreleased | Hip-Hop | Instrumental | Unplayed | Low |  |
+| 2026/04/08 | J Dilla | The Official Jay Dee Instrumental Series Vol.2: Vintage | Hip-Hop | Instrumental | Unplayed | Low |  |
+| 2026/04/11 | TV Girl | Who Really Cares | Pop | Indie | Unplayed | Low |  |
+| 2026/04/11 | The Velvet Underground & Nico | The Velvet Underground & Nico | Rock | Garage/Experimental | Unplayed | Low |  |
 
 <!-- | Date Added | Artist | Album | Genre | Subgenre | Status | Notes | -->
