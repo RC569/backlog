@@ -99,9 +99,10 @@
 | 2026/04/20 | Machine Girl | WLFGRL | Electronic | Hardcore | Not Downloaded | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
 | 2026/04/20 | Justice | Cross | Electronic | Electro house | Not Downloaded | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
 | 2026/04/20 | REZNYCK | MUSCLE CARDIAC | Electronic | Synthwave | Not Downloaded | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
-| 2026/04/20 | Artist | Album | Genre | Subgenre | Not Downloaded | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
-| 2026/04/20 | Artist | Album | Genre | Subgenre | Not Downloaded | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
-| 2026/04/20 | Artist | Album | Genre | Subgenre | Not Downloaded | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
-| 2026/04/20 | Artist | Album | Genre | Subgenre | Not Downloaded | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
+| 2026/04/20 | Metronomy | The English Riviera | Electronic |  | Not Downloaded | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
+| 2026/04/20 | El Cuarteto De Nos | Raro | Rock |  | Not Downloaded | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
+| 2026/04/20 | Venetian Snares | Rossz Csillag Alatt Született | Electronic | Drill 'n' bass | Not Downloaded | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
+| 2026/04/20 | Wowaka | Unhappy Refrain | Rock | Vocaloid | Not Downloaded | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
+| 2026/04/20 | I Dont Know How but They Found Me | Razzmatazz | Rock | Indie | Not Downloaded | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
 
 <!-- | Date Added | Artist | Album | Genre | Subgenre | Status | Priority | Notes | -->
