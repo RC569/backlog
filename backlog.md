@@ -90,19 +90,20 @@
 | 2026/04/11 | TV Girl | Who Really Cares | Pop | Indie | Unplayed | Low |  |
 | 2026/04/11 | The Velvet Underground & Nico | The Velvet Underground & Nico | Rock | Garage/Experimental | Unplayed | Low |  |
 | 2026/04/18 | Aphex Twin | Windowlicker | Electronic | Electronica | Unplayed | High | |
-| 2026/04/20 | DJ Food | The Search Engine | Electronic, Hip-Hop |  | Not Downloaded | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
-| 2026/04/20 | HOME | Odyssey | Electronic | Synthwave, Ambient | Not Downloaded | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
-| 2026/04/20 | LemKuuja | CHEESECAKE+ | Electronic | Vaporwave | Not Downloaded | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
-| 2026/04/20 | The Misfits | Static Age | Rock | Punk | Not Downloaded | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
-| 2026/04/20 | Raggity Anne | Smells Like Fish | Rock | Punk | Not Downloaded | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
+| 2026/04/20 | DJ Food | The Search Engine | Electronic, Hip-Hop |  | Unplayed | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
+| 2026/04/20 | HOME | Odyssey | Electronic | Synthwave, Ambient | Unplayed | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
+| 2026/04/20 | LemKuuja | CHEESECAKE+ | Electronic | Vaporwave | Unplayed | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
+| 2026/04/20 | The Misfits | Static Age | Rock | Punk | Unplayed | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
 | 2026/04/20 | Style Of Eye & Magnus The Magnus | Antidote | Electronic | | Unplayed | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
-| 2026/04/20 | Machine Girl | WLFGRL | Electronic | Hardcore | Not Downloaded | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
-| 2026/04/20 | Justice | Cross | Electronic | Electro house | Not Downloaded | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
-| 2026/04/20 | REZNYCK | MUSCLE CARDIAC | Electronic | Synthwave | Not Downloaded | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
-| 2026/04/20 | Metronomy | The English Riviera | Electronic |  | Not Downloaded | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
-| 2026/04/20 | El Cuarteto De Nos | Raro | Rock |  | Not Downloaded | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
-| 2026/04/20 | Venetian Snares | Rossz Csillag Alatt Született | Electronic | Drill 'n' bass | Not Downloaded | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
-| 2026/04/20 | Wowaka | Unhappy Refrain | Rock | Vocaloid | Not Downloaded | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
-| 2026/04/20 | I Dont Know How but They Found Me | Razzmatazz | Rock | Indie | Not Downloaded | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
-
+| 2026/04/20 | Machine Girl | WLFGRL | Electronic | Hardcore | Unplayed | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
+| 2026/04/20 | Justice | Cross | Electronic | Electro house | Unplayed | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
+| 2026/04/20 | REZNYCK | MUSCLE CARDIAC | Electronic | Synthwave | Unplayed | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
+| 2026/04/20 | Metronomy | The English Riviera | Electronic |  | Unplayed | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
+| 2026/04/20 | El Cuarteto De Nos | Raro | Rock |  | Unplayed | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
+| 2026/04/20 | Venetian Snares | Rossz Csillag Alatt Született | Electronic | Drill 'n' bass | Unplayed | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
+| 2026/04/20 | Wowaka | Unhappy Refrain | Rock | Vocaloid | Unplayed | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
+| 2026/04/20 | I Dont Know How but They Found Me | Razzmatazz | Rock | Indie | Unplayed | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
+| 2026/04/25 | Clint Mansell | π – Music For The Motion Picture | Electronic |  | Unplayed | Low | Movie Soundtrack |
+| 2026/04/26 | nobonoko | Music For Animal Cafés | Electronic |  | Unplayed | Low |  |
+| 2026/04/26 | nobonoko | Strawberry+ | Electronic |  | Unplayed | Low |  |
 <!-- | Date Added | Artist | Album | Genre | Subgenre | Status | Priority | Notes | -->
