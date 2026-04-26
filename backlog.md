@@ -29,7 +29,7 @@
 | 2025/09/30 | Lil Wayne | Tha Cater III | Hip-Hop |  | Unplayed | Low |  |
 | 2025/09/30 | Lil Wayne | Tha Carter IV | Hip-Hop |  | Unplayed | Low |  |
 | 2025/10/25 | Edwin Birdsong | Edwin Birdsong | Funk/Soul |  | Unplayed | Low |  |
-| 2025/10/21 | Carpenter Brut | EP I | Synthwave | Dark Synth | Unplayed | Medium |  |
+| 2025/10/21 | Carpenter Brut | EP I | Electronic | Synthwave, Dark Synth | Unplayed | Medium |  |
 | 2026/03/09 | Wham! | Make It Big | Pop | 80s Pop | Unplayed | Low |  |
 | 2026/03/21 | Gris | Il Était Une Forêt | Metal | Black/Atmospheric | Unplayed | Low |  |
 | 2026/03/28 | System of a Down | Steal This Album! | Metal | Alternative | Unplayed | Low |  |
@@ -39,7 +39,7 @@
 | 2026/04/01 | The Roots | Do You Want More?!!!??! | Hip-Hop | Conscious | Unplayed | Low |  |
 | 2026/04/01 | JPEGMAFIA | Veteran | Hip-Hop | Experimental/Industrial | Unplayed | Low |  |
 | 2026/04/01 | clipping. | CLPPNG | Hip-Hop | Experimental/Noise | Relisten | Low |  |
-| 2026/04/01 | Scattle | Sketch | Synthwave | Dark Synth | Unplayed | Low |  |
+| 2026/04/01 | Scattle | Sketch | Electronic | Synthwave, Dark Synth | Unplayed | Low |  |
 | 2026/04/01 | Nirvana | In Utero | Rock | Grunge | Unplayed | Low |  |
 | 2026/04/01 | Neurosis | An Undying Love For A Burning World | Metal | Post-Metal/Sludge | Unplayed | Low |  |
 | 2026/04/01 | ねりねり | おつまみ | Vocaloid |  | Unplayed | Low |  |
@@ -90,4 +90,18 @@
 | 2026/04/11 | TV Girl | Who Really Cares | Pop | Indie | Unplayed | Low |  |
 | 2026/04/11 | The Velvet Underground & Nico | The Velvet Underground & Nico | Rock | Garage/Experimental | Unplayed | Low |  |
 | 2026/04/18 | Aphex Twin | Windowlicker | Electronic | Electronica | Unplayed | High | |
+| 2026/04/20 | DJ Food | The Search Engine | Electronic, Hip-Hop |  | Not Downloaded | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
+| 2026/04/20 | HOME | Odyssey | Electronic | Synthwave, Ambient | Not Downloaded | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
+| 2026/04/20 | LemKuuja | CHEESECAKE+ | Electronic | Vaporwave | Not Downloaded | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
+| 2026/04/20 | The Misfits | Static Age | Rock | Punk | Not Downloaded | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
+| 2026/04/20 | Raggity Anne | Smells Like Fish | Rock | Punk | Not Downloaded | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
+| 2026/04/20 | Style Of Eye & Magnus The Magnus | Antidote | Electronic | | Unplayed | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
+| 2026/04/20 | Machine Girl | WLFGRL | Electronic | Hardcore | Not Downloaded | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
+| 2026/04/20 | Justice | Cross | Electronic | Electro house | Not Downloaded | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
+| 2026/04/20 | REZNYCK | MUSCLE CARDIAC | Electronic | Synthwave | Not Downloaded | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
+| 2026/04/20 | Artist | Album | Genre | Subgenre | Not Downloaded | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
+| 2026/04/20 | Artist | Album | Genre | Subgenre | Not Downloaded | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
+| 2026/04/20 | Artist | Album | Genre | Subgenre | Not Downloaded | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
+| 2026/04/20 | Artist | Album | Genre | Subgenre | Not Downloaded | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
+
 <!-- | Date Added | Artist | Album | Genre | Subgenre | Status | Priority | Notes | -->
