@@ -105,4 +105,5 @@
 | 2026/04/25 | Clint Mansell | π – Music For The Motion Picture | Electronic |  | Unplayed | Low | Movie Soundtrack |
 | 2026/04/26 | nobonoko | Music For Animal Cafés | Electronic |  | Unplayed | Low |  |
 | 2026/04/26 | nobonoko | Strawberry+ | Electronic |  | Unplayed | Low |  |
+| 2026/04/26 | Death Grips | Jenny Death | Electronic | Experimental | Unplayed | High |  |
 <!-- | Date Added | Artist | Album | Genre | Subgenre | Status | Priority | Notes | -->
