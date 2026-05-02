@@ -38,7 +38,6 @@
 | 2026/04/01 | Nujabes | Modal Soul | Hip-Hop | Jazz Rap/Instrumental | Unplayed | Low |  |
 | 2026/04/01 | The Roots | Do You Want More?!!!??! | Hip-Hop | Conscious | Unplayed | Low |  |
 | 2026/04/01 | JPEGMAFIA | Veteran | Hip-Hop | Experimental/Industrial | Unplayed | Low |  |
-| 2026/04/01 | clipping. | CLPPNG | Hip-Hop | Experimental/Noise | Relisten | Low |  |
 | 2026/04/01 | Scattle | Sketch | Electronic | Synthwave, Dark Synth | Unplayed | Low |  |
 | 2026/04/01 | Nirvana | In Utero | Rock | Grunge | Unplayed | Low |  |
 | 2026/04/01 | Neurosis | An Undying Love For A Burning World | Metal | Post-Metal/Sludge | Unplayed | Low |  |
@@ -73,7 +72,7 @@
 | 2026/04/03 | Flying Lotus | Ideas+drafts+loops | Hip-Hop | Jazz Rap/Experimental | Unplayed | Low |  |
 | 2026/04/04 | Animal Collective | Merriweather Post Pavilion | Pop | Experimental/Indie | Unplayed | Low |  |
 | 2026/04/04 | Bring Me The Horizon | That's The Spirit | Rock | Alternative | Unplayed | Low |  |
-| 2026/04/04 | Squarepusher | Feed Me Weird Things | Electronic | Drill n bass | Unplayed | Low |  |
+| 2026/04/04 | Squarepusher | Feed Me Weird Things | Electronic | Drill n bass | Relisten | Low |  |
 | 2026/04/06 | Freddie Gibbs | Piñata | Hip-Hop | Gangster Rap | Unplayed | Low |  |
 | 2026/04/07 | DJ Close Your Eyes to Find Me | Angel Trance Edits Volume One | Electronic | Progressive Breaks | Unplayed | Low |  |
 | 2026/04/07 | DJ Close Your Eyes to Find Me | Angel Trance Edits Volume Two | Electronic | Progressive Breaks | Unplayed | Low |  |
