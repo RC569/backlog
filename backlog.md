@@ -83,7 +83,6 @@
 | 2026/04/07 | Erykah Badu | Baduizm | R&B | Neo-Soul | Unplayed | Low |  |
 | 2026/04/07 | Brian Eno | Ambient 1: Music For Airports | Ambient |  | Unplayed | Low |  |
 | 2026/04/07 | ミドリ | あらためまして、はじめまして、ミドリです。 | Punk | Art Punk, Jazz Rock | Unplayed | Low |  |
-| 2026/04/07 | Death Grips | Niggas on the moon | Electronic | Experimental | Relisten | Low |  |
 | 2026/04/07 | Yayayi | Yayayi | Hip-Hop | Experimental | Unplayed | Low |  |
 | 2026/04/08 | J Dilla | The Official Jay Dee Instrumental Series Vol. 1: Unreleased | Hip-Hop | Instrumental | Unplayed | Low |  |
 | 2026/04/08 | J Dilla | The Official Jay Dee Instrumental Series Vol.2: Vintage | Hip-Hop | Instrumental | Unplayed | Low |  |
@@ -105,5 +104,4 @@
 | 2026/04/25 | Clint Mansell | π – Music For The Motion Picture | Electronic |  | Unplayed | Low | Movie Soundtrack |
 | 2026/04/26 | nobonoko | Music For Animal Cafés | Electronic |  | Unplayed | Low |  |
 | 2026/04/26 | nobonoko | Strawberry+ | Electronic |  | Unplayed | Low |  |
-| 2026/04/26 | Death Grips | Jenny Death | Electronic | Experimental | Unplayed | High |  |
 <!-- | Date Added | Artist | Album | Genre | Subgenre | Status | Priority | Notes | -->
