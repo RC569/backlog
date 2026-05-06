@@ -72,7 +72,6 @@
 | 2026/04/03 | Flying Lotus | Ideas+drafts+loops | Hip-Hop | Jazz Rap/Experimental | Unplayed | Low |  |
 | 2026/04/04 | Animal Collective | Merriweather Post Pavilion | Pop | Experimental/Indie | Unplayed | Low |  |
 | 2026/04/04 | Bring Me The Horizon | That's The Spirit | Rock | Alternative | Unplayed | Low |  |
-| 2026/04/04 | Squarepusher | Feed Me Weird Things | Electronic | Drill n bass | Relisten | Low |  |
 | 2026/04/06 | Freddie Gibbs | Piñata | Hip-Hop | Gangster Rap | Unplayed | Low |  |
 | 2026/04/07 | DJ Close Your Eyes to Find Me | Angel Trance Edits Volume One | Electronic | Progressive Breaks | Unplayed | Low |  |
 | 2026/04/07 | DJ Close Your Eyes to Find Me | Angel Trance Edits Volume Two | Electronic | Progressive Breaks | Unplayed | Low |  |
@@ -103,4 +102,6 @@
 | 2026/04/25 | Clint Mansell | π – Music For The Motion Picture | Electronic |  | Unplayed | Low | Movie Soundtrack |
 | 2026/04/26 | nobonoko | Music For Animal Cafés | Electronic |  | Unplayed | Low |  |
 | 2026/04/26 | nobonoko | Strawberry+ | Electronic |  | Unplayed | Low |  |
+| 2026/05/06 | Oneohtrix Point Never | R Plus Seven | Electronic | Vapor, Ambient | Unplayed | Low |  |
+| 2026/05/06 | Sweet Trip  | Velocity : Design : Comfort | Pop | Glitch | Unplayed | Low |  |
 <!-- | Date Added | Artist | Album | Genre | Subgenre | Status | Priority | Notes | -->
