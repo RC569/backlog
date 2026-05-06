@@ -104,4 +104,5 @@
 | 2026/04/26 | nobonoko | Strawberry+ | Electronic |  | Unplayed | Low |  |
 | 2026/05/06 | Oneohtrix Point Never | R Plus Seven | Electronic | Vapor, Ambient | Unplayed | Low |  |
 | 2026/05/06 | Sweet Trip  | Velocity : Design : Comfort | Pop | Glitch | Unplayed | Low |  |
+| 2026/05/06 | Car Seat Headrest | Twin Fantasy | Rock | Slacker | Unplayed | Low |  |
 <!-- | Date Added | Artist | Album | Genre | Subgenre | Status | Priority | Notes | -->
