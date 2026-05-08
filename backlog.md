@@ -105,4 +105,6 @@
 | 2026/05/06 | Oneohtrix Point Never | R Plus Seven | Electronic | Vapor, Ambient | Unplayed | Low |  |
 | 2026/05/06 | Sweet Trip  | Velocity : Design : Comfort | Pop | Glitch | Unplayed | Low |  |
 | 2026/05/06 | Car Seat Headrest | Twin Fantasy | Rock | Slacker | Unplayed | Low |  |
+| 2026/05/07 | Makoto | Believe in My Soul | Electronic | Drum n Bass | Unplayed | Low |  |
+| 2026/05/07 | Peshay | Studio Set (1996) | Electronic | Drum n Bass | Unplayed | Low | DJ Mix |
 <!-- | Date Added | Artist | Album | Genre | Subgenre | Status | Priority | Notes | -->
