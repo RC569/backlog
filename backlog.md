@@ -112,5 +112,6 @@
 | 2026/05/08 | Deltron 3030 | Deltron 3030 | Hip-Hop | Abstract, Experimental | Unplayed | Low |  |
 | 2026/05/08 | Portishead | Dummy | Hip-Hop | Trip Hop | Unplayed | Low |  |
 | 2026/05/08 | Venetian Snares | Songs About My Cats | Electronic | Breakcore, IDM | Unplayed | Low |  |
-| 2026/05/08 | Terminal 11  | Illegal Nervous Habits | Electronic | Breakcore, Drill n Bass | Unplayed | Low |  |
+| 2026/05/08 | Terminal 11 | Illegal Nervous Habits | Electronic | Breakcore, Drill n Bass | Unplayed | Low |  |
+| 2026/05/09 | bugcat | intitle:”Toshiba Network Camera” user login | Electronic |  | Unplayed | Low | Fucked up my YouTube search, into the backlog you go. [v](https://www.youtube.com/watch?v=_NnG2253XcY) |
 <!-- | Date Added | Artist | Album | Genre | Subgenre | Status | Priority | Notes | -->
