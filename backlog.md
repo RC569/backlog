@@ -114,4 +114,6 @@
 | 2026/05/08 | Venetian Snares | Songs About My Cats | Electronic | Breakcore, IDM | Unplayed | Low |  |
 | 2026/05/08 | Terminal 11 | Illegal Nervous Habits | Electronic | Breakcore, Drill n Bass | Unplayed | Low |  |
 | 2026/05/09 | bugcat | intitle:”Toshiba Network Camera” user login | Electronic |  | Unplayed | Low | Fucked up my YouTube search, into the backlog you go. [v](https://www.youtube.com/watch?v=_NnG2253XcY) |
+| 2026/05/09 | 吉村弘 | Wet Land | Ambient |  | Unplayed | Low | intitle:"full album" |
+| 2026/05/09 | MASS OF THE FERMENTING DREGS | ワールドイズユアーズ [World Is Yours] | Rock | Japanese | Unplayed | Low | intitle:"full album" |
 <!-- | Date Added | Artist | Album | Genre | Subgenre | Status | Priority | Notes | -->
