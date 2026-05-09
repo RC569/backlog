@@ -107,10 +107,10 @@
 | 2026/05/06 | Car Seat Headrest | Twin Fantasy | Rock | Slacker | Unplayed | Low |  |
 | 2026/05/07 | Makoto | Believe in My Soul | Electronic | Drum n Bass | Unplayed | Low |  |
 | 2026/05/07 | Peshay | Studio Set (1996) | Electronic | Drum n Bass | Unplayed | Low | DJ Mix |
-| 2026/05/08 | El-P | Fantastic Damage | Hip Hop | Experimental | Unplayed | Low |  |
+| 2026/05/08 | El-P | Fantastic Damage | Hip-Hop | Experimental | Unplayed | Low |  |
 | 2026/05/08 | Boards of Canada | Geogaddi | Electronic | IDM | Unplayed | Low |  |
-| 2026/05/08 | Deltron 3030 | Deltron 3030 | Hip Hop | Abstract, Experimental | Unplayed | Low |  |
-| 2026/05/08 | Portishead | Dummy | Hip Hop | Trip Hop | Unplayed | Low |  |
+| 2026/05/08 | Deltron 3030 | Deltron 3030 | Hip-Hop | Abstract, Experimental | Unplayed | Low |  |
+| 2026/05/08 | Portishead | Dummy | Hip-Hop | Trip Hop | Unplayed | Low |  |
 | 2026/05/08 | Venetian Snares | Songs About My Cats | Electronic | Breakcore, IDM | Unplayed | Low |  |
 | 2026/05/08 | Terminal 11  | Illegal Nervous Habits | Electronic | Breakcore, Drill n Bass | Unplayed | Low |  |
 <!-- | Date Added | Artist | Album | Genre | Subgenre | Status | Priority | Notes | -->
