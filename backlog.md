@@ -9,9 +9,9 @@
 | Date Added | Artist | Album | Length | Genre | Subgenre | Status | Priority | Notes |
 |---|---|---|---|---|---|---|---|---|
 | 2025/06/25 | Madlib The Beat Konducta | Vol. 1-2: Movie Scenes |  | Hip-Hop | Jazz | Unplayed | Low |  |
-| 2025/07/19 | BELL WITCH | Stygian Bough Volume I |  | Metal | Doom, Funeral | Unplayed | Low |  |
+| 2025/07/19 | BELL WITCH | Stygian Bough Volume I | 01:04:19 | Metal | Doom, Funeral | Unplayed | Low |  |
 | 2025/07/22 | Black Sabbath | Sabotage |  | Metal | Classic | Unplayed | Low |  |
-| 2025/07/22 | Black Sabbath | Sabbath Bloody Sabbath |  | Metal | Classic | Unplayed | Low |  |
+| 2025/07/22 | Black Sabbath | Sabbath Bloody Sabbath | 00:42:29 | Metal | Classic | Unplayed | Low |  |
 | 2025/07/30 | Deftones | Deftones |  | Metal | Alternative, Nu-Metal | Unplayed | Low |  |
 | 2025/07/30 | Deftones | Saturday Night Wrist |  | Metal | Alternative, Nu-Metal | Unplayed | Low |  |
 | 2025/08/17 | Big L | The Big Picture |  | Hip-Hop |  | Unplayed | Low |  |
@@ -29,14 +29,14 @@
 | 2025/09/30 | Lil Wayne | Tha Cater III |  | Hip-Hop |  | Unplayed | Low |  |
 | 2025/09/30 | Lil Wayne | Tha Carter IV |  | Hip-Hop |  | Unplayed | Low |  |
 | 2025/10/25 | Edwin Birdsong | Edwin Birdsong |  | Funk, Soul |  | Unplayed | Low |  |
-| 2025/10/21 | Carpenter Brut | EP I |  | Electronic | Synthwave, Dark Synth | Unplayed | Medium |  |
+| 2025/10/21 | Carpenter Brut | EP I | 00:28:59 | Electronic | Synthwave, Dark Synth | Unplayed | Medium |  |
 | 2026/03/09 | Wham! | Make It Big |  | Pop | 80s Pop | Unplayed | Low |  |
-| 2026/03/21 | Gris | Il Était Une Forêt |  | Metal | Black, Atmospheric | Unplayed | Low |  |
+| 2026/03/21 | Gris | Il Était Une Forêt | 00:59:32 | Metal | Black, Atmospheric | Unplayed | Low |  |
 | 2026/03/28 | System of a Down | Steal This Album! |  | Metal | Alternative | Unplayed | Low |  |
-| 2026/03/29 | Pendulum | Immersion |  | Electronic | Industrial Rock, Drum n bass | Unplayed | Low |  |
+| 2026/03/29 | Pendulum | Immersion | 01:07:23 | Electronic | Industrial Rock, Drum n bass | Unplayed | Low |  |
 | 2026/04/01 | Nujabes | Metaphorical Music |  | Hip-Hop | Jazz Rap, Instrumental | Unplayed | Low |  |
-| 2026/04/01 | Nujabes | Modal Soul |  | Hip-Hop | Jazz Rap, Instrumental | Unplayed | Low |  |
-| 2026/04/01 | The Roots | Do You Want More?!!!??! |  | Hip-Hop | Conscious | Unplayed | Low |  |
+| 2026/04/01 | Nujabes | Modal Soul | 01:03:35 | Hip-Hop | Jazz Rap, Instrumental | Unplayed | Low |  |
+| 2026/04/01 | The Roots | Do You Want More?!!!??! | 01:13:51 | Hip-Hop | Conscious | Unplayed | Low |  |
 | 2026/04/01 | JPEGMAFIA | Veteran |  | Hip-Hop | Experimental, Industrial | Unplayed | Low |  |
 | 2026/04/01 | Scattle | Sketch |  | Electronic | Synthwave, Dark Synth | Unplayed | Low |  |
 | 2026/04/01 | Nirvana | In Utero |  | Rock | Grunge | Unplayed | Low |  |
@@ -66,7 +66,7 @@
 | 2026/04/02 | Troye Sivan | Blue Neighbourhood |  | Pop | Electropop, Indie | Unplayed | Low | Recommended by friend |
 | 2026/04/02 | Aphex Twin | Drukqs |  | Electronic | Experimental, IDM | Unplayed | Low | Recommended by friend |
 | 2026/04/02 | siinamota | Therefor. |  |  |  | Unplayed | Low | Recommended by friend |
-| 2026/04/03 | Flying Lotus | 1983 |  | Hip-Hop | Jazz Rap, Instrumental | Unplayed | Low |  |
+| 2026/04/03 | Flying Lotus | 1983 | 00:33:57 | Hip-Hop | Jazz Rap, Instrumental | Unplayed | Low |  |
 | 2026/04/03 | Flying Lotus | Los Angeles |  | Hip-Hop | Jazz Rap, Experimental | Unplayed | Low |  |
 | 2026/04/03 | Flying Lotus | Until the Quiet Comes |  | Hip-Hop | Jazz Rap, Experimental | Unplayed | Low |  |
 | 2026/04/03 | Flying Lotus | Ideas+drafts+loops |  | Hip-Hop | Jazz Rap, Experimental | Unplayed | Low |  |
@@ -82,14 +82,16 @@
 | 2026/04/07 | Brian Eno | Ambient 1: Music For Airports |  | Ambient |  | Unplayed | Low |  |
 | 2026/04/07 | ミドリ | あらためまして、はじめまして、ミドリです。 |  | Punk | Art Punk, Jazz Rock | Unplayed | Low |  |
 | 2026/04/07 | Yayayi | Yayayi |  | Hip-Hop | Experimental | Unplayed | Low |  |
+| 2026/04/07 | Black Flag | Damaged | 00:35:03 | Rock | Hardcore punk | Unplayed | Low |  |
 | 2026/04/08 | J Dilla | The Official Jay Dee Instrumental Series Vol. 1: Unreleased |  | Hip-Hop | Instrumental | Unplayed | Low |  |
 | 2026/04/08 | J Dilla | The Official Jay Dee Instrumental Series Vol.2: Vintage |  | Hip-Hop | Instrumental | Unplayed | Low |  |
 | 2026/04/11 | TV Girl | Who Really Cares |  | Pop | Indie | Unplayed | Low |  |
 | 2026/04/11 | The Velvet Underground & Nico | The Velvet Underground & Nico |  | Rock | Garage, Experimental | Unplayed | Low |  |
-| 2026/04/20 | DJ Food | The Search Engine |  | Electronic, Hip-Hop |  | Unplayed | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
+| 2026/04/18 | Slipknot | Iowa | 01:06:25 | Metal | Nu-Metal | Unplayed | Low |  |
+| 2026/04/20 | DJ Food | The Search Engine | 00:55:29 | Electronic, Hip-Hop |  | Unplayed | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
 | 2026/04/20 | HOME | Odyssey |  | Electronic | Synthwave, Ambient | Unplayed | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
 | 2026/04/20 | LemKuuja | CHEESECAKE+ |  | Electronic | Vaporwave | Unplayed | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
-| 2026/04/20 | The Misfits | Static Age |  | Rock | Punk | Unplayed | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
+| 2026/04/20 | The Misfits | Static Age | 00:35:04 | Rock | Punk | Unplayed | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
 | 2026/04/20 | Style Of Eye & Magnus The Magnus | Antidote |  | Electronic |  | Unplayed | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
 | 2026/04/20 | Machine Girl | WLFGRL |  | Electronic | Hardcore | Unplayed | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
 | 2026/04/20 | Justice | Cross |  | Electronic | Electro house | Unplayed | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
@@ -102,16 +104,16 @@
 | 2026/04/25 | Clint Mansell | π – Music For The Motion Picture |  | Electronic |  | Unplayed | Low | Movie Soundtrack |
 | 2026/04/26 | nobonoko | Music For Animal Cafés |  | Electronic |  | Unplayed | Low |  |
 | 2026/04/26 | nobonoko | Strawberry+ |  | Electronic |  | Unplayed | Low |  |
-| 2026/05/06 | Oneohtrix Point Never | R Plus Seven |  | Electronic | Vapor, Ambient | Unplayed | Low |  |
+| 2026/05/06 | Oneohtrix Point Never | R Plus Seven | 00:43:01 | Electronic | Vapor, Ambient | Unplayed | Low |  |
 | 2026/05/06 | Sweet Trip | Velocity : Design : Comfort |  | Pop | Glitch | Unplayed | Low |  |
 | 2026/05/06 | Car Seat Headrest | Twin Fantasy |  | Rock | Slacker | Unplayed | Low |  |
 | 2026/05/07 | Makoto | Believe in My Soul |  | Electronic | Drum n Bass | Unplayed | Low |  |
 | 2026/05/07 | Peshay | Studio Set (1996) |  | Electronic | Drum n Bass | Unplayed | Low | DJ Mix |
-| 2026/05/08 | El-P | Fantastic Damage |  | Hip-Hop | Experimental | Unplayed | Low |  |
+| 2026/05/08 | El-P | Fantastic Damage | 01:10:25 | Hip-Hop | Experimental | Unplayed | Low |  |
 | 2026/05/08 | Boards of Canada | Geogaddi |  | Electronic | IDM | Unplayed | Low |  |
 | 2026/05/08 | Deltron 3030 | Deltron 3030 |  | Hip-Hop | Abstract, Experimental | Unplayed | Low |  |
 | 2026/05/08 | Portishead | Dummy |  | Hip-Hop | Trip Hop | Unplayed | Low |  |
-| 2026/05/08 | Venetian Snares | Songs About My Cats |  | Electronic | Breakcore, IDM | Unplayed | Low |  |
+| 2026/05/08 | Venetian Snares | Songs About My Cats | 00:46:38 | Electronic | Breakcore, IDM | Unplayed | Low |  |
 | 2026/05/08 | Terminal 11 | Illegal Nervous Habits |  | Electronic | Breakcore, Drill n Bass | Unplayed | Low |  |
 | 2026/05/09 | bugcat | intitle:”Toshiba Network Camera” user login |  | Electronic |  | Unplayed | Low | Fucked up my YouTube search, into the backlog you go. [v](https://www.youtube.com/watch?v=_NnG2253XcY) |
 | 2026/05/09 | 吉村弘 | Wet Land |  | Ambient |  | Unplayed | Low | intitle:"full album" |
