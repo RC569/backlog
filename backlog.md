@@ -111,4 +111,6 @@
 | 2026/05/08 | Boards of Canada | Geogaddi | Electronic | IDM | Unplayed | Low |  |
 | 2026/05/08 | Deltron 3030 | Deltron 3030 | Hip Hop | Abstract, Experimental | Unplayed | Low |  |
 | 2026/05/08 | Portishead | Dummy | Hip Hop | Trip Hop | Unplayed | Low |  |
+| 2026/05/08 | Venetian Snares | Songs About My Cats | Electronic | Breakcore, IDM | Unplayed | Low |  |
+| 2026/05/08 | Terminal 11  | Illegal Nervous Habits | Electronic | Breakcore, Drill n Bass | Unplayed | Low |  |
 <!-- | Date Added | Artist | Album | Genre | Subgenre | Status | Priority | Notes | -->
