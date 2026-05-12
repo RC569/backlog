@@ -10,8 +10,8 @@
 |---|---|---|---|---|---|---|---|---|
 | 2025/06/25 | Madlib The Beat Konducta | Vol. 1-2: Movie Scenes | 00:59:33 | Hip-Hop | Jazz | Unplayed | Low |  |
 | 2025/07/19 | BELL WITCH | Stygian Bough Volume I | 01:04:19 | Metal | Doom, Funeral | Unplayed | Low |  |
-| 2025/07/22 | Black Sabbath | Sabotage | 00:43:37 | Metal | Classic | Unplayed | Low |  |
-| 2025/07/22 | Black Sabbath | Sabbath Bloody Sabbath | 00:42:29 | Metal | Classic | Unplayed | Low |  |
+| 2025/07/22 | Black Sabbath | Sabotage | 00:43:37 | Metal |  | Unplayed | Low |  |
+| 2025/07/22 | Black Sabbath | Sabbath Bloody Sabbath | 00:42:29 | Metal |  | Unplayed | Low |  |
 | 2025/07/30 | Deftones | Deftones | 00:47:12 | Metal | Alternative, Nu-Metal | Unplayed | Low |  |
 | 2025/07/30 | Deftones | Saturday Night Wrist | 00:56:28 | Metal | Alternative, Nu-Metal | Unplayed | Low |  |
 | 2025/08/17 | Big L | The Big Picture | 00:55:29 | Hip-Hop |  | Unplayed | Low |  |
