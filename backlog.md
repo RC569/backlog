@@ -118,7 +118,7 @@
 | 2026/05/08 | Portishead | Dummy | 00:49:15 | Hip-Hop | Trip Hop | Unplayed | Low |  |
 | 2026/05/08 | Venetian Snares | Songs About My Cats | 00:46:38 | Electronic | Breakcore, IDM | Unplayed | Low |  |
 | 2026/05/08 | Terminal 11 | Illegal Nervous Habits | 00:35:12 | Electronic | Breakcore, Drill n Bass | Unplayed | Low |  |
-| 2026/05/09 | bugcat | intitle:”Toshiba Network Camera” user login | 00:17:03 | Electronic |  | Unplayed | Low | Fucked up my YouTube search, into the backlog you go. [v](https://www.youtube.com/watch?v=_NnG2253XcY) |
+| 2026/05/09 | bugcat | intitle:”Toshiba Network Camera” user login | 00:17:03 | Electronic |  | Unplayed | Low | Messed up my YouTube search [v](https://www.youtube.com/watch?v=_NnG2253XcY) |
 | 2026/05/09 | 吉村弘 | Wet Land | 00:38:05 | Ambient |  | Unplayed | Low | intitle:"full album" |
 | 2026/05/09 | MASS OF THE FERMENTING DREGS | ワールドイズユアーズ [World Is Yours] | 00:22:14 | Rock | Japanese | Unplayed | Low | intitle:"full album" |
 
