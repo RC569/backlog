@@ -122,8 +122,8 @@
 | 2026/05/09 | 吉村弘 | Wet Land | 00:38:05 | Ambient |  | Unplayed | Low | intitle:"full album" |
 | 2026/05/09 | MASS OF THE FERMENTING DREGS | ワールドイズユアーズ [World Is Yours] | 00:22:14 | Rock | Japanese | Unplayed | Low | intitle:"full album" |
 | 2026/05/14 | Various | Los Angeles: Critical Mass | 00:53:26 | Electronic | Drum n Bass, Downtempo, Future Jazz, Trip Hop | Unplayed | Low | [YT Recommendation](https://www.youtube.com/watch?v=Qbwm5Kguksw), compilation |
-| 2026/05/14 | femtanyl | CHASER | Electronic | Digital hardcore | Unplayed | Low |  |
-| 2026/05/14 | femtanyl | REACTOR | Electronic | Digital hardcore | Unplayed | Low |  |
-| 2026/05/14 | femtanyl | MAN BITES DOG | Electronic | Digital hardcore | Unplayed | Low |  |
+| 2026/05/14 | femtanyl | CHASER | | Electronic | Digital hardcore | Unplayed | Low |  |
+| 2026/05/14 | femtanyl | REACTOR | | Electronic | Digital hardcore | Unplayed | Low |  |
+| 2026/05/14 | femtanyl | MAN BITES DOG | | Electronic | Digital hardcore | Unplayed | Low |  |
 
 <!-- | Date Added | Artist | Album | Genre | Subgenre | Status | Priority | Notes | -->
