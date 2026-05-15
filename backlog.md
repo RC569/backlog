@@ -126,6 +126,6 @@
 | 2026/05/14 | femtanyl | REACTOR | 00:13:41 | Electronic | Digital hardcore | Unplayed | Low |  |
 | 2026/05/14 | femtanyl | MAN BITES DOG | 00:32:04 | Electronic | Digital hardcore | Unplayed | Low |  |
 | 2026/05/15 | Chuck Person | Chuck Person's Eccojams Vol. 1 | 00:52:07 | Electronic | Vaporwave | Unplayed | Low |  |
-| 2026/05/15 | Steve Brenner | Signals | 00:37:54 | Electronic |  | Unplayed | Low | [YT Recommendation](https://www.youtube.com/watch?v=pP4Cct_1di8) |
+| 2026/05/15 | Steve Brenner | Signals | 00:37:54 | Electronic | Ambient | Unplayed | Low | [YT Recommendation](https://www.youtube.com/watch?v=pP4Cct_1di8) |
 
 <!-- | Date Added | Artist | Album | Length | Genre | Subgenre | Status | Priority | Notes | -->
