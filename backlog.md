@@ -14,7 +14,7 @@
 | 2025/07/22 | Black Sabbath | Sabbath Bloody Sabbath | 00:42:29 | Metal |  | Unplayed | Low |  |
 | 2025/07/30 | Deftones | Deftones | 00:47:12 | Metal | Alternative, Nu-Metal | Unplayed | Low |  |
 | 2025/07/30 | Deftones | Saturday Night Wrist | 00:56:28 | Metal | Alternative, Nu-Metal | Unplayed | Low |  |
-| 2025/08/17 | Big L | The Big Picture | 00:55:29 | Hip-Hop |  | Unplayed | Low |  |
+| 2025/08/17 | Big L | The Big Picture | 00:55:29 | Hip-Hop |  | Unplayed | Medium |  |
 | 2025/08/20 | X Japan | Vanishing Vision | 00:42:07 | Metal |  | Unplayed | Low |  |
 | 2025/08/20 | X Japan | BLUE BLOOD | 01:05:16 | Metal |  | Unplayed | Low |  |
 | 2025/08/20 | X Japan | Jealousy | 00:50:21 | Metal |  | Unplayed | Low |  |
@@ -92,10 +92,10 @@
 | 2026/04/18 | Slipknot | Iowa | 01:06:25 | Metal | Nu-Metal | Unplayed | Low |  |
 | 2026/04/20 | DJ Food | The Search Engine | 00:55:29 | Electronic, Hip-Hop |  | Unplayed | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
 | 2026/04/20 | HOME | Odyssey | 00:47:47 | Electronic | Synthwave, Ambient | Unplayed | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
-| 2026/04/20 | LemKuuja | CHEESECAKE+ | 01:03:17 | Electronic | Vaporwave | Unplayed | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
+| 2026/04/20 | LemKuuja | CHEESECAKE+ | 01:03:17 | Electronic | Vaporwave | Unplayed | Medium | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
 | 2026/04/20 | The Misfits | Static Age | 00:35:04 | Rock | Punk | Unplayed | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
 | 2026/04/20 | Style Of Eye & Magnus The Magnus | Antidote | 00:06:30 | Electronic |  | Unplayed | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
-| 2026/04/20 | Machine Girl | WLFGRL | 00:57:38 | Electronic | Hardcore | Unplayed | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
+| 2026/04/20 | Machine Girl | WLFGRL | 00:57:38 | Electronic | Hardcore | Unplayed | High | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
 | 2026/04/20 | Justice | Cross | 01:02:47 | Electronic | Electro house | Unplayed | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
 | 2026/04/20 | REZNYCK | MUSCLE CARDIAC | 00:41:46 | Electronic | Synthwave | Unplayed | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
 | 2026/04/20 | Metronomy | The English Riviera | 00:45:06 | Electronic |  | Unplayed | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
@@ -119,7 +119,7 @@
 | 2026/05/08 | Venetian Snares | Songs About My Cats | 00:46:38 | Electronic | Breakcore, IDM | Unplayed | Low |  |
 | 2026/05/08 | Terminal 11 | Illegal Nervous Habits | 00:35:12 | Electronic | Breakcore, Drill n Bass | Unplayed | Low |  |
 | 2026/05/09 | bugcat | intitle:”Toshiba Network Camera” user login | 00:17:03 | Electronic |  | Unplayed | Low | Messed up my YouTube search [v](https://www.youtube.com/watch?v=_NnG2253XcY) |
-| 2026/05/09 | 吉村弘 | Wet Land | 00:38:05 | Ambient |  | Unplayed | Low | intitle:"full album" |
+| 2026/05/09 | 吉村弘 | Wet Land | 00:38:05 | Ambient |  | Unplayed | High | intitle:"full album" |
 | 2026/05/09 | MASS OF THE FERMENTING DREGS | ワールドイズユアーズ [World Is Yours] | 00:22:14 | Rock | Japanese | Unplayed | Low | intitle:"full album" |
 | 2026/05/14 | Various | Los Angeles: Critical Mass | 00:53:26 | Electronic | Drum n Bass, Downtempo, Future Jazz, Trip Hop | Unplayed | Low | [YT Recommendation](https://www.youtube.com/watch?v=Qbwm5Kguksw), compilation |
 | 2026/05/14 | femtanyl | CHASER | 00:13:44 | Electronic | Digital hardcore | Unplayed | Low |  |
