@@ -127,6 +127,6 @@
 | 2026/05/14 | femtanyl | MAN BITES DOG | 00:32:04 | Electronic | Digital hardcore | Unplayed | Low |  |
 | 2026/05/15 | Chuck Person | Chuck Person's Eccojams Vol. 1 | 00:52:07 | Electronic | Vaporwave | Unplayed | Low |  |
 | 2026/05/15 | Steve Brenner | Signals | 00:37:54 | Electronic | Ambient | Unplayed | Low | [YT Recommendation](https://www.youtube.com/watch?v=pP4Cct_1di8) |
-| 2026/05/15 | METAROOM | SINGLES COLLECTION |  | Electronic | Glitchcore | Unplayed | Low |  |
-| 2026/05/17 | Burzum | Filosofem |  | Metal | Black Metal, Atmospheric | Unplayed | High | [Solomon Henderson here](https://files.catbox.moe/rhe7ze.jpg) |
+| 2026/05/15 | METAROOM | SINGLES COLLECTION | 01:02:06 | Electronic | Glitchcore | Unplayed | Low |  |
+| 2026/05/17 | Burzum | Filosofem | 01:04:34 | Metal | Black Metal, Atmospheric | Unplayed | High | [Solomon Henderson here](https://files.catbox.moe/rhe7ze.jpg) |
 <!-- | Date Added | Artist | Album | Length | Genre | Subgenre | Status | Priority | Notes | -->
