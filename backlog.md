@@ -132,4 +132,11 @@
 | 2026/06/03 | corru.works | OST::'corru.observer';'VOL 3.5' | 00:12:51 | Ambient |  | Unplayed | Low | in /OSTs |
 | 2026/06/03 | corru.works | OST::'corru.observer';'VOL 4'\_\_SIDE A | 00:27:13 | Ambient |  | Unplayed | Low | in /OSTs |
 | 2026/06/03 | NoisyRejects | OST::'corru.observer';'VOL 4'\_\_SIDE B | 00:14:17 | Ambient |  | Unplayed | Low | in /OSTs, total length for whole OST: 02:03:33 |
+| 2026/06/05 | Cocteau Twins | Heaven or Las Vegas | 00:37:42 | Pop | Dream Pop | Unplayed | Low | Recommended by friend |
+| 2026/06/05 | My Bloody Valentine | Loveless | 00:48:35 | Pop | Shoegaze, Noise Pop, Dream Pop | Unplayed | Low | Recommended by friend |
+| 2026/06/05 | Tyler, The Creator | Wolf | 01:10:51 | Hip-Hop |  | Unplayed | Low | in /Main |
+| 2026/06/05 | Tyler, The Creator | Flower Boy | 00:46:39 | Hip-Hop |  | Unplayed | Low | in /Main |
+| 2026/06/05 | Tyler, The Creator | IGOR | 00:39:46 | Hip-Hop |  | Unplayed | Low | in /Main |
+| 2026/06/05 | Tyler, The Creator | CALL ME IF YOU GET LOST | 01:17:01 | Hip-Hop |  | Unplayed | Low | in /Main |
+| 2026/06/05 | Artist | Atrocity Exhibition | 00:46:38 | Hip-Hop |  | Unplayed | Low |  |
 <!-- | Date Added | Artist | Album | Length | Genre | Subgenre | Status | Priority | Notes | -->
