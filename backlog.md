@@ -126,7 +126,6 @@
 | 2026/05/15 | Steve Brenner | Signals | 00:37:54 | Electronic | Ambient | Unplayed | Low | [YT Recommendation](https://www.youtube.com/watch?v=pP4Cct_1di8) |
 | 2026/05/15 | METAROOM | SINGLES COLLECTION | 01:02:06 | Electronic | Glitchcore | Unplayed | Low |  |
 | 2026/05/17 | Burzum | Filosofem | 01:04:34 | Metal | Black Metal, Atmospheric | Unplayed | High | [Solomon Henderson here](https://files.catbox.moe/rhe7ze.jpg) |
-| 2026/06/03 | Michael Jackson | Off the Wall | 00:42:24 | R&B, Pop | Disco, Funk | Unplayed | Medium |  |
 | 2026/06/03 | corru.works | OST::'corru.observer';'VOL 1' | 00:28:04 | Ambient |  | Unplayed | Low | in /OSTs |
 | 2026/06/03 | corru.works | OST::'corru.observer';'VOL 2' | 00:22:59 | Ambient |  | Unplayed | Low | in /OSTs |
 | 2026/06/03 | corru.works | OST::'corru.observer';'VOL 3' | 00:18:09 | Ambient |  | Unplayed | Low | in /OSTs |
