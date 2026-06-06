@@ -138,5 +138,5 @@
 | 2026/06/05 | Tyler, The Creator | Flower Boy | 00:46:39 | Hip-Hop |  | Unplayed | Low | in /Main |
 | 2026/06/05 | Tyler, The Creator | IGOR | 00:39:46 | Hip-Hop |  | Unplayed | Low | in /Main |
 | 2026/06/05 | Tyler, The Creator | CALL ME IF YOU GET LOST | 01:17:01 | Hip-Hop |  | Unplayed | Low | in /Main |
-| 2026/06/05 | Danny Brown | Atrocity Exhibition | 00:46:38 | Hip-Hop |  | Unplayed | Low |  |
+| 2026/06/05 | Danny Brown | Atrocity Exhibition | 00:46:38 | Hip-Hop |  | Unplayed | Low | Recommended by friend |
 <!-- | Date Added | Artist | Album | Length | Genre | Subgenre | Status | Priority | Notes | -->
