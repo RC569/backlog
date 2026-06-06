@@ -84,8 +84,6 @@
 | 2026/04/07 | ミドリ | あらためまして、はじめまして、ミドリです。 | 00:31:08 | Punk | Art Punk, Jazz Rock | Unplayed | Low |  |
 | 2026/04/07 | Yayayi | Yayayi | 02:10:51 | Hip-Hop | Experimental | Unplayed | Low |  |
 | 2026/04/07 | Black Flag | Damaged | 00:35:03 | Rock | Hardcore punk | Unplayed | Low |  |
-| 2026/04/08 | J Dilla | The Official Jay Dee Instrumental Series Vol. 1: Unreleased | 00:23:07 | Hip-Hop | Instrumental | Unplayed | Low |  |
-| 2026/04/08 | J Dilla | The Official Jay Dee Instrumental Series Vol.2: Vintage | 00:39:02 | Hip-Hop | Instrumental | Unplayed | Low |  |
 | 2026/04/11 | TV Girl | Who Really Cares | 00:36:55 | Pop | Indie | Unplayed | Low |  |
 | 2026/04/11 | The Velvet Underground & Nico | The Velvet Underground & Nico | 00:48:57 | Rock | Garage, Experimental | Unplayed | Low |  |
 | 2026/04/18 | Slipknot | Iowa | 01:06:25 | Metal | Nu-Metal | Unplayed | Low |  |
