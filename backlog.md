@@ -14,7 +14,6 @@
 | 2025/07/22 | Black Sabbath | Sabbath Bloody Sabbath | 00:42:29 | Metal |  | Unplayed | Low |  |
 | 2025/07/30 | Deftones | Deftones | 00:47:12 | Metal | Alternative, Nu-Metal | Unplayed | Low |  |
 | 2025/07/30 | Deftones | Saturday Night Wrist | 00:56:28 | Metal | Alternative, Nu-Metal | Unplayed | Low |  |
-| 2025/08/17 | Big L | The Big Picture | 00:55:29 | Hip-Hop |  | Unplayed | Medium |  |
 | 2025/08/20 | X Japan | Vanishing Vision | 00:42:07 | Metal |  | Unplayed | Low |  |
 | 2025/08/20 | X Japan | BLUE BLOOD | 01:05:16 | Metal |  | Unplayed | Low |  |
 | 2025/08/20 | X Japan | Jealousy | 00:50:21 | Metal |  | Unplayed | Low |  |
