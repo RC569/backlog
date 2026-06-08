@@ -135,4 +135,7 @@
 | 2026/06/05 | Danny Brown | Atrocity Exhibition | 00:46:38 | Hip-Hop |  | Unplayed | Low | Recommended by friend |
 | 2026/06/06 | clipping. | CLPPNG | 00:55:31 | Hip-Hop | Industrial, Experimental | Relisten | Medium | in /Main |
 | 2026/06/07 | Leverfall | Connected | 00:15:47 |  |  | Unplayed | Low |  |
+| 2026/06/08 | PilotRedSun | Achievement | 00:45:12 | Electronic | IDM | Unplayed | Low |  |
+| 2026/06/08 | Oneohtrix Point Never | Tranquilizer | 00:58:00 | Electronic |  | Unplayed | Low |  |
+
 <!-- | Date Added | Artist | Album | Length | Genre | Subgenre | Status | Priority | Notes | -->
