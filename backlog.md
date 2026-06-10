@@ -25,7 +25,7 @@
 | 2025/08/20 | Dir En Grey | Uroboros | 01:07:46 | Metal |  | Unplayed | Low |  |
 | 2025/08/20 | Dir En Grey | Arche | 01:08:06 | Metal |  | Unplayed | Low |  |
 | 2025/09/30 | Lil Wayne | Tha Carter II | 01:17:33 | Hip-Hop |  | Unplayed | Low |  |
-| 2025/09/30 | Lil Wayne | Tha Cater III | 01:18:03 | Hip-Hop |  | Unplayed | Low |  |
+| 2025/09/30 | Lil Wayne | Tha Carter III | 01:18:03 | Hip-Hop |  | Unplayed | Low |  |
 | 2025/09/30 | Lil Wayne | Tha Carter IV | 01:23:23 | Hip-Hop |  | Unplayed | Low |  |
 | 2025/10/25 | Edwin Birdsong | Edwin Birdsong | 01:14:25 | Funk, Soul |  | Unplayed | Low |  |
 | 2025/10/21 | Carpenter Brut | EP I | 00:28:59 | Electronic | Synthwave, Dark Synth | Unplayed | Medium |  |
@@ -113,7 +113,6 @@
 | 2026/05/08 | Boards of Canada | Geogaddi | 01:08:11 | Electronic | IDM | Unplayed | Low |  |
 | 2026/05/08 | Deltron 3030 | Deltron 3030 | 01:00:28 | Hip-Hop | Abstract, Experimental | Unplayed | Low |  |
 | 2026/05/08 | Portishead | Dummy | 00:49:15 | Hip-Hop | Trip Hop | Unplayed | Low |  |
-| 2026/05/08 | Venetian Snares | Songs About My Cats | 00:46:38 | Electronic | Breakcore, IDM | Unplayed | Low |  |
 | 2026/05/08 | Terminal 11 | Illegal Nervous Habits | 00:35:12 | Electronic | Breakcore, Drill n Bass | Unplayed | Low |  |
 | 2026/05/09 | bugcat | intitle:”Toshiba Network Camera” user login | 00:17:03 | Electronic |  | Unplayed | Low | Messed up my YouTube search [v](https://www.youtube.com/watch?v=_NnG2253XcY) |
 | 2026/05/09 | MASS OF THE FERMENTING DREGS | ワールドイズユアーズ [World Is Yours] | 00:22:14 | Rock | Japanese | Unplayed | Low | intitle:"full album" |
@@ -137,5 +136,6 @@
 | 2026/06/08 | PilotRedSun | Achievement | 00:45:12 | Electronic | IDM | Unplayed | Low |  |
 | 2026/06/08 | Oneohtrix Point Never | Tranquilizer | 00:58:00 | Electronic |  | Unplayed | Low |  |
 | 2026/06/09 | 吉村弘 | Wet Land | 00:38:05 | Ambient |  | Relisten | Low | intitle:"full album" |
+| 2026/06/09 | Venetian Snares | Songs About My Cats | 00:46:38 | Electronic | Breakcore, IDM | Relisten | Low |  |
 
 <!-- | Date Added | Artist | Album | Length | Genre | Subgenre | Status | Priority | Notes | -->
