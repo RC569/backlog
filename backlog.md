@@ -82,7 +82,7 @@
 | 2026/04/07 | Erykah Badu | Baduizm | 01:29:04 | R&B | Neo-Soul | Unplayed | Low |  |
 | 2026/04/07 | Brian Eno | Ambient 1: Music For Airports | 00:48:01 | Ambient |  | Unplayed | Low |  |
 | 2026/04/07 | ミドリ | あらためまして、はじめまして、ミドリです。 | 00:31:08 | Punk | Art Punk, Jazz Rock | Unplayed | Low |  |
-| 2026/04/07 | Yayayi | Yayayi | 02:10:51 | Hip-Hop | Experimental | Unplayed | Low |  |
+| 2026/04/07 | Yayayi | Yayayi | 02:10:51 | Hip-Hop | Experimental | Next | Low |  |
 | 2026/04/07 | Black Flag | Damaged | 00:35:03 | Rock | Hardcore punk | Unplayed | Low |  |
 | 2026/04/11 | TV Girl | Who Really Cares | 00:36:55 | Pop | Indie | Unplayed | Low |  |
 | 2026/04/11 | The Velvet Underground & Nico | The Velvet Underground & Nico | 00:48:57 | Rock | Garage, Experimental | Unplayed | Low |  |
@@ -92,7 +92,6 @@
 | 2026/04/20 | LemKuuja | CHEESECAKE+ | 01:03:17 | Electronic | Vaporwave | Unplayed | Medium | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
 | 2026/04/20 | The Misfits | Static Age | 00:35:04 | Rock | Punk | Unplayed | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
 | 2026/04/20 | Style Of Eye & Magnus The Magnus | Antidote | 00:06:30 | Electronic |  | Unplayed | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
-| 2026/04/20 | Machine Girl | WLFGRL | 00:57:38 | Electronic | Hardcore | Unplayed | High | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
 | 2026/04/20 | Justice | Cross | 01:02:47 | Electronic | Electro house | Unplayed | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
 | 2026/04/20 | REZNYCK | MUSCLE CARDIAC | 00:41:46 | Electronic | Synthwave | Unplayed | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
 | 2026/04/20 | Metronomy | The English Riviera | 00:45:06 | Electronic |  | Unplayed | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
@@ -139,4 +138,5 @@
 | 2026/06/10 | clipping. | Visions of Bodies Being Burned | 00:52:34 | Hip Hop | Horrorcore, Industrial, Experimental | Unplayed | Low |  |
 | 2026/06/10 | ⣎⡇ꉺლ༽இ•̛)ྀ◞ ༎ຶ ༽ৣৢ؞ৢ؞ؖ ꉺლ | ʅ͡͡͡͡͡͡͡͡͡͡͡(ƟӨ)ʃ͡͡͡͡͡͡͡͡͡͡ ꐑ(ཀ ඊູ ఠీੂ೧ູ࿃ूੂ✧ළඕั࿃ूੂ࿃ूੂੂ࿃ूੂළඕั✧ı̴̴̡ ̡̡͡\|̲̲̲͡ ̲̲̲͡͡π̲̲͡͡ ɵੂ≢࿃ूੂ೧ູఠీੂ ඊູཀ ꐑ(ʅ͡͡͡͡͡͡͡͡͡͡͡(ƟӨ)ʃ͡͡͡͡͡͡͡͡͡͡ | 00:09:21 | Electronic | Experimental | Unplayed | Low | Filesystem benchmark |
 | 2026/06/10 | Black Kray | Crack Cloud$ Over Arts Kitchen | 00:49:23 | Hip Hop | Cloud Rap, Experimental | Unplayed | Low |  |
+
 <!-- | Date Added | Artist | Album | Length | Genre | Subgenre | Status | Priority | Notes | -->
