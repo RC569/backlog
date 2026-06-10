@@ -138,5 +138,9 @@
 | 2026/06/10 | clipping. | Visions of Bodies Being Burned | 00:52:34 | Hip Hop | Horrorcore, Industrial, Experimental | Unplayed | Low |  |
 | 2026/06/10 | ⣎⡇ꉺლ༽இ•̛)ྀ◞ ༎ຶ ༽ৣৢ؞ৢ؞ؖ ꉺლ | ʅ͡͡͡͡͡͡͡͡͡͡͡(ƟӨ)ʃ͡͡͡͡͡͡͡͡͡͡ ꐑ(ཀ ඊູ ఠీੂ೧ູ࿃ूੂ✧ළඕั࿃ूੂ࿃ूੂੂ࿃ूੂළඕั✧ı̴̴̡ ̡̡͡\|̲̲̲͡ ̲̲̲͡͡π̲̲͡͡ ɵੂ≢࿃ूੂ೧ູఠీੂ ඊູཀ ꐑ(ʅ͡͡͡͡͡͡͡͡͡͡͡(ƟӨ)ʃ͡͡͡͡͡͡͡͡͡͡ | 00:09:21 | Electronic | Experimental | Unplayed | Low | Filesystem benchmark |
 | 2026/06/10 | Black Kray | Crack Cloud$ Over Arts Kitchen | 00:49:23 | Hip Hop | Cloud Rap, Experimental | Unplayed | Low |  |
+| 2026/06/10 | Aphex Twin | Selected Ambient Works 85–92 | 01:14:44 | Electronic | Ambient, Techno, IDM | Unplayed | Low | In /Main |
+| 2026/06/10 | Aphex Twin | Selected Ambient Works Volume II | 02:36:48 | Ambient | Electronic, Dark Ambient | Unplayed | Low |  |
+| 2026/06/10 | Aphex Twin | …I Care Because You Do | 01:03:50 | Electronic | IDM | Unplayed | Low |  |
+| 2026/06/10 | Aphex Twin | Come to Daddy | 00:33:25 | Electronic | Drill 'n' bass, IDM | Unplayed | Low |  |
 
 <!-- | Date Added | Artist | Album | Length | Genre | Subgenre | Status | Priority | Notes | -->
