@@ -136,8 +136,6 @@
 | 2026/06/08 | Oneohtrix Point Never | Tranquilizer | 00:58:00 | Electronic |  | Unplayed | Low |  |
 | 2026/06/09 | 吉村弘 | Wet Land | 00:38:05 | Ambient |  | Relisten | Low | intitle:"full album" |
 | 2026/06/09 | Venetian Snares | Songs About My Cats | 00:46:38 | Electronic | Breakcore, IDM | Relisten | Low |  |
-| 2026/06/09 | femtanyl | CHASER | 00:13:44 | Electronic | Digital hardcore | Relisten | Low |  |
-| 2026/06/10 | Death Grips | Bottomless Pit | 00:39:21 | Hip Hop | Industrial, Experimental, Abstract | Unplayed | High |  |
 | 2026/06/10 | Death Grips | Year of the Snitch | 00:37:12 | Hip Hop | Industrial, Abstract, Synth Punk | Unplayed | High |  |
 
 <!-- | Date Added | Artist | Album | Length | Genre | Subgenre | Status | Priority | Notes | -->
