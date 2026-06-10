@@ -117,7 +117,6 @@
 | 2026/05/09 | bugcat | intitle:”Toshiba Network Camera” user login | 00:17:03 | Electronic |  | Unplayed | Low | Messed up my YouTube search [v](https://www.youtube.com/watch?v=_NnG2253XcY) |
 | 2026/05/09 | MASS OF THE FERMENTING DREGS | ワールドイズユアーズ [World Is Yours] | 00:22:14 | Rock | Japanese | Unplayed | Low | intitle:"full album" |
 | 2026/05/14 | Various | Los Angeles: Critical Mass | 00:53:26 | Electronic | Drum n Bass, Downtempo, Future Jazz, Trip Hop | Unplayed | Low | [YT Recommendation](https://www.youtube.com/watch?v=Qbwm5Kguksw), compilation |
-| 2026/05/14 | femtanyl | CHASER | 00:13:44 | Electronic | Digital hardcore | Unplayed | Low |  |
 | 2026/05/14 | femtanyl | REACTOR | 00:13:41 | Electronic | Digital hardcore | Unplayed | Low |  |
 | 2026/05/14 | femtanyl | MAN BITES DOG | 00:32:04 | Electronic | Digital hardcore | Unplayed | Low |  |
 | 2026/05/15 | Chuck Person | Chuck Person's Eccojams Vol. 1 | 00:52:07 | Electronic | Vaporwave | Unplayed | Low |  |
@@ -137,5 +136,6 @@
 | 2026/06/08 | Oneohtrix Point Never | Tranquilizer | 00:58:00 | Electronic |  | Unplayed | Low |  |
 | 2026/06/09 | 吉村弘 | Wet Land | 00:38:05 | Ambient |  | Relisten | Low | intitle:"full album" |
 | 2026/06/09 | Venetian Snares | Songs About My Cats | 00:46:38 | Electronic | Breakcore, IDM | Relisten | Low |  |
+| 2026/05/14 | femtanyl | CHASER | 00:13:44 | Electronic | Digital hardcore | Relisten | Low |  |
 
 <!-- | Date Added | Artist | Album | Length | Genre | Subgenre | Status | Priority | Notes | -->
