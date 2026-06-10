@@ -137,5 +137,5 @@
 | 2026/06/09 | 吉村弘 | Wet Land | 00:38:05 | Ambient |  | Relisten | Low | intitle:"full album" |
 | 2026/06/09 | Venetian Snares | Songs About My Cats | 00:46:38 | Electronic | Breakcore, IDM | Relisten | Low |  |
 | 2026/06/10 | Death Grips | Year of the Snitch | 00:37:12 | Hip Hop | Industrial, Abstract, Synth Punk | Unplayed | High |  |
-
+| 2026/06/10 | clipping. | Visions of Bodies Being Burned | 00:52:34 | Hip Hop | Horrorcore, Industrial, Experimental | Unplayed | Low |  |
 <!-- | Date Added | Artist | Album | Length | Genre | Subgenre | Status | Priority | Notes | -->
