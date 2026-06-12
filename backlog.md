@@ -28,7 +28,6 @@
 | 2025/09/30 | Lil Wayne | Tha Carter III | 01:18:03 | Hip-Hop |  | Unplayed | Low |  |
 | 2025/09/30 | Lil Wayne | Tha Carter IV | 01:23:23 | Hip-Hop |  | Unplayed | Low |  |
 | 2025/10/25 | Edwin Birdsong | Edwin Birdsong | 01:14:25 | Funk, Soul |  | Unplayed | Low |  |
-| 2025/10/21 | Carpenter Brut | EP I | 00:28:59 | Electronic | Synthwave, Dark Synth | Unplayed | Medium |  |
 | 2026/03/21 | Gris | Il Était Une Forêt | 00:59:32 | Metal | Black, Atmospheric | Unplayed | Low |  |
 | 2026/03/28 | System of a Down | Steal This Album! | 00:43:31 | Metal | Alternative | Unplayed | Low |  |
 | 2026/03/29 | Pendulum | Immersion | 01:07:23 | Electronic | Industrial Rock, Drum n bass | Unplayed | Low |  |
@@ -135,11 +134,12 @@
 | 2026/06/09 | Venetian Snares | Songs About My Cats | 00:46:38 | Electronic | Breakcore, IDM | Relisten | Low |  |
 | 2026/06/10 | Death Grips | Year of the Snitch | 00:37:12 | Hip Hop | Industrial, Abstract, Synth Punk | Unplayed | High |  |
 | 2026/06/10 | clipping. | Visions of Bodies Being Burned | 00:52:34 | Hip Hop | Horrorcore, Industrial, Experimental | Unplayed | Low |  |
-| 2026/06/10 | ⣎⡇ꉺლ༽இ•̛)ྀ◞ ༎ຶ ༽ৣৢ؞ৢ؞ؖ ꉺლ | ʅ͡͡͡͡͡͡͡͡͡͡͡(ƟӨ)ʃ͡͡͡͡͡͡͡͡͡͡ ꐑ(ཀ ඊູ ఠీੂ೧ູ࿃ूੂ✧ළඕั࿃ूੂ࿃ूੂੂ࿃ूੂළඕั✧ı̴̴̡ ̡̡͡\|̲̲̲͡ ̲̲̲͡͡π̲̲͡͡ ɵੂ≢࿃ूੂ೧ູఠీੂ ඊູཀ ꐑ(ʅ͡͡͡͡͡͡͡͡͡͡͡(ƟӨ)ʃ͡͡͡͡͡͡͡͡͡͡ | 00:09:21 | Electronic | Experimental | Unplayed | Low | Filesystem benchmark |
 | 2026/06/10 | Black Kray | Crack Cloud$ Over Arts Kitchen | 00:49:23 | Hip Hop | Cloud Rap, Experimental | Unplayed | Low |  |
 | 2026/06/10 | Aphex Twin | Selected Ambient Works 85–92 | 01:14:44 | Electronic | Ambient, Techno, IDM | Unplayed | Low | In /Main |
 | 2026/06/10 | Aphex Twin | Selected Ambient Works Volume II | 02:36:48 | Ambient | Electronic, Dark Ambient | Unplayed | Low |  |
 | 2026/06/10 | Aphex Twin | …I Care Because You Do | 01:03:50 | Electronic | IDM | Unplayed | Low |  |
 | 2026/06/10 | Aphex Twin | Come to Daddy | 00:33:25 | Electronic | Drill 'n' bass, IDM | Unplayed | Low |  |
+| 2026/06/12 | YAYAYI | \[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\[\]\[\]\[\]\[\]\[\]\[\]\[\[\]\[\[\[\]\[\]\]\[\[\]\[\]\[\]\[\]\[\]\]\[\]\]\[\]\[\]\[\]\[\]\[\]\]\[\]\[\]\]\[\]­\[\]\[\]\[\]\[\]\[\]\[\]\[\]\]\[\]\]\[\]\[\]\[\]. PART666% Yayayayay Original Is 666% of This. Read Me U Lazyfuck U Pig Fuck. Bitchfuck Me. Pornstarsdonehate. Amateurporngodnevacummingsoon윌셔룸쌀롱 | 01:30:14 | Hip-Hop | Instrumental, Glitch Hop, Experimental, IDM | Unplayed | Low | Wow! Such a weird title :^) |
+| 2026/06/12 | Knxwledge | Hud Dreems | 00:36:44 | Hip-Hop | Instrumental | Unplayed | Low |  |
 
 <!-- | Date Added | Artist | Album | Length | Genre | Subgenre | Status | Priority | Notes | -->
