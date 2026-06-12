@@ -141,5 +141,6 @@
 | 2026/06/10 | Aphex Twin | Come to Daddy | 00:33:25 | Electronic | Drill 'n' bass, IDM | Unplayed | Low |  |
 | 2026/06/12 | YAYAYI | \[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\[\]\[\]\[\]\[\]\[\]\[\]\[\[\]\[\[\[\]\[\]\]\[\[\]\[\]\[\]\[\]\[\]\]\[\]\]\[\]\[\]\[\]\[\]\[\]\]\[\]\[\]\]\[\]­\[\]\[\]\[\]\[\]\[\]\[\]\[\]\]\[\]\]\[\]\[\]\[\]. PART666% Yayayayay Original Is 666% of This. Read Me U Lazyfuck U Pig Fuck. Bitchfuck Me. Pornstarsdonehate. Amateurporngodnevacummingsoon윌셔룸쌀롱 | 01:30:14 | Hip-Hop | Instrumental, Glitch Hop, Experimental, IDM | Unplayed | Low | Wow! Such a weird title :^) |
 | 2026/06/12 | Knxwledge | Hud Dreems | 00:36:44 | Hip-Hop | Instrumental | Unplayed | Low |  |
+| 2026/06/12 | Caustic Window | Caustic Window | 01:09:26 | Electronic | Ambient, IDM | Unplayed | Low |  |
 
 <!-- | Date Added | Artist | Album | Length | Genre | Subgenre | Status | Priority | Notes | -->
