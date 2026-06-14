@@ -135,9 +135,7 @@
 | 2026/06/10 | Death Grips | Year of the Snitch | 00:37:12 | Hip Hop | Industrial, Abstract, Synth Punk | Unplayed | High |  |
 | 2026/06/10 | clipping. | Visions of Bodies Being Burned | 00:52:34 | Hip Hop | Horrorcore, Industrial, Experimental | Unplayed | Low |  |
 | 2026/06/10 | Black Kray | Crack Cloud$ Over Arts Kitchen | 00:49:23 | Hip Hop | Cloud Rap, Experimental | Unplayed | Medium |  |
-| 2026/06/10 | Aphex Twin | Selected Ambient Works Volume II | 02:36:48 | Ambient | Electronic, Dark Ambient | Unplayed | High |  |
-| 2026/06/10 | Aphex Twin | …I Care Because You Do | 01:03:50 | Electronic | IDM | Unplayed | Low |  |
-| 2026/06/10 | Aphex Twin | Come to Daddy | 00:33:25 | Electronic | Drill 'n' bass, IDM | Unplayed | Low |  |
+| 2026/06/10 | Aphex Twin | …I Care Because You Do | 01:03:50 | Electronic | IDM | Unplayed | Next |  |
 | 2026/06/12 | YAYAYI | \[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\[\]\[\]\[\]\[\]\[\]\[\]\[\[\]\[\[\[\]\[\]\]\[\[\]\[\]\[\]\[\]\[\]\]\[\]\]\[\]\[\]\[\]\[\]\[\]\]\[\]\[\]\]\[\]­\[\]\[\]\[\]\[\]\[\]\[\]\[\]\]\[\]\]\[\]\[\]\[\]. PART666% Yayayayay Original Is 666% of This. Read Me U Lazyfuck U Pig Fuck. Bitchfuck Me. Pornstarsdonehate. Amateurporngodnevacummingsoon윌셔룸쌀롱 | 01:30:14 | Hip-Hop | Instrumental, Glitch Hop, Experimental, IDM | Unplayed | Low | Wow! Such a weird title :^) |
 | 2026/06/12 | Knxwledge | Hud Dreems | 00:36:44 | Hip-Hop | Instrumental | Unplayed | Low |  |
 | 2026/06/12 | Caustic Window | Caustic Window | 01:09:26 | Electronic | Ambient, IDM | Unplayed | Low |  |
