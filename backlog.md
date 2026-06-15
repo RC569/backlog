@@ -62,7 +62,6 @@
 | 2026/04/02 | David Bowie | Heroes | 00:40:44 | Rock | Glam | Unplayed | Low | Recommended by friend |
 | 2026/04/02 | Mitch Murder | Selection 2 | 00:26:19 | Synthwave |  | Unplayed | Low | Recommended by friend |
 | 2026/04/02 | Troye Sivan | Blue Neighbourhood | 00:58:58 | Pop | Electropop, Indie | Unplayed | Low | Recommended by friend |
-| 2026/04/02 | Aphex Twin | Drukqs | 01:40:51 | Electronic | Experimental, IDM | Unplayed | Next | Recommended by friend |
 | 2026/04/02 | siinamota | Therefor. | 00:38:53 |  |  | Unplayed | Low | Recommended by friend |
 | 2026/04/03 | Flying Lotus | 1983 | 00:33:57 | Hip-Hop | Jazz Rap, Instrumental | Unplayed | Low |  |
 | 2026/04/03 | Flying Lotus | Los Angeles | 00:43:25 | Hip-Hop | Jazz Rap, Experimental | Unplayed | Low |  |
