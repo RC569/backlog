@@ -62,7 +62,7 @@
 | 2026/04/02 | David Bowie | Heroes | 00:40:44 | Rock | Glam | Unplayed | Low | Recommended by friend |
 | 2026/04/02 | Mitch Murder | Selection 2 | 00:26:19 | Synthwave |  | Unplayed | Low | Recommended by friend |
 | 2026/04/02 | Troye Sivan | Blue Neighbourhood | 00:58:58 | Pop | Electropop, Indie | Unplayed | Low | Recommended by friend |
-| 2026/04/02 | Aphex Twin | Drukqs | 01:40:51 | Electronic | Experimental, IDM | Unplayed | Low | Recommended by friend |
+| 2026/04/02 | Aphex Twin | Drukqs | 01:40:51 | Electronic | Experimental, IDM | Unplayed | Next | Recommended by friend |
 | 2026/04/02 | siinamota | Therefor. | 00:38:53 |  |  | Unplayed | Low | Recommended by friend |
 | 2026/04/03 | Flying Lotus | 1983 | 00:33:57 | Hip-Hop | Jazz Rap, Instrumental | Unplayed | Low |  |
 | 2026/04/03 | Flying Lotus | Los Angeles | 00:43:25 | Hip-Hop | Jazz Rap, Experimental | Unplayed | Low |  |
@@ -115,7 +115,7 @@
 | 2026/05/14 | Various | Los Angeles: Critical Mass | 00:53:26 | Electronic | Drum n Bass, Downtempo, Future Jazz, Trip Hop | Unplayed | Low | [YT Recommendation](https://www.youtube.com/watch?v=Qbwm5Kguksw), compilation |
 | 2026/05/14 | femtanyl | REACTOR | 00:13:41 | Electronic | Digital hardcore | Unplayed | Low |  |
 | 2026/05/14 | femtanyl | MAN BITES DOG | 00:32:04 | Electronic | Digital hardcore | Unplayed | Low |  |
-| 2026/05/15 | Chuck Person | Chuck Person's Eccojams Vol. 1 | 00:52:07 | Electronic | Vaporwave | Unplayed | Low |  |
+| 2026/05/15 | Chuck Person | Chuck Person's Eccojams Vol. 1 | 00:52:07 | Electronic | Vaporwave | Unplayed | Next |  |
 | 2026/05/15 | Steve Brenner | Signals | 00:37:54 | Electronic | Ambient | Unplayed | Low | [YT Recommendation](https://www.youtube.com/watch?v=pP4Cct_1di8) |
 | 2026/05/15 | METAROOM | SINGLES COLLECTION | 01:02:06 | Electronic | Glitchcore | Unplayed | Low |  |
 | 2026/05/17 | Burzum | Filosofem | 01:04:34 | Metal | Black Metal, Atmospheric | Unplayed | High | [Solomon Henderson here](https://files.catbox.moe/rhe7ze.jpg) |
@@ -134,7 +134,6 @@
 | 2026/06/10 | Death Grips | Year of the Snitch | 00:37:12 | Hip Hop | Industrial, Abstract, Synth Punk | Unplayed | High |  |
 | 2026/06/10 | clipping. | Visions of Bodies Being Burned | 00:52:34 | Hip Hop | Horrorcore, Industrial, Experimental | Unplayed | Low |  |
 | 2026/06/10 | Black Kray | Crack Cloud$ Over Arts Kitchen | 00:49:23 | Hip Hop | Cloud Rap, Experimental | Unplayed | Medium |  |
-| 2026/06/10 | Aphex Twin | …I Care Because You Do | 01:03:50 | Electronic | IDM | Unplayed | Next |  |
 | 2026/06/12 | YAYAYI | \[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\[\]\[\]\[\]\[\]\[\]\[\]\[\[\]\[\[\[\]\[\]\]\[\[\]\[\]\[\]\[\]\[\]\]\[\]\]\[\]\[\]\[\]\[\]\[\]\]\[\]\[\]\]\[\]­\[\]\[\]\[\]\[\]\[\]\[\]\[\]\]\[\]\]\[\]\[\]\[\]. PART666% Yayayayay Original Is 666% of This. Read Me U Lazyfuck U Pig Fuck. Bitchfuck Me. Pornstarsdonehate. Amateurporngodnevacummingsoon윌셔룸쌀롱 | 01:30:14 | Hip-Hop | Instrumental, Glitch Hop, Experimental, IDM | Unplayed | Low | Wow! Such a weird title :^) |
 | 2026/06/12 | Knxwledge | Hud Dreems | 00:36:44 | Hip-Hop | Instrumental | Unplayed | Low |  |
 | 2026/06/12 | Caustic Window | Caustic Window | 01:09:26 | Electronic | Ambient, IDM | Unplayed | Low |  |
