@@ -120,10 +120,10 @@
 | 2026/05/17 | Burzum | Filosofem | 01:04:34 | Metal | Black Metal, Atmospheric | Unplayed | High | [Solomon Henderson here](https://files.catbox.moe/rhe7ze.jpg) |
 | 2026/06/05 | Cocteau Twins | Heaven or Las Vegas | 00:37:42 | Pop | Dream Pop | Unplayed | Low | Recommended by friend |
 | 2026/06/05 | My Bloody Valentine | Loveless | 00:48:35 | Pop | Shoegaze, Noise Pop, Dream Pop | Unplayed | Low | Recommended by friend |
-| 2026/06/05 | Tyler, The Creator | Wolf | 01:10:51 | Hip-Hop |  | Unplayed | Low | in /Main |
-| 2026/06/05 | Tyler, The Creator | Flower Boy | 00:46:39 | Hip-Hop |  | Unplayed | Low | in /Main |
-| 2026/06/05 | Tyler, The Creator | IGOR | 00:39:46 | Hip-Hop |  | Unplayed | Low | in /Main |
-| 2026/06/05 | Tyler, The Creator | CALL ME IF YOU GET LOST | 01:17:01 | Hip-Hop |  | Unplayed | Low | in /Main |
+| 2026/06/05 | Tyler, The Creator | Wolf | 01:10:51 | Hip-Hop |  | Unplayed | High | in /Main |
+| 2026/06/05 | Tyler, The Creator | Flower Boy | 00:46:39 | Hip-Hop |  | Unplayed | High | in /Main |
+| 2026/06/05 | Tyler, The Creator | IGOR | 00:39:46 | Hip-Hop |  | Unplayed | High | in /Main |
+| 2026/06/05 | Tyler, The Creator | CALL ME IF YOU GET LOST | 01:17:01 | Hip-Hop |  | Unplayed | High | in /Main |
 | 2026/06/05 | Danny Brown | Atrocity Exhibition | 00:46:38 | Hip-Hop |  | Unplayed | Low | Recommended by friend |
 | 2026/06/07 | Leverfall | Connected | 00:15:47 |  |  | Unplayed | Low |  |
 | 2026/06/08 | PilotRedSun | Achievement | 00:45:12 | Electronic | IDM | Unplayed | Low |  |
