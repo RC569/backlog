@@ -105,7 +105,7 @@
 | 2026/05/07 | Makoto | Believe in My Soul | 01:07:00 | Electronic | Drum n Bass | Unplayed | Low |  |
 | 2026/05/07 | Peshay | Studio Set (1996) | 01:33:40 | Electronic | Drum n Bass | Unplayed | Low | DJ Mix |
 | 2026/05/08 | El-P | Fantastic Damage | 01:10:25 | Hip-Hop | Experimental | Unplayed | Low |  |
-| 2026/05/08 | Boards of Canada | Geogaddi | 01:08:11 | Electronic | IDM | Unplayed | Low |  |
+| 2026/05/08 | Boards of Canada | Geogaddi | 01:08:11 | Electronic | IDM | Unplayed | High |  |
 | 2026/05/08 | Deltron 3030 | Deltron 3030 | 01:00:28 | Hip-Hop | Abstract, Experimental | Unplayed | Low |  |
 | 2026/05/08 | Portishead | Dummy | 00:49:15 | Hip-Hop | Trip Hop | Unplayed | Low |  |
 | 2026/05/08 | Terminal 11 | Illegal Nervous Habits | 00:35:12 | Electronic | Breakcore, Drill n Bass | Unplayed | Low |  |
