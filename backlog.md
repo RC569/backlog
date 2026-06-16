@@ -125,7 +125,7 @@
 | 2026/06/05 | Tyler, The Creator | CALL ME IF YOU GET LOST | 01:17:01 | Hip-Hop |  | Unplayed | High | in /Main |
 | 2026/06/05 | Danny Brown | Atrocity Exhibition | 00:46:38 | Hip-Hop |  | Unplayed | Low | Recommended by friend |
 | 2026/06/07 | Leverfall | Connected | 00:15:47 |  |  | Unplayed | Low |  |
-| 2026/06/08 | PilotRedSun | Achievement | 00:45:12 | Electronic | IDM | Unplayed | High |  |
+| 2026/06/08 | PilotRedSun | Achievement | 00:45:12 | Electronic | IDM | Unplayed | Next |  |
 | 2026/06/08 | Oneohtrix Point Never | Tranquilizer | 00:58:00 | Electronic |  | Unplayed | Low |  |
 | 2026/06/09 | 吉村弘 | Wet Land | 00:38:05 | Ambient |  | Relisten | Low | intitle:"full album" |
 | 2026/06/09 | Venetian Snares | Songs About My Cats | 00:46:38 | Electronic | Breakcore, IDM | Relisten | Low |  |
@@ -139,5 +139,6 @@
 | 2026/06/14 | Aphex Twin | Syro | 01:04:38 | Electronic | Ambient, IDM, Drill n bass | Unplayed | Low |  |
 | 2026/06/14 | Aphex Twin | Ventolin EP | 00:53:57 | Electronic | IDM | Unplayed | Low |  |
 | 2026/06/15 | runescape斯凱利 | runescape.wav符文風景骨架 | 00:54:49 | Electronic | Ambient, Experimental, Vaporwave | Unplayed | Low |  |
+| 2026/06/16 | SAINT PEPSI | EMPIRE BUILDING | 00:35:04 | Electronic | Vaporwave | Unplayed | Medium |  |
 
 <!-- | Date Added | Artist | Album | Length | Genre | Subgenre | Status | Priority | Notes | -->
