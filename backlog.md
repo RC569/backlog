@@ -92,7 +92,6 @@
 | 2026/04/20 | REZNYCK | MUSCLE CARDIAC | 00:41:46 | Electronic | Synthwave | Unplayed | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
 | 2026/04/20 | Metronomy | The English Riviera | 00:45:06 | Electronic |  | Unplayed | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
 | 2026/04/20 | El Cuarteto De Nos | Raro | 00:45:02 | Rock |  | Unplayed | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
-| 2026/04/20 | Venetian Snares | Rossz Csillag Alatt Született | 00:46:47 | Electronic | Drill 'n' bass | Unplayed | High | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
 | 2026/04/20 | Wowaka | Unhappy Refrain | 00:48:37 | Rock | Vocaloid | Unplayed | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
 | 2026/04/20 | I Dont Know How but They Found Me | Razzmatazz | 00:37:20 | Rock | Indie | Unplayed | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
 | 2026/04/25 | Clint Mansell | π – Music For The Motion Picture | 01:10:03 | Electronic |  | Unplayed | Low | Movie Soundtrack |
@@ -126,8 +125,6 @@
 | 2026/06/05 | Danny Brown | Atrocity Exhibition | 00:46:38 | Hip-Hop |  | Unplayed | Low | Recommended by friend |
 | 2026/06/07 | Leverfall | Connected | 00:15:47 |  |  | Unplayed | Low |  |
 | 2026/06/08 | Oneohtrix Point Never | Tranquilizer | 00:58:00 | Electronic |  | Unplayed | Low |  |
-| 2026/06/09 | 吉村弘 | Wet Land | 00:38:05 | Ambient |  | Relisten | Low | intitle:"full album" |
-| 2026/06/09 | Venetian Snares | Songs About My Cats | 00:46:38 | Electronic | Breakcore, IDM | Relisten | Low |  |
 | 2026/06/10 | Death Grips | Year of the Snitch | 00:37:12 | Hip Hop | Industrial, Abstract, Synth Punk | Unplayed | High |  |
 | 2026/06/10 | clipping. | Visions of Bodies Being Burned | 00:52:34 | Hip Hop | Horrorcore, Industrial, Experimental | Unplayed | Low |  |
 | 2026/06/10 | Black Kray | Crack Cloud$ Over Arts Kitchen | 00:49:23 | Hip Hop | Cloud Rap, Experimental | Unplayed | Medium |  |
