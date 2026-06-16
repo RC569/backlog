@@ -114,7 +114,6 @@
 | 2026/05/14 | Various | Los Angeles: Critical Mass | 00:53:26 | Electronic | Drum n Bass, Downtempo, Future Jazz, Trip Hop | Unplayed | Low | [YT Recommendation](https://www.youtube.com/watch?v=Qbwm5Kguksw), compilation |
 | 2026/05/14 | femtanyl | REACTOR | 00:13:41 | Electronic | Digital hardcore | Unplayed | Low |  |
 | 2026/05/14 | femtanyl | MAN BITES DOG | 00:32:04 | Electronic | Digital hardcore | Unplayed | Low |  |
-| 2026/05/15 | Chuck Person | Chuck Person's Eccojams Vol. 1 | 00:52:07 | Electronic | Vaporwave | Unplayed | Next |  |
 | 2026/05/15 | Steve Brenner | Signals | 00:37:54 | Electronic | Ambient | Unplayed | Low | [YT Recommendation](https://www.youtube.com/watch?v=pP4Cct_1di8) |
 | 2026/05/15 | METAROOM | SINGLES COLLECTION | 01:02:06 | Electronic | Glitchcore | Unplayed | Low |  |
 | 2026/05/17 | Burzum | Filosofem | 01:04:34 | Metal | Black Metal, Atmospheric | Unplayed | High | [Solomon Henderson here](https://files.catbox.moe/rhe7ze.jpg) |
