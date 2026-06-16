@@ -54,7 +54,7 @@
 | 2026/04/02 | Twenty One Pilots | Scaled and Icy | 00:37:42 | Pop | Alternative | Unplayed | Low | Recommended by friend |
 | 2026/04/02 | usedcvnt | ultraviolet | 00:36:12 |  |  | Unplayed | Low | Recommended by friend |
 | 2026/04/02 | Gesaffelstein | Conspiracy Pt.2 | 00:12:08 | Electronic | Dark, Industrial | Unplayed | Low | Recommended by friend |
-| 2026/04/02 | Pachinko | D\>E\>A\>T\>H\>M\>E\>T\>A\>L | 00:48:21 |  |  | Unplayed | Low | Recommended by friend |
+| 2026/04/02 | Pachinko | D\>E\>A\>T\>H\>M\>E\>T\>A\>L | 00:48:21 |  |  | Unplayed | High | Recommended by friend |
 | 2026/04/02 | Mr.Kitty | Time | 00:58:33 | Electronic | Dark Synth | Unplayed | Low | Recommended by friend |
 | 2026/04/02 | BLKSMIITH | DIGITAL TWIN | 00:39:15 |  |  | Unplayed | Low | Recommended by friend |
 | 2026/04/02 | Beach House | depression cherry | 00:44:48 | Pop | Dream, Indie | Unplayed | Low | Recommended by friend |
@@ -85,7 +85,7 @@
 | 2026/04/11 | The Velvet Underground & Nico | The Velvet Underground & Nico | 00:48:57 | Rock | Garage, Experimental | Unplayed | Low |  |
 | 2026/04/18 | Slipknot | Iowa | 01:06:25 | Metal | Nu-Metal | Unplayed | Low |  |
 | 2026/04/20 | DJ Food | The Search Engine | 00:55:29 | Electronic, Hip-Hop |  | Unplayed | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
-| 2026/04/20 | LemKuuja | CHEESECAKE+ | 01:03:17 | Electronic | Vaporwave | Unplayed | Medium | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
+| 2026/04/20 | LemKuuja | CHEESECAKE+ | 01:03:17 | Electronic | | Unplayed | Medium | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
 | 2026/04/20 | The Misfits | Static Age | 00:35:04 | Rock | Punk | Unplayed | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
 | 2026/04/20 | Style Of Eye & Magnus The Magnus | Antidote | 00:06:30 | Electronic |  | Unplayed | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
 | 2026/04/20 | Justice | Cross | 01:02:47 | Electronic | Electro house | Unplayed | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
@@ -101,7 +101,7 @@
 | 2026/05/06 | Sweet Trip | Velocity : Design : Comfort | 01:13:32 | Pop | Glitch | Unplayed | Low |  |
 | 2026/05/06 | Car Seat Headrest | Twin Fantasy (Mirror to Mirror) | 00:59:47 | Rock | Slacker | Unplayed | Low |  |
 | 2026/05/06 | Car Seat Headrest | Twin Fantasy (Face to Face) | 01:11:21 | Rock | Slacker | Unplayed | Low |  |
-| 2026/05/07 | Makoto | Believe in My Soul | 01:07:00 | Electronic | Drum n Bass | Unplayed | Low |  |
+| 2026/05/07 | Makoto | Believe in My Soul | 01:07:00 | Electronic | Drum n Bass | Unplayed | Medium |  |
 | 2026/05/07 | Peshay | Studio Set (1996) | 01:33:40 | Electronic | Drum n Bass | Unplayed | Low | DJ Mix |
 | 2026/05/08 | El-P | Fantastic Damage | 01:10:25 | Hip-Hop | Experimental | Unplayed | Low |  |
 | 2026/05/08 | Boards of Canada | Geogaddi | 01:08:11 | Electronic | IDM | Unplayed | High |  |
