@@ -139,5 +139,5 @@
 | 2026/06/14 | Aphex Twin | Syro | 01:04:38 | Electronic | Ambient, IDM, Drill n bass | Unplayed | Low |  |
 | 2026/06/14 | Aphex Twin | Ventolin EP | 00:53:57 | Electronic | IDM | Unplayed | Low |  |
 | 2026/06/15 | runescape斯凱利 | runescape.wav符文風景骨架 | 00:54:49 | Electronic | Ambient, Experimental, Vaporwave | Unplayed | Low |  |
-| 2026/06/15 | Macintosh Plus | Floral Shoppe | 00:47:47 | Electronic | Vaporwave | Unplayed | Next | In /Main, fix metadata |
+
 <!-- | Date Added | Artist | Album | Length | Genre | Subgenre | Status | Priority | Notes | -->
