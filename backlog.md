@@ -32,7 +32,7 @@
 | 2026/03/28 | System of a Down | Steal This Album! | 00:43:31 | Metal | Alternative | Unplayed | Low |  |
 | 2026/03/29 | Pendulum | Immersion | 01:07:23 | Electronic | Industrial Rock, Drum n bass | Unplayed | Low |  |
 | 2026/04/01 | Nujabes | Metaphorical Music | 01:02:29 | Hip-Hop | Jazz Rap, Instrumental | Unplayed | Low |  |
-| 2026/04/01 | Nujabes | Modal Soul | 01:03:35 | Hip-Hop | Jazz Rap, Instrumental | Unplayed | Low |  |
+| 2026/04/01 | Nujabes | Modal Soul | 01:03:35 | Hip-Hop | Jazz Rap, Instrumental | Unplayed | High |  |
 | 2026/04/01 | The Roots | Do You Want More?!!!??! | 01:13:51 | Hip-Hop | Conscious | Unplayed | Low |  |
 | 2026/04/01 | JPEGMAFIA | Veteran | 00:42:30 | Hip-Hop | Experimental, Industrial | Unplayed | Low |  |
 | 2026/04/01 | Scattle | Sketch | 00:34:30 | Electronic | Synthwave, Dark Synth | Unplayed | Low |  |
