@@ -39,7 +39,6 @@
 | 2026/04/01 | Nirvana | In Utero | 00:41:27 | Rock | Grunge | Unplayed | Low |  |
 | 2026/04/01 | Nirvana | Bleach | 00:42:43 | Rock | Grunge | Unplayed | Low |  |
 | 2026/04/01 | Neurosis | An Undying Love For A Burning World | 01:03:33 | Metal | Post-Metal, Sludge | Unplayed | Low |  |
-| 2026/04/01 | ねりねり | おつまみ | 00:11:09 | Vocaloid |  | Unplayed | Low |  |
 | 2026/04/02 | Childish Gambino | Because the Internet | 00:58:01 | Hip-Hop |  | Unplayed | Medium | Recommended by friend |
 | 2026/04/02 | Childish Gambino | Camp | 00:56:11 | Hip-Hop |  | Unplayed | Low | Recommended by friend |
 | 2026/04/02 | Have a nice life | Deathconsciousness | 01:24:38 |  |  | Unplayed | Medium | Recommended by friend |
