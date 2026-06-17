@@ -129,7 +129,6 @@
 | 2026/06/12 | Knxwledge | Hud Dreems | 00:36:44 | Hip-Hop | Instrumental | Unplayed | Low |  |
 | 2026/06/12 | Caustic Window | Caustic Window | 01:09:26 | Electronic | Ambient, IDM | Unplayed | Low |  |
 | 2026/06/13 | Aphex Twin | Selected Ambient Works 85–92 | 01:14:44 | Electronic | Ambient, Techno, IDM | Relisten | Low | In /Main |
-| 2026/06/14 | Aphex Twin | Syro | 01:04:38 | Electronic | Ambient, IDM, Drill n bass | Unplayed | Low |  |
 | 2026/06/14 | Aphex Twin | Ventolin EP | 00:53:57 | Electronic | IDM | Unplayed | Low |  |
 | 2026/06/15 | runescape斯凱利 | runescape.wav符文風景骨架 | 00:54:49 | Electronic | Ambient, Experimental, Vaporwave | Unplayed | Low |  |
 | 2026/06/16 | SAINT PEPSI | EMPIRE BUILDING | 00:35:04 | Electronic | Vaporwave | Unplayed | Medium |  |
