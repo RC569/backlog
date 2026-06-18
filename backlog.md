@@ -77,7 +77,7 @@
 | 2026/04/07 | DJ Close Your Eyes to Find Me | Angel Trance Edits Volume Four | 00:21:36 | Electronic | Progressive Breaks | Unplayed | Low |  |
 | 2026/04/07 | Vangelis | Blade Runner | 00:57:37 | Electronic | Progressive, Ambient | Unplayed | Low | Movie Soundtrack |
 | 2026/04/07 | Erykah Badu | Baduizm | 01:29:04 | R&B | Neo-Soul | Unplayed | Low |  |
-| 2026/04/07 | Brian Eno | Ambient 1: Music For Airports | 00:48:01 | Ambient |  | Unplayed | Low |  |
+| 2026/04/07 | Brian Eno | Ambient 1: Music For Airports | 00:48:01 | Ambient |  | Unplayed | Next |  |
 | 2026/04/07 | ミドリ | あらためまして、はじめまして、ミドリです。 | 00:31:08 | Punk | Art Punk, Jazz Rock | Unplayed | Low |  |
 | 2026/04/07 | Black Flag | Damaged | 00:35:03 | Rock | Hardcore punk | Unplayed | Low |  |
 | 2026/04/11 | TV Girl | Who Really Cares | 00:36:55 | Pop | Indie | Unplayed | Low |  |
@@ -115,7 +115,7 @@
 | 2026/05/17 | Burzum | Filosofem | 01:04:34 | Metal | Black Metal, Atmospheric | Unplayed | High | [Solomon Henderson here](https://files.catbox.moe/rhe7ze.jpg) |
 | 2026/06/05 | Cocteau Twins | Heaven or Las Vegas | 00:37:42 | Pop | Dream Pop | Unplayed | Low | Recommended by friend |
 | 2026/06/05 | My Bloody Valentine | Loveless | 00:48:35 | Pop | Shoegaze, Noise Pop, Dream Pop | Unplayed | Low | Recommended by friend |
-| 2026/06/05 | Tyler, The Creator | IGOR | 00:39:46 | Hip-Hop |  | Unplayed | High | in /Main |
+| 2026/06/05 | Tyler, The Creator | IGOR | 00:39:46 | Hip-Hop |  | Unplayed | Next | in /Main |
 | 2026/06/05 | Tyler, The Creator | CALL ME IF YOU GET LOST | 01:17:01 | Hip-Hop |  | Unplayed | High | in /Main |
 | 2026/06/05 | Danny Brown | Atrocity Exhibition | 00:46:38 | Hip-Hop |  | Unplayed | Low | Recommended by friend |
 | 2026/06/07 | Leverfall | Connected | 00:15:47 |  |  | Unplayed | Low |  |
@@ -128,7 +128,7 @@
 | 2026/06/13 | Aphex Twin | Selected Ambient Works 85–92 | 01:14:44 | Electronic | Ambient, Techno, IDM | Relisten | Low | In /Main |
 | 2026/06/14 | Aphex Twin | Ventolin EP | 00:53:57 | Electronic | IDM | Unplayed | Low |  |
 | 2026/06/15 | runescape斯凱利 | runescape.wav符文風景骨架 | 00:54:49 | Electronic | Ambient, Experimental, Vaporwave | Unplayed | Low |  |
-| 2026/06/16 | SAINT PEPSI | EMPIRE BUILDING | 00:35:04 | Electronic | Vaporwave | Unplayed | Medium |  |
+| 2026/06/16 | SAINT PEPSI | EMPIRE BUILDING | 00:35:04 | Electronic | Vaporwave | Unplayed | Next |  |
 | 2026/06/17 | Time Fragment | 装甲艦 (remastered edition) | 00:37:59 | Electronic | Ambient, IDM, Vaporwave | Unplayed | Medium | https://www.youtube.com/watch?v=s8WdtR-Jcv8 |
 | 2026/06/17 | Chris Travis | Pizza & Codeine | 00:51:00 | Hip-Hop | Cloud Rap | Not Downloaded | Low | Recommended by friend |
 
