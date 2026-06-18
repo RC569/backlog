@@ -77,7 +77,6 @@
 | 2026/04/07 | DJ Close Your Eyes to Find Me | Angel Trance Edits Volume Four | 00:21:36 | Electronic | Progressive Breaks | Unplayed | Low |  |
 | 2026/04/07 | Vangelis | Blade Runner | 00:57:37 | Electronic | Progressive, Ambient | Unplayed | Low | Movie Soundtrack |
 | 2026/04/07 | Erykah Badu | Baduizm | 01:29:04 | R&B | Neo-Soul | Unplayed | Low |  |
-| 2026/04/07 | Brian Eno | Ambient 1: Music For Airports | 00:48:01 | Ambient |  | Unplayed | Next |  |
 | 2026/04/07 | ミドリ | あらためまして、はじめまして、ミドリです。 | 00:31:08 | Punk | Art Punk, Jazz Rock | Unplayed | Low |  |
 | 2026/04/07 | Black Flag | Damaged | 00:35:03 | Rock | Hardcore punk | Unplayed | Low |  |
 | 2026/04/11 | TV Girl | Who Really Cares | 00:36:55 | Pop | Indie | Unplayed | Low |  |
