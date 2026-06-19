@@ -63,7 +63,6 @@
 | 2026/04/02 | Troye Sivan | Blue Neighbourhood | 00:58:58 | Pop | Electropop, Indie | Unplayed | Low | Recommended by friend |
 | 2026/04/02 | siinamota | Therefor. | 00:38:53 |  |  | Unplayed | Low | Recommended by friend |
 | 2026/04/03 | Flying Lotus | 1983 | 00:33:57 | Hip-Hop | Jazz Rap, Instrumental | Unplayed | Low |  |
-| 2026/04/03 | Flying Lotus | Los Angeles | 00:43:25 | Hip-Hop | Jazz Rap, Experimental | Unplayed | Next |  |
 | 2026/04/03 | Flying Lotus | Until the Quiet Comes | 00:46:49 | Hip-Hop | Jazz Rap, Experimental | Unplayed | Low |  |
 | 2026/04/03 | Flying Lotus | Ideas+drafts+loops | 01:01:22 | Hip-Hop | Jazz Rap, Experimental | Unplayed | Low |  |
 | 2026/04/04 | Animal Collective | Merriweather Post Pavilion | 00:54:45 | Pop | Experimental, Indie | Unplayed | Low |  |
