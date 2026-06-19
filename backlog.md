@@ -53,7 +53,7 @@
 | 2026/04/02 | Twenty One Pilots | Scaled and Icy | 00:37:42 | Pop | Alternative | Unplayed | Low | Recommended by friend |
 | 2026/04/02 | usedcvnt | ultraviolet | 00:36:12 |  |  | Unplayed | Low | Recommended by friend |
 | 2026/04/02 | Gesaffelstein | Conspiracy Pt.2 | 00:12:08 | Electronic | Dark, Industrial | Unplayed | Low | Recommended by friend |
-| 2026/04/02 | Pachinko | D\>E\>A\>T\>H\>M\>E\>T\>A\>L | 00:48:21 |  |  | Unplayed | High | Recommended by friend |
+| 2026/04/02 | Pachinko | D\>E\>A\>T\>H\>M\>E\>T\>A\>L | 00:48:21 |  |  | Unplayed | Next | Recommended by friend |
 | 2026/04/02 | Mr.Kitty | Time | 00:58:33 | Electronic | Dark Synth | Unplayed | Low | Recommended by friend |
 | 2026/04/02 | BLKSMIITH | DIGITAL TWIN | 00:39:15 |  |  | Unplayed | Low | Recommended by friend |
 | 2026/04/02 | Beach House | depression cherry | 00:44:48 | Pop | Dream, Indie | Unplayed | Low | Recommended by friend |
@@ -63,7 +63,7 @@
 | 2026/04/02 | Troye Sivan | Blue Neighbourhood | 00:58:58 | Pop | Electropop, Indie | Unplayed | Low | Recommended by friend |
 | 2026/04/02 | siinamota | Therefor. | 00:38:53 |  |  | Unplayed | Low | Recommended by friend |
 | 2026/04/03 | Flying Lotus | 1983 | 00:33:57 | Hip-Hop | Jazz Rap, Instrumental | Unplayed | Low |  |
-| 2026/04/03 | Flying Lotus | Los Angeles | 00:43:25 | Hip-Hop | Jazz Rap, Experimental | Unplayed | Low |  |
+| 2026/04/03 | Flying Lotus | Los Angeles | 00:43:25 | Hip-Hop | Jazz Rap, Experimental | Unplayed | Next |  |
 | 2026/04/03 | Flying Lotus | Until the Quiet Comes | 00:46:49 | Hip-Hop | Jazz Rap, Experimental | Unplayed | Low |  |
 | 2026/04/03 | Flying Lotus | Ideas+drafts+loops | 01:01:22 | Hip-Hop | Jazz Rap, Experimental | Unplayed | Low |  |
 | 2026/04/04 | Animal Collective | Merriweather Post Pavilion | 00:54:45 | Pop | Experimental, Indie | Unplayed | Low |  |
@@ -107,8 +107,8 @@
 | 2026/05/08 | Portishead | Dummy | 00:49:15 | Hip-Hop | Trip Hop | Unplayed | Low |  |
 | 2026/05/08 | Terminal 11 | Illegal Nervous Habits | 00:35:12 | Electronic | Breakcore, Drill n Bass | Unplayed | Low |  |
 | 2026/05/14 | Various | Los Angeles: Critical Mass | 00:53:26 | Electronic | Drum n Bass, Downtempo, Future Jazz, Trip Hop | Unplayed | Low | [YT Recommendation](https://www.youtube.com/watch?v=Qbwm5Kguksw), compilation |
-| 2026/05/14 | femtanyl | REACTOR | 00:13:41 | Electronic | Digital hardcore | Unplayed | Low |  |
-| 2026/05/14 | femtanyl | MAN BITES DOG | 00:32:04 | Electronic | Digital hardcore | Unplayed | Low |  |
+| 2026/05/14 | femtanyl | REACTOR | 00:13:41 | Electronic | Digital hardcore | Unplayed | Next |  |
+| 2026/05/14 | femtanyl | MAN BITES DOG | 00:32:04 | Electronic | Digital hardcore | Unplayed | Next |  |
 | 2026/05/15 | Steve Brenner | Signals | 00:37:54 | Electronic | Ambient | Unplayed | Low | [YT Recommendation](https://www.youtube.com/watch?v=pP4Cct_1di8) |
 | 2026/05/15 | METAROOM | SINGLES COLLECTION | 01:02:06 | Electronic | Glitchcore | Unplayed | Low |  |
 | 2026/05/17 | Burzum | Filosofem | 01:04:34 | Metal | Black Metal, Atmospheric | Unplayed | High | [Solomon Henderson here](https://files.catbox.moe/rhe7ze.jpg) |
