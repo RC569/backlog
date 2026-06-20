@@ -128,6 +128,6 @@
 | 2026/06/19 | Akira Yamaoka | Silent Hill 2 OST | 01:13:17 | Electronic | Ambient | Unplayed | Medium |  |
 | 2026/06/19 | Merzbow | Hybrid Noisebloom | 01:12:53 | Noise |  | Unplayed | Low |  |
 | 2026/06/19 | Merzbow | Venereology | 00:50:16 | Noise |  | Unplayed | Low |  |
-| Date Added | Machine Girl | …Because I’m Young Arrogant and Hate Everything You Stand For |  | Electronic | Digital Hardcore | Unplayed | Next | Recommended by friend |
+| 2026/06/20 | Rabbit Junk | Reframe | 1:04:07 | Electronic | Digital Hardcore | Unplayed | Low |  |
 
 <!-- | Date Added | Artist | Album | Length | Genre | Subgenre | Status | Priority | Notes | -->
