@@ -130,7 +130,7 @@
 | 2026/06/19 | Merzbow | Venereology | 00:50:16 | Noise |  | Unplayed | Low |  |
 | 2026/06/20 | Rabbit Junk | Reframe | 1:04:07 | Electronic | Digital Hardcore | Unplayed | Low |  |
 | 2026/06/20 | Rav | Beneath The Toxic Jungle | 00:31:37 | Hip-Hop | Abstract, Lo-Fi | Unplayed | Low |  |
-| 2026/06/20 | (\´･ω･\`) | Complete Moron | 00:31:07 | Electronic | Hardvapour | Unplayed | Low |  |
+| 2026/06/20 | (´･ω･\`) | Complete Moron | 00:31:07 | Electronic | Hardvapour | Unplayed | Low |  |
 
 <!-- | Date Added | Artist | Album | Length | Genre | Subgenre | Status | Priority | Notes | -->
 <!-- | Unplayed | Low |  | -->
