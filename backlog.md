@@ -129,18 +129,18 @@
 | 2026/06/20 | Rabbit Junk | Reframe | 1:04:07 | Electronic | Digital Hardcore | Unplayed | Low |  |
 | 2026/06/20 | Rav | Beneath The Toxic Jungle | 00:31:37 | Hip-Hop | Abstract, Lo-Fi | Unplayed | Low |  |
 | 2026/06/20 | (´･ω･\`) | Complete Moron | 00:31:07 | Electronic | Hardvapour | Unplayed | Low |  |
-| 2026/06/20 | Intervals | The Shape of Colour | 00:34:41 | Progressive Metal | Instrumental | Not Downloaded | Low | [Overstimulating instrumental](https://rym.fm/discussion/music/overstimulating-instrumental-music/) |
-| 2026/06/20 | Xanopticon | Liminal Space | 00:53:48 | Electronic | Breakcore | Not Downloaded | Low | [Overstimulating instrumental](https://rym.fm/discussion/music/overstimulating-instrumental-music/) |
-| 2026/06/20 | Squarepusher | Go Plastic | 00:48:39 | Electronic | Drill n bass | Not Downloaded | Low | [Overstimulating instrumental](https://rym.fm/discussion/music/overstimulating-instrumental-music/) |
-| 2026/06/20 | Tangled Thoughts of Leaving | Deaden the Fields | 01:01:56 | Rock | Post-Rock, Experimental, Glitch | Not Downloaded | Low | [Overstimulating instrumental](https://rym.fm/discussion/music/overstimulating-instrumental-music/) |
-| 2026/06/20 | µ-Ziq | Magic Pony Ride | 00:51:21 | Electronic | IDM, Drum and Bass, Breakbeat | Not Downloaded | Low | [Overstimulating instrumental](https://rym.fm/discussion/music/overstimulating-instrumental-music/) |
-| 2026/06/20 | Culprate | Deliverance | 00:56:03 | Electronic | IDM | Not Downloaded | Low | [Overstimulating instrumental](https://rym.fm/discussion/music/overstimulating-instrumental-music/) |
-| 2026/06/20 | Amon Tobin | Bricolage | 01:19:21 | Electronic | Nu Jazz, Jazzstep, IDM | Not Downloaded | Low | [Overstimulating instrumental](https://rym.fm/discussion/music/overstimulating-instrumental-music/) |
-| 2026/06/20 | Horse Lords | The Common Task | 00:41:13 | Rock | Experimental, Post-Rock | Not Downloaded | Low | [Overstimulating instrumental](https://rym.fm/discussion/music/overstimulating-instrumental-music/) |
-| 2026/06/20 | Glenn Branca | The Ascension | 00:42:07 | Rock | Noise, Experimental, Punk, Post-Rock | Not Downloaded | Low | [Overstimulating instrumental](https://rym.fm/discussion/music/overstimulating-instrumental-music/) |
-| 2026/06/20 | Steve Reich | Music for 18 Musicians | 00:58:55 |  |  | Not Downloaded | Low | [Overstimulating instrumental](https://rym.fm/discussion/music/overstimulating-instrumental-music/) |
-| 2026/06/20 | Plus-Tech Squeeze Box | Cartooom! | 00:28:05 |  | Picopop | Not Downloaded | Low | [Overstimulating instrumental](https://rym.fm/discussion/music/overstimulating-instrumental-music/) |
-| 2026/06/20 | i broke my robot | Tomorrow Does Not Exist |  | Electronic | IDM, Breakcore | Not Downloaded | Low | [Overstimulating instrumental](https://rym.fm/discussion/music/overstimulating-instrumental-music/) |
+| 2026/06/20 | Intervals | The Shape of Colour | 00:34:41 | Progressive Metal | Instrumental | Unplayed | Low | [Overstimulating instrumental](https://rym.fm/discussion/music/overstimulating-instrumental-music/) |
+| 2026/06/20 | Xanopticon | Liminal Space | 00:53:48 | Electronic | Breakcore | Unplayed | Low | [Overstimulating instrumental](https://rym.fm/discussion/music/overstimulating-instrumental-music/) |
+| 2026/06/20 | Squarepusher | Go Plastic | 00:48:39 | Electronic | Drill n bass | Unplayed | Low | [Overstimulating instrumental](https://rym.fm/discussion/music/overstimulating-instrumental-music/) |
+| 2026/06/20 | Tangled Thoughts of Leaving | Deaden the Fields | 01:01:56 | Rock | Post-Rock, Experimental, Glitch | Unplayed | Low | [Overstimulating instrumental](https://rym.fm/discussion/music/overstimulating-instrumental-music/) |
+| 2026/06/20 | µ-Ziq | Magic Pony Ride | 00:51:21 | Electronic | IDM, Drum and Bass, Breakbeat | Unplayed | Low | [Overstimulating instrumental](https://rym.fm/discussion/music/overstimulating-instrumental-music/) |
+| 2026/06/20 | Culprate | Deliverance | 00:56:03 | Electronic | IDM | Unplayed | Low | [Overstimulating instrumental](https://rym.fm/discussion/music/overstimulating-instrumental-music/) |
+| 2026/06/20 | Amon Tobin | Bricolage | 01:19:21 | Electronic | Nu Jazz, Jazzstep, IDM | Unplayed | Low | [Overstimulating instrumental](https://rym.fm/discussion/music/overstimulating-instrumental-music/) |
+| 2026/06/20 | Horse Lords | The Common Task | 00:41:13 | Rock | Experimental, Post-Rock | Unplayed | Low | [Overstimulating instrumental](https://rym.fm/discussion/music/overstimulating-instrumental-music/) |
+| 2026/06/20 | Glenn Branca | The Ascension | 00:42:07 | Rock | Noise, Experimental, Punk, Post-Rock | Unplayed | Low | [Overstimulating instrumental](https://rym.fm/discussion/music/overstimulating-instrumental-music/) |
+| 2026/06/20 | Steve Reich | Music for 18 Musicians | 00:58:55 |  |  | Unplayed | Low | [Overstimulating instrumental](https://rym.fm/discussion/music/overstimulating-instrumental-music/) |
+| 2026/06/20 | Plus-Tech Squeeze Box | Cartooom! | 00:28:05 |  | Picopop | Unplayed | Low | [Overstimulating instrumental](https://rym.fm/discussion/music/overstimulating-instrumental-music/) |
+| 2026/06/20 | i broke my robot | Tomorrow Does Not Exist |  | Electronic | IDM, Breakcore | Unplayed | Low | [Overstimulating instrumental](https://rym.fm/discussion/music/overstimulating-instrumental-music/) |
 
 <!-- | Date Added | Artist | Album | Length | Genre | Subgenre | Status | Priority | Notes | -->
 <!-- | Unplayed | Low |  | -->
