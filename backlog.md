@@ -54,7 +54,7 @@
 | 2026/04/02 | usedcvnt | ultraviolet | 00:36:12 |  |  | Unplayed | Low | Recommended by friend |
 | 2026/04/02 | Gesaffelstein | Conspiracy Pt.2 | 00:12:08 | Electronic | Dark, Industrial | Unplayed | Low | Recommended by friend |
 | 2026/04/02 | Mr.Kitty | Time | 00:58:33 | Electronic | Dark Synth | Unplayed | Low | Recommended by friend |
-| 2026/04/02 | BLKSMIITH | DIGITAL TWIN | 00:39:15 |  |  | Unplayed | Low | Recommended by friend |
+| 2026/04/02 | BLKSMIITH | DIGITAL TWIN | 00:39:15 |  |  | Unplayed | High | Recommended by friend |
 | 2026/04/02 | Beach House | depression cherry | 00:44:48 | Pop | Dream, Indie | Unplayed | Low | Recommended by friend |
 | 2026/04/02 | Gesaffelstein | Aleph | 01:06:17 | Electronic | Dark, Industrial | Unplayed | Low | Recommended by friend |
 | 2026/04/02 | David Bowie | Heroes | 00:40:44 | Rock | Glam | Unplayed | Low | Recommended by friend |
@@ -100,7 +100,7 @@
 | 2026/05/07 | Makoto | Believe in My Soul | 01:07:00 | Electronic | Drum n Bass | Unplayed | Medium |  |
 | 2026/05/07 | Peshay | Studio Set (1996) | 01:33:40 | Electronic | Drum n Bass | Unplayed | Low | DJ Mix |
 | 2026/05/08 | El-P | Fantastic Damage | 01:10:25 | Hip-Hop | Experimental | Unplayed | Low |  |
-| 2026/05/08 | Boards of Canada | Geogaddi | 01:08:11 | Electronic | IDM | Unplayed | High |  |
+| 2026/05/08 | Boards of Canada | Geogaddi | 01:08:11 | Electronic | IDM | Unplayed | Next |  |
 | 2026/05/08 | Deltron 3030 | Deltron 3030 | 01:00:28 | Hip-Hop | Abstract, Experimental | Unplayed | Low |  |
 | 2026/05/08 | Portishead | Dummy | 00:49:15 | Hip-Hop | Trip Hop | Unplayed | Low |  |
 | 2026/05/08 | Terminal 11 | Illegal Nervous Habits | 00:35:12 | Electronic | Breakcore, Drill n Bass | Unplayed | High |  |
@@ -109,7 +109,7 @@
 | 2026/05/17 | Burzum | Filosofem | 01:04:34 | Metal | Black Metal, Atmospheric | Unplayed | Next | [Solomon Henderson here](https://files.catbox.moe/rhe7ze.jpg) |
 | 2026/06/05 | Cocteau Twins | Heaven or Las Vegas | 00:37:42 | Pop | Dream Pop | Unplayed | Low | Recommended by friend |
 | 2026/06/05 | My Bloody Valentine | Loveless | 00:48:35 | Pop | Shoegaze, Noise Pop, Dream Pop | Unplayed | Low | Recommended by friend |
-| 2026/06/05 | Tyler, The Creator | CALL ME IF YOU GET LOST | 01:17:01 | Hip-Hop |  | Unplayed | High | in /Main |
+| 2026/06/05 | Tyler, The Creator | CALL ME IF YOU GET LOST | 01:17:01 | Hip-Hop |  | Unplayed | Next | in /Main |
 | 2026/06/05 | Danny Brown | Atrocity Exhibition | 00:46:38 | Hip-Hop |  | Unplayed | Low | Recommended by friend |
 | 2026/06/07 | Leverfall | Connected | 00:15:47 |  |  | Unplayed | Low |  |
 | 2026/06/08 | Oneohtrix Point Never | Tranquilizer | 00:58:00 | Electronic |  | Unplayed | Low |  |
