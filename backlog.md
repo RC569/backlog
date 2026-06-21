@@ -115,7 +115,6 @@
 | 2026/06/08 | Oneohtrix Point Never | Tranquilizer | 00:58:00 | Electronic |  | Unplayed | Low |  |
 | 2026/06/10 | Death Grips | Year of the Snitch | 00:37:12 | Hip Hop | Industrial, Abstract, Synth Punk | Unplayed | High |  |
 | 2026/06/10 | clipping. | Visions of Bodies Being Burned | 00:52:34 | Hip Hop | Horrorcore, Industrial, Experimental | Unplayed | Low |  |
-| 2026/06/12 | YAYAYI | \[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\[\]\[\]\[\]\[\]\[\]\[\]\[\[\]\[\[\[\]\[\]\]\[\[\]\[\]\[\]\[\]\[\]\]\[\]\]\[\]\[\]\[\]\[\]\[\]\]\[\]\[\]\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\]\[\]\]\[\]\[\]\[\]. PART666% Yayayayay Original Is 666% of This. Read Me U Lazyfuck U Pig Fuck. Bitchfuck Me. Pornstarsdonehate. Amateurporngodnevacummingsoon윌셔룸쌀롱 | 01:30:14 | Hip-Hop | Instrumental, Glitch Hop, Experimental, IDM | Unplayed | Next | Wow! Such a weird title :^) |
 | 2026/06/12 | Knxwledge | Hud Dreems | 00:36:44 | Hip-Hop | Instrumental | Unplayed | Low |  |
 | 2026/06/12 | Caustic Window | Caustic Window | 01:09:26 | Electronic | Ambient, IDM | Unplayed | Low |  |
 | 2026/06/13 | Aphex Twin | Selected Ambient Works 85–92 | 01:14:44 | Electronic | Ambient, Techno, IDM | Relisten | Low | In /Main |
