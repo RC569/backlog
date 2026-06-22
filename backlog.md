@@ -143,5 +143,10 @@
 | 2026/06/22 | C418 | Minecraft - Volume Alpha | 00:58:59 | Electronic | Ambient | Unplayed | High | in /OSTs  |
 | 2026/06/22 | C418 | Minecraft - Volume Beta | 02:20:55 | Electronic | Ambient | Unplayed | High | in /OSTs  |
 
+---
+### Other stuff
+
+Replace Oneshot soundtrack with https://musicbrainz.org/release/24de6f45-346f-4830-b48c-502a179c1717
+
 <!-- | Date Added | Artist | Album | Length | Genre | Subgenre | Status | Priority | Notes | -->
 <!-- | Unplayed | Low |  | -->
