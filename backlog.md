@@ -41,7 +41,7 @@
 | 2026/04/01 | Neurosis | An Undying Love For A Burning World | 01:03:33 | Metal | Post-Metal, Sludge | Unplayed | Low |  |
 | 2026/04/02 | Childish Gambino | Because the Internet | 00:58:01 | Hip-Hop |  | Unplayed | Medium | Recommended by friend |
 | 2026/04/02 | Childish Gambino | Camp | 00:56:11 | Hip-Hop |  | Unplayed | Low | Recommended by friend |
-| 2026/04/02 | Have a nice life | Deathconsciousness | 01:24:38 |  |  | Unplayed | Medium | Recommended by friend |
+| 2026/04/02 | Have a nice life | Deathconsciousness | 01:24:38 |  |  | Unplayed | Next | Recommended by friend |
 | 2026/04/02 | siinamota | Alive | 00:49:41 |  |  | Unplayed | Low | Recommended by friend |
 | 2026/04/02 | Vylet Pony | Monarch of Monsters | 01:23:52 |  |  | Unplayed | Low | Recommended by friend |
 | 2026/04/02 | siinamota | kokegane no uta | 00:26:25 |  |  | Unplayed | Low | Recommended by friend |
@@ -80,7 +80,7 @@
 | 2026/04/11 | TV Girl | Who Really Cares | 00:36:55 | Pop | Indie | Unplayed | Low |  |
 | 2026/04/11 | The Velvet Underground & Nico | The Velvet Underground & Nico | 00:48:57 | Rock | Garage, Experimental | Unplayed | Low |  |
 | 2026/04/18 | Slipknot | Iowa | 01:06:25 | Metal | Nu-Metal | Unplayed | Low |  |
-| 2026/04/20 | DJ Food | The Search Engine | 00:55:29 | Electronic, Hip-Hop |  | Unplayed | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
+| 2026/04/20 | DJ Food | The Search Engine | 00:55:29 | Electronic, Hip-Hop |  | Unplayed | Next | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
 | 2026/04/20 | LemKuuja | CHEESECAKE+ | 01:03:17 | Electronic | | Unplayed | Medium | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
 | 2026/04/20 | The Misfits | Static Age | 00:35:04 | Rock | Punk | Unplayed | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
 | 2026/04/20 | Style Of Eye & Magnus The Magnus | Antidote | 00:06:30 | Electronic |  | Unplayed | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
@@ -100,7 +100,6 @@
 | 2026/05/07 | Makoto | Believe in My Soul | 01:07:00 | Electronic | Drum n Bass | Unplayed | Medium |  |
 | 2026/05/07 | Peshay | Studio Set (1996) | 01:33:40 | Electronic | Drum n Bass | Unplayed | Low | DJ Mix |
 | 2026/05/08 | El-P | Fantastic Damage | 01:10:25 | Hip-Hop | Experimental | Unplayed | Low |  |
-| 2026/05/08 | Boards of Canada | Geogaddi | 01:08:11 | Electronic | IDM | Unplayed | Next |  |
 | 2026/05/08 | Deltron 3030 | Deltron 3030 | 01:00:28 | Hip-Hop | Abstract, Experimental | Unplayed | Low |  |
 | 2026/05/08 | Portishead | Dummy | 00:49:15 | Hip-Hop | Trip Hop | Unplayed | Low |  |
 | 2026/05/08 | Terminal 11 | Illegal Nervous Habits | 00:35:12 | Electronic | Breakcore, Drill n Bass | Unplayed | High |  |
@@ -139,14 +138,11 @@
 | 2026/06/20 | Glenn Branca | The Ascension | 00:42:07 | Rock | Noise, Experimental, Punk, Post-Rock | Unplayed | Low | [Overstimulating instrumental](https://rym.fm/discussion/music/overstimulating-instrumental-music/) |
 | 2026/06/20 | Steve Reich | Music for 18 Musicians | 00:58:55 |  |  | Unplayed | Low | [Overstimulating instrumental](https://rym.fm/discussion/music/overstimulating-instrumental-music/) |
 | 2026/06/20 | Plus-Tech Squeeze Box | Cartooom! | 00:28:05 |  | Picopop | Unplayed | Low | [Overstimulating instrumental](https://rym.fm/discussion/music/overstimulating-instrumental-music/) |
-| 2026/06/20 | i broke my robot | Tomorrow Does Not Exist |  | Electronic | IDM, Breakcore | Unplayed | Low | [Overstimulating instrumental](https://rym.fm/discussion/music/overstimulating-instrumental-music/) |
+| 2026/06/20 | i broke my robot | Tomorrow Does Not Exist | 00:49:32 | Electronic | IDM, Breakcore | Unplayed | Low | [Overstimulating instrumental](https://rym.fm/discussion/music/overstimulating-instrumental-music/) |
 | 2026/06/22 | C418 | Minecraft - Volume Alpha | 00:58:59 | Electronic | Ambient | Unplayed | High | in /OSTs  |
 | 2026/06/22 | C418 | Minecraft - Volume Beta | 02:20:55 | Electronic | Ambient | Unplayed | High | in /OSTs  |
 
 ---
-### Other stuff
-
-Replace Oneshot soundtrack with https://musicbrainz.org/release/24de6f45-346f-4830-b48c-502a179c1717
 
 <!-- | Date Added | Artist | Album | Length | Genre | Subgenre | Status | Priority | Notes | -->
 <!-- | Unplayed | Low |  | -->
