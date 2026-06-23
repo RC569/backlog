@@ -80,7 +80,6 @@
 | 2026/04/11 | TV Girl | Who Really Cares | 00:36:55 | Pop | Indie | Unplayed | Low |  |
 | 2026/04/11 | The Velvet Underground & Nico | The Velvet Underground & Nico | 00:48:57 | Rock | Garage, Experimental | Unplayed | Low |  |
 | 2026/04/18 | Slipknot | Iowa | 01:06:25 | Metal | Nu-Metal | Unplayed | Low |  |
-| 2026/04/20 | DJ Food | The Search Engine | 00:55:29 | Electronic, Hip-Hop |  | Unplayed | Next | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
 | 2026/04/20 | LemKuuja | CHEESECAKE+ | 01:03:17 | Electronic | | Unplayed | Medium | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
 | 2026/04/20 | The Misfits | Static Age | 00:35:04 | Rock | Punk | Unplayed | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
 | 2026/04/20 | Style Of Eye & Magnus The Magnus | Antidote | 00:06:30 | Electronic |  | Unplayed | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
