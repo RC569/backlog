@@ -105,7 +105,6 @@
 | 2026/05/08 | Terminal 11 | Illegal Nervous Habits | 00:35:12 | Electronic | Breakcore, Drill n Bass | Unplayed | High |  |
 | 2026/05/15 | Steve Brenner | Signals | 00:37:54 | Electronic | Ambient | Unplayed | Low | [YT Recommendation](https://www.youtube.com/watch?v=pP4Cct_1di8) |
 | 2026/05/15 | METAROOM | SINGLES COLLECTION | 01:02:06 | Electronic | Glitchcore | Unplayed | Low |  |
-| 2026/05/17 | Burzum | Filosofem | 01:04:34 | Metal | Black Metal, Atmospheric | Unplayed | Next | [Solomon Henderson here](https://files.catbox.moe/rhe7ze.jpg) |
 | 2026/06/05 | Cocteau Twins | Heaven or Las Vegas | 00:37:42 | Pop | Dream Pop | Unplayed | Low | Recommended by friend |
 | 2026/06/05 | My Bloody Valentine | Loveless | 00:48:35 | Pop | Shoegaze, Noise Pop, Dream Pop | Unplayed | Low | Recommended by friend |
 | 2026/06/05 | Danny Brown | Atrocity Exhibition | 00:46:38 | Hip-Hop |  | Unplayed | Low | Recommended by friend |
