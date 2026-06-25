@@ -136,7 +136,6 @@
 | 2026/06/20 | Steve Reich | Music for 18 Musicians | 00:58:55 |  |  | Unplayed | Low | [Overstimulating instrumental](https://rym.fm/discussion/music/overstimulating-instrumental-music/) |
 | 2026/06/20 | Plus-Tech Squeeze Box | Cartooom! | 00:28:05 |  | Picopop | Unplayed | Low | [Overstimulating instrumental](https://rym.fm/discussion/music/overstimulating-instrumental-music/) |
 | 2026/06/20 | i broke my robot | Tomorrow Does Not Exist | 00:49:32 | Electronic | IDM, Breakcore | Unplayed | Low | [Overstimulating instrumental](https://rym.fm/discussion/music/overstimulating-instrumental-music/) |
-| 2026/06/22 | C418 | Minecraft - Volume Beta | 02:20:55 | Electronic | Ambient | Unplayed | Next | in /OSTs  |
 
 <!-- | Date Added | Artist | Album | Length | Genre | Subgenre | Status | Priority | Notes | -->
 <!-- | Unplayed | Low |  | -->
