@@ -41,7 +41,6 @@
 | 2026/04/01 | Neurosis | An Undying Love For A Burning World | 01:03:33 | Metal | Post-Metal, Sludge | Unplayed | Low |  |
 | 2026/04/02 | Childish Gambino | Because the Internet | 00:58:01 | Hip-Hop |  | Unplayed | Medium | Recommended by friend |
 | 2026/04/02 | Childish Gambino | Camp | 00:56:11 | Hip-Hop |  | Unplayed | Low | Recommended by friend |
-| 2026/04/02 | Have a nice life | Deathconsciousness | 01:24:38 |  |  | Unplayed | Next | Recommended by friend |
 | 2026/04/02 | siinamota | Alive | 00:49:41 |  |  | Unplayed | Low | Recommended by friend |
 | 2026/04/02 | Vylet Pony | Monarch of Monsters | 01:23:52 |  |  | Unplayed | Low | Recommended by friend |
 | 2026/04/02 | siinamota | kokegane no uta | 00:26:25 |  |  | Unplayed | Low | Recommended by friend |
