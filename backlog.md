@@ -137,11 +137,11 @@
 | 2026/06/20 | i broke my robot | Tomorrow Does Not Exist | 00:49:32 | Electronic | IDM, Breakcore | Unplayed | Low | [Overstimulating instrumental](https://rym.fm/discussion/music/overstimulating-instrumental-music/) |
 | 2026/06/23 | Vince Staples | Big Fish Theory | 00:36:08 | Hip-Hop |  | Unplayed | Low |  |
 | 2026/06/23 | Dälek | Absence | 00:57:12 | Hip-Hop | Ambient, Experimental | Unplayed | Medium |  |
-| 2026/06/25 | Lucy Bedroque | SISTERHOOD | 00:38:55 |  |  | Unplayed | High | BLINK |
-| 2026/06/25 | Lucy Bedroque | Amy | 00:07:20 |  |  | Unplayed | High | BLINK |
-| 2026/06/25 | Egobreak & Lucy Bedroque | TETHER | 00:14:00 |  |  | Unplayed | High | BLINK |
-| 2026/06/25 | Lucy Bedroque | Fête de la Vanille | 00:19:04 |  |  | Unplayed | High | BLINK |
-| 2026/06/25 | Lucy Bedroque | Unmusique | 00:40:03 |  |  | Unplayed | High | BLINK |
+| 2026/06/25 | Lucy Bedroque | SISTERHOOD | 00:38:55 |  |  | Unplayed | Next | BLINK |
+| 2026/06/25 | Lucy Bedroque | Amy | 00:07:20 |  |  | Unplayed | Next | BLINK |
+| 2026/06/25 | Egobreak & Lucy Bedroque | TETHER | 00:14:00 |  |  | Unplayed | Next | BLINK |
+| 2026/06/25 | Lucy Bedroque | Fête de la Vanille | 00:19:04 |  |  | Unplayed | Next | BLINK |
+| 2026/06/25 | Lucy Bedroque | Unmusique | 00:40:03 |  |  | Unplayed | Next | BLINK |
 
 <!-- | Date Added | Artist | Album | Length | Genre | Subgenre | Status | Priority | Notes | -->
 <!-- | Unplayed | Low |  | -->
