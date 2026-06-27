@@ -32,7 +32,7 @@
 | 2026/03/28 | System of a Down | Steal This Album! | 00:43:31 | Metal | Alternative | Unplayed | Low |  |
 | 2026/03/29 | Pendulum | Immersion | 01:07:23 | Electronic | Industrial Rock, Drum n bass | Unplayed | Low |  |
 | 2026/04/01 | Nujabes | Metaphorical Music | 01:02:29 | Hip-Hop | Jazz Rap, Instrumental | Unplayed | Low |  |
-| 2026/04/01 | Nujabes | Modal Soul | 01:03:35 | Hip-Hop | Jazz Rap, Instrumental | Unplayed | High |  |
+| 2026/04/01 | Nujabes | Modal Soul | 01:03:35 | Hip-Hop | Jazz Rap, Instrumental | Unplayed | Next |  |
 | 2026/04/01 | The Roots | Do You Want More?!!!??! | 01:13:51 | Hip-Hop | Conscious | Unplayed | Low |  |
 | 2026/04/01 | JPEGMAFIA | Veteran | 00:42:30 | Hip-Hop | Experimental, Industrial | Unplayed | Low |  |
 | 2026/04/01 | Scattle | Sketch | 00:34:30 | Electronic | Synthwave, Dark Synth | Unplayed | Low |  |
@@ -53,7 +53,7 @@
 | 2026/04/02 | usedcvnt | ultraviolet | 00:36:12 |  |  | Unplayed | Low | Recommended by friend |
 | 2026/04/02 | Gesaffelstein | Conspiracy Pt.2 | 00:12:08 | Electronic | Dark, Industrial | Unplayed | Low | Recommended by friend |
 | 2026/04/02 | Mr.Kitty | Time | 00:58:33 | Electronic | Dark Synth | Unplayed | Low | Recommended by friend |
-| 2026/04/02 | BLKSMIITH | DIGITAL TWIN | 00:39:15 |  |  | Unplayed | High | Recommended by friend |
+| 2026/04/02 | BLKSMIITH | DIGITAL TWIN | 00:39:15 |  |  | Unplayed | Next | Recommended by friend |
 | 2026/04/02 | Beach House | depression cherry | 00:44:48 | Pop | Dream, Indie | Unplayed | Low | Recommended by friend |
 | 2026/04/02 | Gesaffelstein | Aleph | 01:06:17 | Electronic | Dark, Industrial | Unplayed | Low | Recommended by friend |
 | 2026/04/02 | David Bowie | Heroes | 00:40:44 | Rock | Glam | Unplayed | Low | Recommended by friend |
@@ -117,7 +117,7 @@
 | 2026/06/17 | Time Fragment | 装甲艦 (remastered edition) | 00:37:59 | Electronic | Ambient, IDM, Vaporwave | Unplayed | Medium | https://www.youtube.com/watch?v=s8WdtR-Jcv8 |
 | 2026/06/17 | Chris Travis | Pizza & Codeine | 00:51:00 | Hip-Hop | Cloud Rap | Not Downloaded | Low | Recommended by friend |
 | 2026/06/18 | Rafael Anton Irisarri | Points of Inaccessibility | 00:41:09 | Ambient | Drone | Unplayed | Low |  |
-| 2026/06/19 | Akira Yamaoka | Silent Hill 2 OST | 01:13:17 | Electronic | Ambient | Unplayed | Medium |  |
+| 2026/06/19 | Akira Yamaoka | Silent Hill 2 OST | 01:13:17 | Electronic | Ambient | Unplayed | Medium | Listen after completing SH2 |
 | 2026/06/19 | Merzbow | Hybrid Noisebloom | 01:12:53 | Noise |  | Unplayed | Low |  |
 | 2026/06/19 | Merzbow | Venereology | 00:50:16 | Noise |  | Unplayed | Low |  |
 | 2026/06/20 | Rabbit Junk | Reframe | 1:04:07 | Electronic | Digital Hardcore | Unplayed | Low |  |
