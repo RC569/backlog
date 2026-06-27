@@ -42,7 +42,7 @@
 | 2026/04/02 | Childish Gambino | Because the Internet | 00:58:01 | Hip-Hop |  | Unplayed | Medium | Recommended by friend |
 | 2026/04/02 | Childish Gambino | Camp | 00:56:11 | Hip-Hop |  | Unplayed | Low | Recommended by friend |
 | 2026/04/02 | siinamota | Alive | 00:49:41 |  |  | Unplayed | Low | Recommended by friend |
-| 2026/04/02 | Vylet Pony | Monarch of Monsters | 01:23:52 |  |  | Unplayed | Low | Recommended by friend |
+| 2026/04/02 | Vylet Pony | Monarch of Monsters | 01:23:52 |  |  | Unplayed | High | Recommended by friend |
 | 2026/04/02 | siinamota | kokegane no uta | 00:26:25 |  |  | Unplayed | Low | Recommended by friend |
 | 2026/04/02 | 2003 Toyota Corolla | 2003 Toyota Corolla | 01:17:03 |  |  | Unplayed | Low | Recommended by friend |
 | 2026/04/02 | Maroon 5 | V | 00:52:18 | Pop | Pop Rock | Unplayed | Low | Recommended by friend |
@@ -50,19 +50,19 @@
 | 2026/04/02 | Frank Sinatra | Nothing But The Best | 01:14:36 | Jazz | Traditional Pop | Unplayed | Low | Recommended by friend |
 | 2026/04/02 | Ozzy Ozbourne | Down to Earth | 00:48:40 | Metal |  | Unplayed | Low | Recommended by friend |
 | 2026/04/02 | Twenty One Pilots | Scaled and Icy | 00:37:42 | Pop | Alternative | Unplayed | Low | Recommended by friend |
-| 2026/04/02 | usedcvnt | ultraviolet | 00:36:12 |  |  | Unplayed | Low | Recommended by friend |
+| 2026/04/02 | usedcvnt | ultraviolet | 00:36:12 |  |  | Unplayed | Medium | Recommended by friend |
 | 2026/04/02 | Gesaffelstein | Conspiracy Pt.2 | 00:12:08 | Electronic | Dark, Industrial | Unplayed | Low | Recommended by friend |
 | 2026/04/02 | Mr.Kitty | Time | 00:58:33 | Electronic | Dark Synth | Unplayed | Low | Recommended by friend |
 | 2026/04/02 | BLKSMIITH | DIGITAL TWIN | 00:39:15 |  |  | Unplayed | Next | Recommended by friend |
-| 2026/04/02 | Beach House | depression cherry | 00:44:48 | Pop | Dream, Indie | Unplayed | Low | Recommended by friend |
+| 2026/04/02 | Beach House | depression cherry | 00:44:48 | Pop | Dream, Indie | Unplayed | Medium | Recommended by friend |
 | 2026/04/02 | Gesaffelstein | Aleph | 01:06:17 | Electronic | Dark, Industrial | Unplayed | Low | Recommended by friend |
 | 2026/04/02 | David Bowie | Heroes | 00:40:44 | Rock | Glam | Unplayed | Low | Recommended by friend |
 | 2026/04/02 | Mitch Murder | Selection 2 | 00:26:19 | Synthwave |  | Unplayed | Low | Recommended by friend |
 | 2026/04/02 | Troye Sivan | Blue Neighbourhood | 00:58:58 | Pop | Electropop, Indie | Unplayed | Low | Recommended by friend |
 | 2026/04/02 | siinamota | Therefor. | 00:38:53 |  |  | Unplayed | Low | Recommended by friend |
 | 2026/04/03 | Flying Lotus | 1983 | 00:33:57 | Hip-Hop | Jazz Rap, Instrumental | Unplayed | Low |  |
-| 2026/04/03 | Flying Lotus | Until the Quiet Comes | 00:46:49 | Hip-Hop | Jazz Rap, Experimental | Unplayed | Low |  |
-| 2026/04/03 | Flying Lotus | Ideas+drafts+loops | 01:01:22 | Hip-Hop | Jazz Rap, Experimental | Unplayed | Low |  |
+| 2026/04/03 | Flying Lotus | Until the Quiet Comes | 00:46:49 | Hip-Hop | Jazz Rap, Experimental | Unplayed | High |  |
+| 2026/04/03 | Flying Lotus | Ideas+drafts+loops | 01:01:22 | Hip-Hop | Jazz Rap, Experimental | Unplayed | High |  |
 | 2026/04/04 | Animal Collective | Merriweather Post Pavilion | 00:54:45 | Pop | Experimental, Indie | Unplayed | Low |  |
 | 2026/04/04 | Bring Me The Horizon | That's The Spirit | 00:45:03 | Rock | Alternative | Unplayed | Low |  |
 | 2026/04/06 | Freddie Gibbs | Piñata | 01:00:20 | Hip-Hop | Gangster Rap | Unplayed | Low |  |
