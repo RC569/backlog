@@ -31,8 +31,7 @@
 | 2026/03/21 | Gris | Il Était Une Forêt | 00:59:32 | Metal | Black, Atmospheric | Unplayed | Low |  |
 | 2026/03/28 | System of a Down | Steal This Album! | 00:43:31 | Metal | Alternative | Unplayed | Low |  |
 | 2026/03/29 | Pendulum | Immersion | 01:07:23 | Electronic | Industrial Rock, Drum n bass | Unplayed | Low |  |
-| 2026/04/01 | Nujabes | Metaphorical Music | 01:02:29 | Hip-Hop | Jazz Rap, Instrumental | Unplayed | Low |  |
-| 2026/04/01 | Nujabes | Modal Soul | 01:03:35 | Hip-Hop | Jazz Rap, Instrumental | Unplayed | Next |  |
+| 2026/04/01 | Nujabes | Metaphorical Music | 01:02:29 | Hip-Hop | Jazz Rap, Instrumental | Unplayed | Next |  |
 | 2026/04/01 | The Roots | Do You Want More?!!!??! | 01:13:51 | Hip-Hop | Conscious | Unplayed | Low |  |
 | 2026/04/01 | JPEGMAFIA | Veteran | 00:42:30 | Hip-Hop | Experimental, Industrial | Unplayed | Low |  |
 | 2026/04/01 | Scattle | Sketch | 00:34:30 | Electronic | Synthwave, Dark Synth | Unplayed | Low |  |
@@ -42,7 +41,7 @@
 | 2026/04/02 | Childish Gambino | Because the Internet | 00:58:01 | Hip-Hop |  | Unplayed | Medium | Recommended by friend |
 | 2026/04/02 | Childish Gambino | Camp | 00:56:11 | Hip-Hop |  | Unplayed | Low | Recommended by friend |
 | 2026/04/02 | siinamota | Alive | 00:49:41 |  |  | Unplayed | Low | Recommended by friend |
-| 2026/04/02 | Vylet Pony | Monarch of Monsters | 01:23:52 |  |  | Unplayed | High | Recommended by friend |
+| 2026/04/02 | Vylet Pony | Monarch of Monsters | 01:23:52 |  |  | Unplayed | Next | Recommended by friend |
 | 2026/04/02 | siinamota | kokegane no uta | 00:26:25 |  |  | Unplayed | Low | Recommended by friend |
 | 2026/04/02 | 2003 Toyota Corolla | 2003 Toyota Corolla | 01:17:03 |  |  | Unplayed | Low | Recommended by friend |
 | 2026/04/02 | Maroon 5 | V | 00:52:18 | Pop | Pop Rock | Unplayed | Low | Recommended by friend |
@@ -124,7 +123,7 @@
 | 2026/06/20 | Rav | Beneath The Toxic Jungle | 00:31:37 | Hip-Hop | Abstract, Lo-Fi | Unplayed | Low |  |
 | 2026/06/20 | (´･ω･\`) | Complete Moron | 00:31:07 | Electronic | Hardvapour | Unplayed | Low |  |
 | 2026/06/20 | Intervals | The Shape of Colour | 00:34:41 | Progressive Metal | Instrumental | Unplayed | Low | [Overstimulating instrumental](https://rym.fm/discussion/music/overstimulating-instrumental-music/) |
-| 2026/06/20 | Xanopticon | Liminal Space | 00:53:48 | Electronic | Breakcore | Unplayed | Low | [Overstimulating instrumental](https://rym.fm/discussion/music/overstimulating-instrumental-music/) |
+| 2026/06/20 | Xanopticon | Liminal Space | 00:53:48 | Electronic | Breakcore | Unplayed | Next | [Overstimulating instrumental](https://rym.fm/discussion/music/overstimulating-instrumental-music/) |
 | 2026/06/20 | Squarepusher | Go Plastic | 00:48:39 | Electronic | Drill n bass | Unplayed | Low | [Overstimulating instrumental](https://rym.fm/discussion/music/overstimulating-instrumental-music/) |
 | 2026/06/20 | Tangled Thoughts of Leaving | Deaden the Fields | 01:01:56 | Rock | Post-Rock, Experimental, Glitch | Unplayed | Low | [Overstimulating instrumental](https://rym.fm/discussion/music/overstimulating-instrumental-music/) |
 | 2026/06/20 | µ-Ziq | Magic Pony Ride | 00:51:21 | Electronic | IDM, Drum and Bass, Breakbeat | Unplayed | Low | [Overstimulating instrumental](https://rym.fm/discussion/music/overstimulating-instrumental-music/) |
