@@ -14,30 +14,30 @@
 | 2025/07/22 | Black Sabbath | Sabbath Bloody Sabbath | 00:42:29 | Metal |  | Unplayed | Medium |  |
 | 2025/07/30 | Deftones | Deftones | 00:47:12 | Metal | Alternative, Nu-Metal | Unplayed | Low |  |
 | 2025/07/30 | Deftones | Saturday Night Wrist | 00:56:28 | Metal | Alternative, Nu-Metal | Unplayed | Low |  |
-| 2025/08/20 | X Japan | Vanishing Vision | 00:42:07 | Metal |  | Unplayed | Medium |  |
-| 2025/08/20 | X Japan | BLUE BLOOD | 01:05:16 | Metal |  | Unplayed | Medium |  |
-| 2025/08/20 | X Japan | Jealousy | 00:50:21 | Metal |  | Unplayed | Medium |  |
-| 2025/08/20 | X Japan | Art Of Life | 00:29:00 | Metal |  | Unplayed | Medium |  |
-| 2025/08/20 | X Japan | Dahlia | 00:57:26 | Metal |  | Unplayed | Medium |  |
-| 2025/08/20 | Dir En Grey | GAUZE | 01:04:52 | Metal |  | Unplayed | Medium |  |
-| 2025/08/20 | Dir En Grey | Vulgar | 00:57:08 | Metal |  | Unplayed | Medium |  |
-| 2025/08/20 | Dir En Grey | Withering to Death | 00:51:20 | Metal |  | Unplayed | Medium |  |
-| 2025/08/20 | Dir En Grey | Uroboros | 01:07:46 | Metal |  | Unplayed | Medium |  |
-| 2025/08/20 | Dir En Grey | Arche | 01:08:06 | Metal |  | Unplayed | Medium |  |
-| 2025/09/30 | Lil Wayne | Tha Carter II | 01:17:33 | Hip-Hop |  | Unplayed | Low |  |
+| 2025/08/20 | X Japan | Vanishing Vision | 00:42:07 | Metal |  | Unplayed | High |  |
+| 2025/08/20 | X Japan | BLUE BLOOD | 01:05:16 | Metal |  | Unplayed | Low |  |
+| 2025/08/20 | X Japan | Jealousy | 00:50:21 | Metal |  | Unplayed | Low |  |
+| 2025/08/20 | X Japan | Art Of Life | 00:29:00 | Metal |  | Unplayed | Low |  |
+| 2025/08/20 | X Japan | Dahlia | 00:57:26 | Metal |  | Unplayed | Low |  |
+| 2025/08/20 | Dir En Grey | GAUZE | 01:04:52 | Metal |  | Unplayed | High |  |
+| 2025/08/20 | Dir En Grey | Vulgar | 00:57:08 | Metal |  | Unplayed | Low |  |
+| 2025/08/20 | Dir En Grey | Withering to Death | 00:51:20 | Metal |  | Unplayed | Low |  |
+| 2025/08/20 | Dir En Grey | Uroboros | 01:07:46 | Metal |  | Unplayed | Low |  |
+| 2025/08/20 | Dir En Grey | Arche | 01:08:06 | Metal |  | Unplayed | Low |  |
+| 2025/09/30 | Lil Wayne | Tha Carter II | 01:17:33 | Hip-Hop |  | Unplayed | Medium |  |
 | 2025/09/30 | Lil Wayne | Tha Carter III | 01:18:03 | Hip-Hop |  | Unplayed | Low |  |
 | 2025/09/30 | Lil Wayne | Tha Carter IV | 01:23:23 | Hip-Hop |  | Unplayed | Low |  |
 | 2025/10/25 | Edwin Birdsong | Edwin Birdsong | 01:14:25 | Funk, Soul |  | Unplayed | Low |  |
-| 2026/03/21 | Gris | Il Était Une Forêt | 00:59:32 | Metal | Black, Atmospheric | Unplayed | Low |  |
+| 2026/03/21 | Gris | Il Était Une Forêt | 00:59:32 | Metal | Black, Atmospheric | Unplayed | Medium |  |
 | 2026/03/28 | System of a Down | Steal This Album! | 00:43:31 | Metal | Alternative | Unplayed | Low |  |
-| 2026/03/29 | Pendulum | Immersion | 01:07:23 | Electronic | Industrial Rock, Drum n bass | Unplayed | Low |  |
-| 2026/04/01 | Nujabes | Metaphorical Music | 01:02:29 | Hip-Hop | Jazz Rap, Instrumental | Unplayed | Next |  |
+| 2026/03/29 | Pendulum | Immersion | 01:07:23 | Electronic | Industrial Rock, Drum n bass | Unplayed | Medium |  |
+| 2026/04/01 | Nujabes | Metaphorical Music | 01:02:29 | Hip-Hop | Jazz Rap, Instrumental | Unplayed | High |  |
 | 2026/04/01 | The Roots | Do You Want More?!!!??! | 01:13:51 | Hip-Hop | Conscious | Unplayed | Low |  |
-| 2026/04/01 | JPEGMAFIA | Veteran | 00:42:30 | Hip-Hop | Experimental, Industrial | Unplayed | Low |  |
+| 2026/04/01 | JPEGMAFIA | Veteran | 00:42:30 | Hip-Hop | Experimental, Industrial | Unplayed | Medium |  |
 | 2026/04/01 | Scattle | Sketch | 00:34:30 | Electronic | Synthwave, Dark Synth | Unplayed | Low |  |
 | 2026/04/01 | Nirvana | In Utero | 00:41:27 | Rock | Grunge | Unplayed | Low |  |
 | 2026/04/01 | Nirvana | Bleach | 00:42:43 | Rock | Grunge | Unplayed | Low |  |
-| 2026/04/01 | Neurosis | An Undying Love For A Burning World | 01:03:33 | Metal | Post-Metal, Sludge | Unplayed | Low |  |
+| 2026/04/01 | Neurosis | An Undying Love For A Burning World | 01:03:33 | Metal | Post-Metal, Sludge | Unplayed | Medium |  |
 | 2026/04/02 | Childish Gambino | Because the Internet | 00:58:01 | Hip-Hop |  | Unplayed | Medium | Recommended by friend |
 | 2026/04/02 | Childish Gambino | Camp | 00:56:11 | Hip-Hop |  | Unplayed | Low | Recommended by friend |
 | 2026/04/02 | siinamota | Alive | 00:49:41 |  |  | Unplayed | Low | Recommended by friend |
