@@ -136,6 +136,7 @@
 | 2026/06/23 | Vince Staples | Big Fish Theory | 00:36:08 | Hip-Hop |  | Unplayed | Low |  |
 | 2026/06/23 | Dälek | Absence | 00:57:12 | Hip-Hop | Ambient, Experimental | Unplayed | Medium |  |
 | 2026/06/28 | Stevie Wonder | Songs in the Key of Life | Length | Soul |  | Unplayed | Low |  |
+| 2026/06/28 | Boards of Canada | Inferno | 01:09:51 | Electronic | Downtempo, Hauntology | Unplayed | High |  |
 
 <!-- 
 | Date Added | Artist | Album | Length | Genre | Subgenre | Status | Priority | Notes |
