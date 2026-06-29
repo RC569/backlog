@@ -8,22 +8,22 @@
 
 | Date Added | Artist | Album | Length | Genre | Subgenre | Status | Priority | Notes |
 |---|---|---|---|---|---|---|---|---|
-| 2025/06/25 | Madlib The Beat Konducta | Vol. 1-2: Movie Scenes | 00:59:33 | Hip-Hop | Jazz | Unplayed | Low |  |
-| 2025/07/19 | BELL WITCH | Stygian Bough Volume I | 01:04:19 | Metal | Doom, Funeral | Unplayed | Low |  |
-| 2025/07/22 | Black Sabbath | Sabotage | 00:43:37 | Metal |  | Unplayed | Low |  |
-| 2025/07/22 | Black Sabbath | Sabbath Bloody Sabbath | 00:42:29 | Metal |  | Unplayed | Low |  |
+| 2025/06/25 | Madlib The Beat Konducta | Vol. 1-2: Movie Scenes | 00:59:33 | Hip-Hop | Jazz | Unplayed | High |  |
+| 2025/07/19 | BELL WITCH | Stygian Bough Volume I | 01:04:19 | Metal | Doom, Funeral | Unplayed | Medium |  |
+| 2025/07/22 | Black Sabbath | Sabotage | 00:43:37 | Metal |  | Unplayed | Medium |  |
+| 2025/07/22 | Black Sabbath | Sabbath Bloody Sabbath | 00:42:29 | Metal |  | Unplayed | Medium |  |
 | 2025/07/30 | Deftones | Deftones | 00:47:12 | Metal | Alternative, Nu-Metal | Unplayed | Low |  |
 | 2025/07/30 | Deftones | Saturday Night Wrist | 00:56:28 | Metal | Alternative, Nu-Metal | Unplayed | Low |  |
-| 2025/08/20 | X Japan | Vanishing Vision | 00:42:07 | Metal |  | Unplayed | Low |  |
-| 2025/08/20 | X Japan | BLUE BLOOD | 01:05:16 | Metal |  | Unplayed | Low |  |
-| 2025/08/20 | X Japan | Jealousy | 00:50:21 | Metal |  | Unplayed | Low |  |
-| 2025/08/20 | X Japan | Art Of Life | 00:29:00 | Metal |  | Unplayed | Low |  |
-| 2025/08/20 | X Japan | Dahlia | 00:57:26 | Metal |  | Unplayed | Low |  |
-| 2025/08/20 | Dir En Grey | GAUZE | 01:04:52 | Metal |  | Unplayed | Low |  |
-| 2025/08/20 | Dir En Grey | Vulgar | 00:57:08 | Metal |  | Unplayed | Low |  |
-| 2025/08/20 | Dir En Grey | Withering to Death | 00:51:20 | Metal |  | Unplayed | Low |  |
-| 2025/08/20 | Dir En Grey | Uroboros | 01:07:46 | Metal |  | Unplayed | Low |  |
-| 2025/08/20 | Dir En Grey | Arche | 01:08:06 | Metal |  | Unplayed | Low |  |
+| 2025/08/20 | X Japan | Vanishing Vision | 00:42:07 | Metal |  | Unplayed | Medium |  |
+| 2025/08/20 | X Japan | BLUE BLOOD | 01:05:16 | Metal |  | Unplayed | Medium |  |
+| 2025/08/20 | X Japan | Jealousy | 00:50:21 | Metal |  | Unplayed | Medium |  |
+| 2025/08/20 | X Japan | Art Of Life | 00:29:00 | Metal |  | Unplayed | Medium |  |
+| 2025/08/20 | X Japan | Dahlia | 00:57:26 | Metal |  | Unplayed | Medium |  |
+| 2025/08/20 | Dir En Grey | GAUZE | 01:04:52 | Metal |  | Unplayed | Medium |  |
+| 2025/08/20 | Dir En Grey | Vulgar | 00:57:08 | Metal |  | Unplayed | Medium |  |
+| 2025/08/20 | Dir En Grey | Withering to Death | 00:51:20 | Metal |  | Unplayed | Medium |  |
+| 2025/08/20 | Dir En Grey | Uroboros | 01:07:46 | Metal |  | Unplayed | Medium |  |
+| 2025/08/20 | Dir En Grey | Arche | 01:08:06 | Metal |  | Unplayed | Medium |  |
 | 2025/09/30 | Lil Wayne | Tha Carter II | 01:17:33 | Hip-Hop |  | Unplayed | Low |  |
 | 2025/09/30 | Lil Wayne | Tha Carter III | 01:18:03 | Hip-Hop |  | Unplayed | Low |  |
 | 2025/09/30 | Lil Wayne | Tha Carter IV | 01:23:23 | Hip-Hop |  | Unplayed | Low |  |
