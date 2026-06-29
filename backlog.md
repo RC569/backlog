@@ -52,7 +52,6 @@
 | 2026/04/02 | usedcvnt | ultraviolet | 00:36:12 |  |  | Unplayed | Medium | Recommended by friend |
 | 2026/04/02 | Gesaffelstein | Conspiracy Pt.2 | 00:12:08 | Electronic | Dark, Industrial | Unplayed | Low | Recommended by friend |
 | 2026/04/02 | Mr.Kitty | Time | 00:58:33 | Electronic | Dark Synth | Unplayed | Low | Recommended by friend |
-| 2026/04/02 | BLKSMIITH | DIGITAL TWIN | 00:39:15 |  |  | Unplayed | Next | Recommended by friend |
 | 2026/04/02 | Beach House | depression cherry | 00:44:48 | Pop | Dream, Indie | Unplayed | Medium | Recommended by friend |
 | 2026/04/02 | Gesaffelstein | Aleph | 01:06:17 | Electronic | Dark, Industrial | Unplayed | Low | Recommended by friend |
 | 2026/04/02 | David Bowie | Heroes | 00:40:44 | Rock | Glam | Unplayed | Low | Recommended by friend |
