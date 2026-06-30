@@ -133,9 +133,9 @@
 | 2026/06/20 | i broke my robot | Tomorrow Does Not Exist | 00:49:32 | Electronic | IDM, Breakcore | Unplayed | Low | [Overstimulating instrumental](https://rym.fm/discussion/music/overstimulating-instrumental-music/) |
 | 2026/06/23 | Vince Staples | Big Fish Theory | 00:36:08 | Hip-Hop |  | Unplayed | Low |  |
 | 2026/06/23 | Dälek | Absence | 00:57:12 | Hip-Hop | Ambient, Experimental | Unplayed | Medium |  |
-| 2026/06/28 | Stevie Wonder | Songs in the Key of Life | Length | Soul |  | Unplayed | Low |  |
+| 2026/06/28 | Stevie Wonder | Songs in the Key of Life | 01:45:03 | Soul |  | Unplayed | Low |  |
 | 2026/06/28 | Boards of Canada | Inferno | 01:09:51 | Electronic | Downtempo, Hauntology | Unplayed | High |  |
-| 2026/06/30 | Nobonoko | Gato | Length | Electronic |  | Not Downloaded | Next | Recommended by friend https://youtu.be/iE7vyC8W3cc |
+| 2026/06/30 | Nobonoko | Gato | 00:25:36 | Electronic |  | Not Downloaded | Next | Recommended by friend https://youtu.be/iE7vyC8W3cc |
 
 <!-- 
 | Date Added | Artist | Album | Length | Genre | Subgenre | Status | Priority | Notes |
