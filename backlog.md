@@ -136,6 +136,7 @@
 | 2026/06/28 | Stevie Wonder | Songs in the Key of Life | 01:45:03 | Soul |  | Unplayed | Low |  |
 | 2026/06/28 | Boards of Canada | Inferno | 01:09:51 | Electronic | Downtempo, Hauntology | Unplayed | High |  |
 | 2026/06/30 | Nobonoko | Gato | 00:25:36 | Electronic |  | Not Downloaded | Next | Recommended by friend https://youtu.be/iE7vyC8W3cc |
+| 2026/06/30 | Boards of Canada | Music Has the Right to Children | 01:03:03 | Electronic | IDM | Unplayed | Medium |  |
 
 <!-- 
 | Date Added | Artist | Album | Length | Genre | Subgenre | Status | Priority | Notes |
