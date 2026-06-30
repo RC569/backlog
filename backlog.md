@@ -135,7 +135,7 @@
 | 2026/06/23 | Dälek | Absence | 00:57:12 | Hip-Hop | Ambient, Experimental | Unplayed | Medium |  |
 | 2026/06/28 | Stevie Wonder | Songs in the Key of Life | Length | Soul |  | Unplayed | Low |  |
 | 2026/06/28 | Boards of Canada | Inferno | 01:09:51 | Electronic | Downtempo, Hauntology | Unplayed | High |  |
-| 2026/06/30 | Nobonoko | Gato | Length | Electronic |  | Unplayed | Next | Recommended by friend https://youtu.be/iE7vyC8W3cc |
+| 2026/06/30 | Nobonoko | Gato | Length | Electronic |  | Not Downloaded | Next | Recommended by friend https://youtu.be/iE7vyC8W3cc |
 
 <!-- 
 | Date Added | Artist | Album | Length | Genre | Subgenre | Status | Priority | Notes |
