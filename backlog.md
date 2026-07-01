@@ -41,7 +41,6 @@
 | 2026/04/02 | Childish Gambino | Because the Internet | 00:58:01 | Hip-Hop |  | Unplayed | Medium | Recommended by friend |
 | 2026/04/02 | Childish Gambino | Camp | 00:56:11 | Hip-Hop |  | Unplayed | Low | Recommended by friend |
 | 2026/04/02 | siinamota | Alive | 00:49:41 |  |  | Unplayed | Low | Recommended by friend |
-| 2026/04/02 | Vylet Pony | Monarch of Monsters | 01:23:52 |  |  | Unplayed | Next | Recommended by friend |
 | 2026/04/02 | siinamota | kokegane no uta | 00:26:25 |  |  | Unplayed | Low | Recommended by friend |
 | 2026/04/02 | 2003 Toyota Corolla | 2003 Toyota Corolla | 01:17:03 |  |  | Unplayed | Low | Recommended by friend |
 | 2026/04/02 | Maroon 5 | V | 00:52:18 | Pop | Pop Rock | Unplayed | Low | Recommended by friend |
