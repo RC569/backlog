@@ -87,7 +87,6 @@
 | 2026/04/20 | I Dont Know How but They Found Me | Razzmatazz | 00:37:20 | Rock | Indie | Unplayed | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
 | 2026/04/25 | Clint Mansell | π – Music For The Motion Picture | 01:10:03 | Electronic |  | Unplayed | Low | Movie Soundtrack |
 | 2026/04/26 | nobonoko | Music For Animal Cafés | 00:51:45 | Electronic |  | Unplayed | Low |  |
-| 2026/04/26 | nobonoko | Strawberry+ | 00:29:50 | Electronic |  | Unplayed | High |  |
 | 2026/05/06 | Oneohtrix Point Never | R Plus Seven | 00:43:01 | Electronic | Vapor, Ambient | Unplayed | Low |  |
 | 2026/05/06 | Sweet Trip | Velocity : Design : Comfort | 01:13:32 | Pop | Glitch | Unplayed | Low |  |
 | 2026/05/06 | Car Seat Headrest | Twin Fantasy (Mirror to Mirror) | 00:59:47 | Rock | Slacker | Unplayed | Low |  |
