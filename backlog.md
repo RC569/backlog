@@ -8,7 +8,7 @@
 
 | Date Added | Artist | Album | Length | Genre | Subgenre | Status | Priority | Notes |
 |---|---|---|---|---|---|---|---|---|
-| 2025/06/25 | Madlib The Beat Konducta | Vol. 1-2: Movie Scenes | 00:59:33 | Hip-Hop | Jazz | Unplayed | High |  |
+| 2025/06/25 | Madlib The Beat Konducta | Vol. 1-2: Movie Scenes | 00:59:33 | Hip-Hop | Jazz | Unplayed | Next |  |
 | 2025/07/19 | BELL WITCH | Stygian Bough Volume I | 01:04:19 | Metal | Doom, Funeral | Unplayed | Medium |  |
 | 2025/07/22 | Black Sabbath | Sabotage | 00:43:37 | Metal |  | Unplayed | Medium |  |
 | 2025/07/22 | Black Sabbath | Sabbath Bloody Sabbath | 00:42:29 | Metal |  | Unplayed | Medium |  |
@@ -56,7 +56,7 @@
 | 2026/04/02 | David Bowie | Heroes | 00:40:44 | Rock | Glam | Unplayed | Low | Recommended by friend |
 | 2026/04/02 | Mitch Murder | Selection 2 | 00:26:19 | Synthwave |  | Unplayed | Low | Recommended by friend |
 | 2026/04/02 | Troye Sivan | Blue Neighbourhood | 00:58:58 | Pop | Electropop, Indie | Unplayed | Low | Recommended by friend |
-| 2026/04/02 | siinamota | Therefor. | 00:38:53 |  |  | Unplayed | Low | Recommended by friend |
+| 2026/04/02 | siinamota | Therefor. | 00:38:53 |  |  | Unplayed | High | Recommended by friend |
 | 2026/04/03 | Flying Lotus | 1983 | 00:33:57 | Hip-Hop | Jazz Rap, Instrumental | Unplayed | Low |  |
 | 2026/04/03 | Flying Lotus | Until the Quiet Comes | 00:46:49 | Hip-Hop | Jazz Rap, Experimental | Unplayed | High |  |
 | 2026/04/03 | Flying Lotus | Ideas+drafts+loops | 01:01:22 | Hip-Hop | Jazz Rap, Experimental | Unplayed | High |  |
@@ -75,7 +75,7 @@
 | 2026/04/07 | Black Flag | Damaged | 00:35:03 | Rock | Hardcore punk | Unplayed | Low |  |
 | 2026/04/11 | TV Girl | Who Really Cares | 00:36:55 | Pop | Indie | Unplayed | Low |  |
 | 2026/04/11 | The Velvet Underground & Nico | The Velvet Underground & Nico | 00:48:57 | Rock | Garage, Experimental | Unplayed | Low |  |
-| 2026/04/18 | Slipknot | Iowa | 01:06:25 | Metal | Nu-Metal | Unplayed | Low |  |
+| 2026/04/18 | Slipknot | Iowa | 01:06:25 | Metal | Nu-Metal | Unplayed | High |  |
 | 2026/04/20 | LemKuuja | CHEESECAKE+ | 01:03:17 | Electronic | | Unplayed | Medium | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
 | 2026/04/20 | The Misfits | Static Age | 00:35:04 | Rock | Punk | Unplayed | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
 | 2026/04/20 | Style Of Eye & Magnus The Magnus | Antidote | 00:06:30 | Electronic |  | Unplayed | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
@@ -87,7 +87,7 @@
 | 2026/04/20 | I Dont Know How but They Found Me | Razzmatazz | 00:37:20 | Rock | Indie | Unplayed | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
 | 2026/04/25 | Clint Mansell | π – Music For The Motion Picture | 01:10:03 | Electronic |  | Unplayed | Low | Movie Soundtrack |
 | 2026/04/26 | nobonoko | Music For Animal Cafés | 00:51:45 | Electronic |  | Unplayed | Low |  |
-| 2026/04/26 | nobonoko | Strawberry+ | 00:29:50 | Electronic |  | Unplayed | Low |  |
+| 2026/04/26 | nobonoko | Strawberry+ | 00:29:50 | Electronic |  | Unplayed | High |  |
 | 2026/05/06 | Oneohtrix Point Never | R Plus Seven | 00:43:01 | Electronic | Vapor, Ambient | Unplayed | Low |  |
 | 2026/05/06 | Sweet Trip | Velocity : Design : Comfort | 01:13:32 | Pop | Glitch | Unplayed | Low |  |
 | 2026/05/06 | Car Seat Headrest | Twin Fantasy (Mirror to Mirror) | 00:59:47 | Rock | Slacker | Unplayed | Low |  |
@@ -108,7 +108,6 @@
 | 2026/06/10 | clipping. | Visions of Bodies Being Burned | 00:52:34 | Hip Hop | Horrorcore, Industrial, Experimental | Unplayed | Low |  |
 | 2026/06/12 | Knxwledge | Hud Dreems | 00:36:44 | Hip-Hop | Instrumental | Unplayed | Low |  |
 | 2026/06/12 | Caustic Window | Caustic Window | 01:09:26 | Electronic | Ambient, IDM | Unplayed | Low |  |
-| 2026/06/13 | Aphex Twin | Selected Ambient Works 85–92 | 01:14:44 | Electronic | Ambient, Techno, IDM | Relisten | Low | In /Main |
 | 2026/06/14 | Aphex Twin | Ventolin EP | 00:53:57 | Electronic | IDM | Unplayed | Low |  |
 | 2026/06/15 | runescape斯凱利 | runescape.wav符文風景骨架 | 00:54:49 | Electronic | Ambient, Experimental, Vaporwave | Unplayed | Low |  |
 | 2026/06/17 | Time Fragment | 装甲艦 (remastered edition) | 00:37:59 | Electronic | Ambient, IDM, Vaporwave | Unplayed | Medium | https://www.youtube.com/watch?v=s8WdtR-Jcv8 |
