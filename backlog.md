@@ -8,7 +8,6 @@
 
 | Date Added | Artist | Album | Length | Genre | Subgenre | Status | Priority | Notes |
 |---|---|---|---|---|---|---|---|---|
-| 2025/06/25 | Madlib The Beat Konducta | Vol. 1-2: Movie Scenes | 00:59:33 | Hip-Hop | Jazz | Unplayed | Next |  |
 | 2025/07/19 | BELL WITCH | Stygian Bough Volume I | 01:04:19 | Metal | Doom, Funeral | Unplayed | Medium |  |
 | 2025/07/22 | Black Sabbath | Sabotage | 00:43:37 | Metal |  | Unplayed | Medium |  |
 | 2025/07/22 | Black Sabbath | Sabbath Bloody Sabbath | 00:42:29 | Metal |  | Unplayed | Medium |  |
@@ -43,7 +42,6 @@
 | 2026/04/02 | siinamota | Alive | 00:49:41 |  |  | Unplayed | Low | Recommended by friend |
 | 2026/04/02 | siinamota | kokegane no uta | 00:26:25 |  |  | Unplayed | Low | Recommended by friend |
 | 2026/04/02 | 2003 Toyota Corolla | 2003 Toyota Corolla | 01:17:03 |  |  | Unplayed | Low | Recommended by friend |
-| 2026/04/02 | Maroon 5 | V | 00:52:18 | Pop | Pop Rock | Unplayed | Low | Recommended by friend |
 | 2026/04/02 | Bruno Mars | Doo-Wops & Hooligans | 00:35:32 | Pop | R&B, Pop | Unplayed | Low | Recommended by friend |
 | 2026/04/02 | Frank Sinatra | Nothing But The Best | 01:14:36 | Jazz | Traditional Pop | Unplayed | Low | Recommended by friend |
 | 2026/04/02 | Ozzy Ozbourne | Down to Earth | 00:48:40 | Metal |  | Unplayed | Low | Recommended by friend |
@@ -56,7 +54,7 @@
 | 2026/04/02 | David Bowie | Heroes | 00:40:44 | Rock | Glam | Unplayed | Low | Recommended by friend |
 | 2026/04/02 | Mitch Murder | Selection 2 | 00:26:19 | Synthwave |  | Unplayed | Low | Recommended by friend |
 | 2026/04/02 | Troye Sivan | Blue Neighbourhood | 00:58:58 | Pop | Electropop, Indie | Unplayed | Low | Recommended by friend |
-| 2026/04/02 | siinamota | Therefor. | 00:38:53 |  |  | Unplayed | High | Recommended by friend |
+| 2026/04/02 | siinamota | Therefor. | 00:38:53 |  |  | Unplayed | Next | Recommended by friend |
 | 2026/04/03 | Flying Lotus | 1983 | 00:33:57 | Hip-Hop | Jazz Rap, Instrumental | Unplayed | Low |  |
 | 2026/04/03 | Flying Lotus | Until the Quiet Comes | 00:46:49 | Hip-Hop | Jazz Rap, Experimental | Unplayed | High |  |
 | 2026/04/03 | Flying Lotus | Ideas+drafts+loops | 01:01:22 | Hip-Hop | Jazz Rap, Experimental | Unplayed | High |  |
@@ -65,7 +63,7 @@
 | 2026/04/06 | Freddie Gibbs | Piñata | 01:00:20 | Hip-Hop | Gangster Rap | Unplayed | Low |  |
 | 2026/04/06 | Brent Faiyaz | Wasteland | 01:04:08 | R&B |  | Unplayed | Low |  |
 | 2026/04/06 | Earl Sweatshirt | Some Rap Songs | 01:04:08 | Hip-Hop |  | Unplayed | Low |  |
-| 2026/04/07 | DJ Close Your Eyes to Find Me | Angel Trance Edits Volume One | 00:22:50 | Electronic | Progressive Breaks | Unplayed | Low |  |
+| 2026/04/07 | DJ Close Your Eyes to Find Me | Angel Trance Edits Volume One | 00:22:50 | Electronic | Progressive Breaks | Unplayed | High |  |
 | 2026/04/07 | DJ Close Your Eyes to Find Me | Angel Trance Edits Volume Two | 00:21:39 | Electronic | Progressive Breaks | Unplayed | Low |  |
 | 2026/04/07 | DJ Close Your Eyes to Find Me | Angel Trance Edits Volume Three | 00:21:04 | Electronic | Progressive Breaks | Unplayed | Low |  |
 | 2026/04/07 | DJ Close Your Eyes to Find Me | Angel Trance Edits Volume Four | 00:21:36 | Electronic | Progressive Breaks | Unplayed | Low |  |
