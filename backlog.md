@@ -137,4 +137,11 @@
 <!-- 
 | Date Added | Artist | Album | Length | Genre | Subgenre | Status | Priority | Notes |
 | Unplayed | Low |  |
+
+
+Don't want to listen list: I don't have a good way of doing this yet
+
+| 2025/06/25 | Madlib The Beat Konducta | Vol. 1-2: Movie Scenes | 00:59:33 | Hip-Hop | Jazz | Unplayed | Next |  |
+| 2026/04/02 | Maroon 5 | V | 00:52:18 | Pop | Pop Rock | Unplayed | Low | Recommended by friend |
+
 -->
