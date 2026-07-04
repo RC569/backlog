@@ -47,7 +47,6 @@
 | 2026/04/02 | Ozzy Ozbourne | Down to Earth | 00:48:40 | Metal |  | Unplayed | Low | Recommended by friend |
 | 2026/04/02 | Twenty One Pilots | Scaled and Icy | 00:37:42 | Pop | Alternative | Unplayed | Low | Recommended by friend |
 | 2026/04/02 | usedcvnt | ultraviolet | 00:36:12 |  |  | Unplayed | Medium | Recommended by friend |
-| 2026/04/02 | Gesaffelstein | Conspiracy Pt.2 | 00:12:08 | Electronic | Dark, Industrial | Unplayed | Low | Recommended by friend |
 | 2026/04/02 | Mr.Kitty | Time | 00:58:33 | Electronic | Dark Synth | Unplayed | Low | Recommended by friend |
 | 2026/04/02 | Beach House | depression cherry | 00:44:48 | Pop | Dream, Indie | Unplayed | Medium | Recommended by friend |
 | 2026/04/02 | Gesaffelstein | Aleph | 01:06:17 | Electronic | Dark, Industrial | Unplayed | Low | Recommended by friend |
