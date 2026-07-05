@@ -86,7 +86,6 @@
 | 2026/05/06 | Oneohtrix Point Never | R Plus Seven | 00:43:01 | Electronic | Vapor, Ambient | Unplayed | Low |  |
 | 2026/05/06 | Sweet Trip | Velocity : Design : Comfort | 01:13:32 | Pop | Glitch | Unplayed | Low |  |
 | 2026/05/06 | Car Seat Headrest | Twin Fantasy (Mirror to Mirror) | 00:59:47 | Rock | Slacker | Unplayed | Low |  |
-| 2026/05/06 | Car Seat Headrest | Twin Fantasy (Face to Face) | 01:11:21 | Rock | Slacker | Unplayed | Next | Remastered version |
 | 2026/05/07 | Makoto | Believe in My Soul | 01:07:00 | Electronic | Drum n Bass | Unplayed | Medium |  |
 | 2026/05/07 | Peshay | Studio Set (1996) | 01:33:40 | Electronic | Drum n Bass | Unplayed | Low | DJ Mix |
 | 2026/05/08 | El-P | Fantastic Damage | 01:10:25 | Hip-Hop | Experimental | Unplayed | Low |  |
@@ -112,7 +111,7 @@
 | 2026/06/19 | Merzbow | Venereology | 00:50:16 | Noise |  | Unplayed | Low |  |
 | 2026/06/20 | Rav | Beneath The Toxic Jungle | 00:31:37 | Hip-Hop | Abstract, Lo-Fi | Unplayed | Low |  |
 | 2026/06/20 | Intervals | The Shape of Colour | 00:34:41 | Progressive Metal | Instrumental | Unplayed | Low | [Overstimulating instrumental](https://rym.fm/discussion/music/overstimulating-instrumental-music/) |
-| 2026/06/20 | Squarepusher | Go Plastic | 00:48:39 | Electronic | Drill n bass | Unplayed | High | [Overstimulating instrumental](https://rym.fm/discussion/music/overstimulating-instrumental-music/) |
+| 2026/06/20 | Squarepusher | Go Plastic | 00:48:39 | Electronic | Drill n bass | Unplayed | Next | [Overstimulating instrumental](https://rym.fm/discussion/music/overstimulating-instrumental-music/) |
 | 2026/06/20 | Tangled Thoughts of Leaving | Deaden the Fields | 01:01:56 | Rock | Post-Rock, Experimental, Glitch | Unplayed | Low | [Overstimulating instrumental](https://rym.fm/discussion/music/overstimulating-instrumental-music/) |
 | 2026/06/20 | µ-Ziq | Magic Pony Ride | 00:51:21 | Electronic | IDM, Drum and Bass, Breakbeat | Unplayed | Low | [Overstimulating instrumental](https://rym.fm/discussion/music/overstimulating-instrumental-music/) |
 | 2026/06/20 | Culprate | Deliverance | 00:56:03 | Electronic | IDM | Unplayed | Low | [Overstimulating instrumental](https://rym.fm/discussion/music/overstimulating-instrumental-music/) |
