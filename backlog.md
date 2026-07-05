@@ -110,7 +110,6 @@
 | 2026/06/18 | Rafael Anton Irisarri | Points of Inaccessibility | 00:41:09 | Ambient | Drone | Unplayed | Low |  |
 | 2026/06/19 | Merzbow | Hybrid Noisebloom | 01:12:53 | Noise |  | Unplayed | Low |  |
 | 2026/06/19 | Merzbow | Venereology | 00:50:16 | Noise |  | Unplayed | Low |  |
-| 2026/06/20 | Rabbit Junk | Reframe | 1:04:07 | Electronic | Digital Hardcore | Unplayed | Next* |  |
 | 2026/06/20 | Rav | Beneath The Toxic Jungle | 00:31:37 | Hip-Hop | Abstract, Lo-Fi | Unplayed | Low |  |
 | 2026/06/20 | Intervals | The Shape of Colour | 00:34:41 | Progressive Metal | Instrumental | Unplayed | Low | [Overstimulating instrumental](https://rym.fm/discussion/music/overstimulating-instrumental-music/) |
 | 2026/06/20 | Squarepusher | Go Plastic | 00:48:39 | Electronic | Drill n bass | Unplayed | High | [Overstimulating instrumental](https://rym.fm/discussion/music/overstimulating-instrumental-music/) |
@@ -140,7 +139,7 @@
 
 Don't want to listen list: I don't have a good way of doing this yet
 
-| 2025/06/25 | Madlib The Beat Konducta | Vol. 1-2: Movie Scenes | 00:59:33 | Hip-Hop | Jazz | Unplayed | Next |  |
+| 2025/06/25 | Madlib The Beat Konducta | Vol. 1-2: Movie Scenes | 00:59:33 | Hip-Hop | Jazz | Unplayed | Low |  |
 | 2026/04/02 | Maroon 5 | V | 00:52:18 | Pop | Pop Rock | Unplayed | Low | Recommended by friend |
 
 -->
