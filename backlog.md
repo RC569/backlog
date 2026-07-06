@@ -127,7 +127,6 @@
 | 2026/06/30 | Boards of Canada | Music Has the Right to Children | 01:03:03 | Electronic | IDM | Unplayed | Medium |  |
 | 2026/07/03 | James Ferraro | Far Side Virtual | 00:45:40 | Electronic |  | Unplayed | Low | [v](https://www.youtube.com/watch?v=fAkA9OkHpVY) |
 | 2026/07/03 | Laserdisc Visions | New Dreams Ltd. | 00:34:54 | Electronic | Vaporwave | Unplayed | Low | [v](https://www.youtube.com/watch?v=fAkA9OkHpVY) |
-| 2026/07/03 | Fuji Grid TV | Prism Genesis | 00:20:05 | Electronic | Vaporwave | Unplayed | Next | [v](https://www.youtube.com/watch?v=fAkA9OkHpVY) |
 | 2026/07/04 | Autechre | Tri repetae | 01:02:29 | Electronic | IDM | Unplayed | Low |  |
 | 2026/07/05 | Hiroshi Yoshimura | Wave Notation 1: Music for Nine Post Cards | 00:47:29 | Ambient | New-age | Unplayed | Low |  |
 | 2026/07/05 | Hiroshi Yoshimura | Green | 00:45:58 | Ambient | New-age | Unplayed | Low |  |
