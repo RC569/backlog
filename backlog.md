@@ -10,7 +10,6 @@
 |---|---|---|---|---|---|---|---|---|
 | 2025/07/19 | BELL WITCH | Stygian Bough Volume I | 01:04:19 | Metal | Doom, Funeral | Unplayed | Medium |  |
 | 2025/07/22 | Black Sabbath | Sabotage | 00:43:37 | Metal |  | Unplayed | Medium |  |
-| 2025/07/22 | Black Sabbath | Sabbath Bloody Sabbath | 00:42:29 | Metal |  | Unplayed | Next* |  |
 | 2025/07/30 | Deftones | Deftones | 00:47:12 | Metal | Alternative, Nu-Metal | Unplayed | Low |  |
 | 2025/07/30 | Deftones | Saturday Night Wrist | 00:56:28 | Metal | Alternative, Nu-Metal | Unplayed | Low |  |
 | 2025/08/20 | X Japan | Vanishing Vision | 00:42:07 | Metal |  | Unplayed | High |  |
