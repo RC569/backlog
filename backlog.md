@@ -70,7 +70,7 @@
 | 2026/04/07 | Black Flag | Damaged | 00:35:03 | Rock | Hardcore punk | Unplayed | Low |  |
 | 2026/04/11 | TV Girl | Who Really Cares | 00:36:55 | Pop | Indie | Unplayed | Low |  |
 | 2026/04/11 | The Velvet Underground & Nico | The Velvet Underground & Nico | 00:48:57 | Rock | Garage, Experimental | Unplayed | Low |  |
-| 2026/04/18 | Slipknot | Iowa | 01:06:25 | Metal | Nu-Metal | Unplayed | High |  |
+| 2026/04/18 | Slipknot | Iowa | 01:06:25 | Metal | Nu-Metal | Unplayed | Next |  |
 | 2026/04/20 | LemKuuja | CHEESECAKE+ | 01:03:17 | Electronic | | Unplayed | Medium | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
 | 2026/04/20 | The Misfits | Static Age | 00:35:04 | Rock | Punk | Unplayed | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
 | 2026/04/20 | Style Of Eye & Magnus The Magnus | Antidote | 00:06:30 | Electronic |  | Unplayed | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
@@ -84,7 +84,7 @@
 | 2026/04/26 | nobonoko | Music For Animal Cafés | 00:51:45 | Electronic |  | Unplayed | Low |  |
 | 2026/05/06 | Oneohtrix Point Never | R Plus Seven | 00:43:01 | Electronic | Vapor, Ambient | Unplayed | Low |  |
 | 2026/05/06 | Sweet Trip | Velocity : Design : Comfort | 01:13:32 | Pop | Glitch | Unplayed | High |  |
-| 2026/05/06 | Car Seat Headrest | Twin Fantasy (Mirror to Mirror) | 00:59:47 | Rock | Slacker | Unplayed | Low |  |
+| 2026/05/06 | Car Seat Headrest | Twin Fantasy (Mirror to Mirror) | 00:59:47 | Rock | Slacker | Unplayed | Next* |  |
 | 2026/05/07 | Makoto | Believe in My Soul | 01:07:00 | Electronic | Drum n Bass | Unplayed | Medium |  |
 | 2026/05/08 | El-P | Fantastic Damage | 01:10:25 | Hip-Hop | Experimental | Unplayed | Low |  |
 | 2026/05/08 | Deltron 3030 | Deltron 3030 | 01:00:28 | Hip-Hop | Abstract, Experimental | Unplayed | Low |  |
