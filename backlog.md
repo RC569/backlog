@@ -60,7 +60,7 @@
 | 2026/04/06 | Freddie Gibbs | Piñata | 01:00:20 | Hip-Hop | Gangster Rap | Unplayed | Low |  |
 | 2026/04/06 | Brent Faiyaz | Wasteland | 01:04:08 | R&B |  | Unplayed | Low |  |
 | 2026/04/06 | Earl Sweatshirt | Some Rap Songs | 01:04:08 | Hip-Hop |  | Unplayed | Low |  |
-| 2026/04/07 | DJ Close Your Eyes to Find Me | Angel Trance Edits Volume One | 00:22:50 | Electronic | Progressive Breaks | Unplayed | High |  |
+| 2026/04/07 | DJ Close Your Eyes to Find Me | Angel Trance Edits Volume One | 00:22:50 | Electronic | Progressive Breaks | Unplayed | Next |  |
 | 2026/04/07 | DJ Close Your Eyes to Find Me | Angel Trance Edits Volume Two | 00:21:39 | Electronic | Progressive Breaks | Unplayed | Low |  |
 | 2026/04/07 | DJ Close Your Eyes to Find Me | Angel Trance Edits Volume Three | 00:21:04 | Electronic | Progressive Breaks | Unplayed | Low |  |
 | 2026/04/07 | DJ Close Your Eyes to Find Me | Angel Trance Edits Volume Four | 00:21:36 | Electronic | Progressive Breaks | Unplayed | Low |  |
@@ -126,7 +126,6 @@
 | 2026/07/04 | Autechre | Tri repetae | 01:02:29 | Electronic | IDM | Unplayed | Low |  |
 | 2026/07/05 | Hiroshi Yoshimura | Wave Notation 1: Music for Nine Post Cards | 00:47:29 | Ambient | New-age | Unplayed | Low |  |
 | 2026/07/05 | Hiroshi Yoshimura | Green | 00:45:58 | Ambient | New-age | Unplayed | Low |  |
-| 2026/07/08 | Toyko Shoegazer | Crystallize | 00:39:21 | Rock | Shoegaze | Unplayed | Next | Cat |
 
 <!-- 
 | Date Added | Artist | Album | Length | Genre | Subgenre | Status | Priority | Notes |
