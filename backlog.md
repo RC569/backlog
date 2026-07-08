@@ -83,7 +83,6 @@
 | 2026/04/26 | nobonoko | Music For Animal Cafés | 00:51:45 | Electronic |  | Unplayed | Low |  |
 | 2026/05/06 | Oneohtrix Point Never | R Plus Seven | 00:43:01 | Electronic | Vapor, Ambient | Unplayed | Low |  |
 | 2026/05/06 | Sweet Trip | Velocity : Design : Comfort | 01:13:32 | Pop | Glitch | Unplayed | High |  |
-| 2026/05/06 | Car Seat Headrest | Twin Fantasy (Mirror to Mirror) | 00:59:47 | Rock | Slacker | Unplayed | Next |  |
 | 2026/05/07 | Makoto | Believe in My Soul | 01:07:00 | Electronic | Drum n Bass | Unplayed | Medium |  |
 | 2026/05/08 | El-P | Fantastic Damage | 01:10:25 | Hip-Hop | Experimental | Unplayed | Low |  |
 | 2026/05/08 | Deltron 3030 | Deltron 3030 | 01:00:28 | Hip-Hop | Abstract, Experimental | Unplayed | Low |  |
@@ -127,7 +126,7 @@
 | 2026/07/04 | Autechre | Tri repetae | 01:02:29 | Electronic | IDM | Unplayed | Low |  |
 | 2026/07/05 | Hiroshi Yoshimura | Wave Notation 1: Music for Nine Post Cards | 00:47:29 | Ambient | New-age | Unplayed | Low |  |
 | 2026/07/05 | Hiroshi Yoshimura | Green | 00:45:58 | Ambient | New-age | Unplayed | Low |  |
-| 2026/07/08 | Toyko Shoegazer | Crystallize | 00:39:21 | Rock | Shoegaze | Unplayed | Next* | Cat |
+| 2026/07/08 | Toyko Shoegazer | Crystallize | 00:39:21 | Rock | Shoegaze | Unplayed | Next | Cat |
 
 <!-- 
 | Date Added | Artist | Album | Length | Genre | Subgenre | Status | Priority | Notes |
