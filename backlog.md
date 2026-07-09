@@ -126,6 +126,7 @@
 | 2026/07/04 | Autechre | Tri repetae | 01:02:29 | Electronic | IDM | Unplayed | Low |  |
 | 2026/07/05 | Hiroshi Yoshimura | Wave Notation 1: Music for Nine Post Cards | 00:47:29 | Ambient | New-age | Unplayed | High |  |
 | 2026/07/05 | Hiroshi Yoshimura | Green | 00:45:58 | Ambient | New-age | Unplayed | High |  |
+| 2026/07/08 | Saint Pepsi | Hit Vibes | 00:36:12 | Electronic | Future Funk, Vaporwave | Unplayed | Medium |  |
 
 <!-- 
 | Date Added | Artist | Album | Length | Genre | Subgenre | Status | Priority | Notes |
