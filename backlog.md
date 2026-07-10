@@ -76,7 +76,6 @@
 | 2026/04/20 | REZNYCK | MUSCLE CARDIAC | 00:41:46 | Electronic | Synthwave | Unplayed | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
 | 2026/04/20 | Metronomy | The English Riviera | 00:45:06 | Electronic |  | Unplayed | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
 | 2026/04/20 | El Cuarteto De Nos | Raro | 00:45:02 | Rock |  | Unplayed | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
-| 2026/04/20 | Wowaka | Unhappy Refrain | 00:48:37 | Rock | Vocaloid | Unplayed | Next | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
 | 2026/04/20 | I Dont Know How but They Found Me | Razzmatazz | 00:37:20 | Rock | Indie | Unplayed | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
 | 2026/04/25 | Clint Mansell | π – Music For The Motion Picture | 01:10:03 | Electronic |  | Unplayed | Low | Movie Soundtrack |
 | 2026/04/26 | nobonoko | Music For Animal Cafés | 00:51:45 | Electronic |  | Unplayed | Low |  |
@@ -103,7 +102,7 @@
 | 2026/06/17 | Chris Travis | Pizza & Codeine | 00:51:00 | Hip-Hop | Cloud Rap | Not Downloaded | Low | Recommended by friend |
 | 2026/06/18 | Rafael Anton Irisarri | Points of Inaccessibility | 00:41:09 | Ambient | Drone | Unplayed | Low |  |
 | 2026/06/19 | Merzbow | Hybrid Noisebloom | 01:12:53 | Noise |  | Unplayed | Low |  |
-| 2026/06/19 | Merzbow | Venereology | 00:50:16 | Noise |  | Unplayed | Next* |  |
+| 2026/06/19 | Merzbow | Venereology | 00:50:16 | Noise |  | Unplayed | Next |  |
 | 2026/06/20 | Rav | Beneath The Toxic Jungle | 00:31:37 | Hip-Hop | Abstract, Lo-Fi | Unplayed | Low |  |
 | 2026/06/20 | Intervals | The Shape of Colour | 00:34:41 | Progressive Metal | Instrumental | Unplayed | Low | [Overstimulating instrumental](https://rym.fm/discussion/music/overstimulating-instrumental-music/) |
 | 2026/06/20 | Tangled Thoughts of Leaving | Deaden the Fields | 01:01:56 | Rock | Post-Rock, Experimental, Glitch | Unplayed | Low | [Overstimulating instrumental](https://rym.fm/discussion/music/overstimulating-instrumental-music/) |
