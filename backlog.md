@@ -40,7 +40,7 @@
 | 2026/04/02 | Childish Gambino | Camp | 00:56:11 | Hip-Hop |  | Unplayed | Low | Recommended by friend |
 | 2026/04/02 | siinamota | Alive | 00:49:41 |  |  | Unplayed | Low | Recommended by friend |
 | 2026/04/02 | siinamota | kokegane no uta | 00:26:25 |  |  | Unplayed | Low | Recommended by friend |
-| 2026/04/02 | 2003 Toyota Corolla | 2003 Toyota Corolla | 01:17:03 |  |  | Unplayed | Low | Recommended by friend |
+| 2026/04/02 | 2003 Toyota Corolla | 2003 Toyota Corolla | 01:17:03 |  | Ambient | Unplayed | High | Recommended by friend |
 | 2026/04/02 | Bruno Mars | Doo-Wops & Hooligans | 00:35:32 | Pop | R&B, Pop | Unplayed | Low | Recommended by friend |
 | 2026/04/02 | Frank Sinatra | Nothing But The Best | 01:14:36 | Jazz | Traditional Pop | Unplayed | Low | Recommended by friend |
 | 2026/04/02 | Ozzy Ozbourne | Down to Earth | 00:48:40 | Metal |  | Unplayed | Low | Recommended by friend |
