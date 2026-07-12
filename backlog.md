@@ -98,7 +98,7 @@
 | 2026/06/17 | Time Fragment | 装甲艦 (remastered edition) | 00:37:59 | Electronic | Ambient, IDM, Vaporwave | Unplayed | Medium | https://www.youtube.com/watch?v=s8WdtR-Jcv8 |
 | 2026/06/17 | Chris Travis | Pizza & Codeine | 00:51:00 | Hip-Hop | Cloud Rap | Not Downloaded | Low | Recommended by friend |
 | 2026/06/18 | Rafael Anton Irisarri | Points of Inaccessibility | 00:41:09 | Ambient | Drone | Unplayed | Low |  |
-| 2026/06/19 | Merzbow | Hybrid Noisebloom | 01:12:53 | Noise |  | Unplayed | Low |  |
+| 2026/06/19 | Merzbow | Hybrid Noisebloom | 01:12:53 | Noise |  | Unplayed | High |  |
 | 2026/06/20 | Rav | Beneath The Toxic Jungle | 00:31:37 | Hip-Hop | Abstract, Lo-Fi | Unplayed | Low |  |
 | 2026/06/20 | Intervals | The Shape of Colour | 00:34:41 | Progressive Metal | Instrumental | Unplayed | Low | [Overstimulating instrumental](https://rym.fm/discussion/music/overstimulating-instrumental-music/) |
 | 2026/06/20 | Tangled Thoughts of Leaving | Deaden the Fields | 01:01:56 | Rock | Post-Rock, Experimental, Glitch | Unplayed | Low | [Overstimulating instrumental](https://rym.fm/discussion/music/overstimulating-instrumental-music/) |
@@ -121,7 +121,7 @@
 | 2026/07/05 | Hiroshi Yoshimura | Green | 00:45:58 | Ambient | New-age | Unplayed | High |  |
 | 2026/07/10 | Boris & Merzbow | Rock Dream | 01:50:34 | Rock | Noise | Unplayed | Low | Live album |
 | 2026/07/10 | Boris | PINK | 00:47:26 | Rock | Noise, Stoner Metal | Unplayed | Next |  |
-| 2026/07/10 | Merzbow | Merzbeat | 00:48:22 | Noise | Power Noise | Unplayed | Low | [r](https://old.reddit.com/r/merzbow/comments/12zztm4/where_do_i_start/jhuiiav/) |
+| 2026/07/10 | Merzbow | Merzbeat | 00:48:22 | Noise | Power Noise | Unplayed | High | [r](https://old.reddit.com/r/merzbow/comments/12zztm4/where_do_i_start/jhuiiav/) |
 | 2026/07/10 | Merzbow | Amlux | 00:47:53 | Noise |  | Unplayed | Low | [r](https://old.reddit.com/r/merzbow/comments/12zztm4/where_do_i_start/jhuiiav/) |
 | 2026/07/10 | Merzbow | 1930 | 00:58:41 | Noise | Harsh Noise | Unplayed | Low | [r](https://old.reddit.com/r/merzbow/comments/12zztm4/where_do_i_start/jhuiiav/) |
 | 2026/07/10 | Merzbow | Door Open at 8 AM | 00:55:19 | Noise  |  | Unplayed | Low | If I like the above 3, listen to this & Hybrid Noisebloom [r](https://old.reddit.com/r/merzbow/comments/12zztm4/where_do_i_start/jhuiiav/) |
