@@ -89,7 +89,7 @@
 | 2026/06/05 | Danny Brown | Atrocity Exhibition | 00:46:38 | Hip-Hop |  | Unplayed | Low | Recommended by friend |
 | 2026/06/07 | Leverfall | Connected | 00:15:47 |  |  | Unplayed | Low |  |
 | 2026/06/08 | Oneohtrix Point Never | Tranquilizer | 00:58:00 | Electronic |  | Unplayed | Low |  |
-| 2026/06/10 | clipping. | Visions of Bodies Being Burned | 00:52:34 | Hip Hop | Horrorcore, Industrial, Experimental | Unplayed | Low |  |
+| 2026/06/10 | clipping. | Visions of Bodies Being Burned | 00:52:34 | Hip Hop | Horrorcore, Industrial, Experimental | Unplayed | High |  |
 | 2026/06/12 | Knxwledge | Hud Dreems | 00:36:44 | Hip-Hop | Instrumental | Unplayed | Low |  |
 | 2026/06/12 | Caustic Window | Caustic Window | 01:09:26 | Electronic | Ambient, IDM | Unplayed | Low |  |
 | 2026/06/14 | Aphex Twin | Ventolin EP | 00:53:57 | Electronic | IDM | Unplayed | Low |  |
@@ -97,7 +97,7 @@
 | 2026/06/17 | Time Fragment | 装甲艦 (remastered edition) | 00:37:59 | Electronic | Ambient, IDM, Vaporwave | Unplayed | Medium | https://www.youtube.com/watch?v=s8WdtR-Jcv8 |
 | 2026/06/17 | Chris Travis | Pizza & Codeine | 00:51:00 | Hip-Hop | Cloud Rap | Not Downloaded | Low | Recommended by friend |
 | 2026/06/18 | Rafael Anton Irisarri | Points of Inaccessibility | 00:41:09 | Ambient | Drone | Unplayed | Low |  |
-| 2026/06/19 | Merzbow | Hybrid Noisebloom | 01:12:53 | Noise |  | Unplayed | High |  |
+| 2026/06/19 | Merzbow | Hybrid Noisebloom | 01:12:53 | Noise |  | Unplayed | Next |  |
 | 2026/06/20 | Rav | Beneath The Toxic Jungle | 00:31:37 | Hip-Hop | Abstract, Lo-Fi | Unplayed | Low |  |
 | 2026/06/20 | Intervals | The Shape of Colour | 00:34:41 | Progressive Metal | Instrumental | Unplayed | Low | [Overstimulating instrumental](https://rym.fm/discussion/music/overstimulating-instrumental-music/) |
 | 2026/06/20 | Tangled Thoughts of Leaving | Deaden the Fields | 01:01:56 | Rock | Post-Rock, Experimental, Glitch | Unplayed | Low | [Overstimulating instrumental](https://rym.fm/discussion/music/overstimulating-instrumental-music/) |
@@ -119,7 +119,6 @@
 | 2026/07/04 | Autechre | Tri repetae | 01:02:29 | Electronic | IDM | Unplayed | Low |  |
 | 2026/07/05 | Hiroshi Yoshimura | Green | 00:45:58 | Ambient | New-age | Unplayed | High |  |
 | 2026/07/10 | Boris & Merzbow | Rock Dream | 01:50:34 | Rock | Noise | Unplayed | Low | Live album |
-| 2026/07/10 | Merzbow | 1930 | 00:58:41 | Noise | Harsh Noise | Unplayed | Next | [r](https://old.reddit.com/r/merzbow/comments/12zztm4/where_do_i_start/jhuiiav/) |
 | 2026/07/10 | Merzbow | Door Open at 8 AM | 00:55:19 | Noise  |  | Unplayed | Low | listen to this & Hybrid Noisebloom (Hybrid Noisebloom first) [r](https://old.reddit.com/r/merzbow/comments/12zztm4/where_do_i_start/jhuiiav/) |
 | 2026/07/10 | Merzbow | Merzbuddha | 00:59:37 | Noise | Ambient | Unplayed | Low | More Ambient [r](https://old.reddit.com/r/merzbow/comments/12zztm4/where_do_i_start/jhuiiav/) |
 | 2026/07/10 | Merzbow | Merzzow | 01:10:31 | Noise |  | Unplayed | Low | More Guitar [r](https://old.reddit.com/r/merzbow/comments/12zztm4/where_do_i_start/jhuiiav/) |<!-- I'd start with Merzbeat, Amlux, and 1930. If you like those, check out Door Open at 8AM, Hybrid Noisebloom, and Venereology. Those are my favorites. Merzbuddha is good too if you want something a little more ambient or laid back, and Merzzow is good for something with more guitar oriented sounds. Merzbient is incredible too, but it's pretty imposing and probably hard to find. He definitely has a sound but all of his albums have a different underlying flavor. -->
