@@ -119,8 +119,7 @@
 | 2026/07/04 | Autechre | Tri repetae | 01:02:29 | Electronic | IDM | Unplayed | Low |  |
 | 2026/07/05 | Hiroshi Yoshimura | Green | 00:45:58 | Ambient | New-age | Unplayed | High |  |
 | 2026/07/10 | Boris & Merzbow | Rock Dream | 01:50:34 | Rock | Noise | Unplayed | Low | Live album |
-| 2026/07/10 | Merzbow | Merzbeat | 00:48:22 | Noise | Power Noise | Unplayed | Next | [r](https://old.reddit.com/r/merzbow/comments/12zztm4/where_do_i_start/jhuiiav/) |
-| 2026/07/10 | Merzbow | Amlux | 00:47:53 | Noise |  | Unplayed | Low | [r](https://old.reddit.com/r/merzbow/comments/12zztm4/where_do_i_start/jhuiiav/) |
+| 2026/07/10 | Merzbow | Amlux | 00:47:53 | Noise |  | Unplayed | Next | [r](https://old.reddit.com/r/merzbow/comments/12zztm4/where_do_i_start/jhuiiav/) |
 | 2026/07/10 | Merzbow | 1930 | 00:58:41 | Noise | Harsh Noise | Unplayed | Low | [r](https://old.reddit.com/r/merzbow/comments/12zztm4/where_do_i_start/jhuiiav/) |
 | 2026/07/10 | Merzbow | Door Open at 8 AM | 00:55:19 | Noise  |  | Unplayed | Low | If I like the above 3, listen to this & Hybrid Noisebloom [r](https://old.reddit.com/r/merzbow/comments/12zztm4/where_do_i_start/jhuiiav/) |
 | 2026/07/10 | Merzbow | Merzbuddha | 00:59:37 | Noise | Ambient | Unplayed | Low | More Ambient [r](https://old.reddit.com/r/merzbow/comments/12zztm4/where_do_i_start/jhuiiav/) |
