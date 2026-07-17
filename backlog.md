@@ -116,10 +116,8 @@
 | 2026/07/03 | Laserdisc Visions | New Dreams Ltd. | 00:34:54 | Electronic | Vaporwave | Unplayed | Low | [v](https://www.youtube.com/watch?v=fAkA9OkHpVY) |
 | 2026/07/04 | Autechre | Tri repetae | 01:02:29 | Electronic | IDM | Unplayed | Low |  |
 | 2026/07/05 | Hiroshi Yoshimura | Green | 00:45:58 | Ambient | New-age | Unplayed | High |  |
-| 2026/07/10 | Boris & Merzbow | Rock Dream | 01:50:34 | Rock | Noise | Unplayed | Low | Live album |
-| 2026/07/10 | Merzbow | Merzbuddha | 00:59:37 | Noise | Ambient | Unplayed | Next | More Ambient [r](https://old.reddit.com/r/merzbow/comments/12zztm4/where_do_i_start/jhuiiav/) |
 | 2026/07/12 | TURQUOISEDEATH | Guardian | 01:05:32 | Electronic | Atmospheric drum and bass | Unplayed | Low |  |
-| 2026/07/16 | ⣎⡇ꉺლ༽இ•̛)ྀ◞ ༎ຶ ༽ৣৢ؞ৢ؞ؖ ꉺლ | ʅ͡͡͡͡͡͡͡͡͡͡͡(̸̢̛̼̞̭͋ͅ)̸͚̰͛̔̾̀̿͒͂:̴͓̞̑̌̂̆̊͋̀:̸͎̟̯̂̓̌ ҉ ͡ ͞ ͞ ͞ ҉● ࿀ ● ࿀ ● ҉⃝ ⃝͢ ͞ ͘ ͞⃝̕ ͢ ̛ ⃝ ̸ ̡ ͢⃝̧ ͡ ͡ ̀ ̧ ̢⃝͜ ҉ ͞ ͞ ⃝͞ ͘ ͞ ͡⃝ ⃝҉҈҉҈҉҈҉҈҉҈҉ :̶̢͙͙͕̠̩͆(̷̮͍͚̫͚͂̍)̵̳̗ | 00:37:11 | Electronic | Microhouse | Unplayed | Next* | Wow! What a weird title. :^) |
+| 2026/07/16 | ⣎⡇ꉺლ༽இ•̛)ྀ◞ ༎ຶ ༽ৣৢ؞ৢ؞ؖ ꉺლ | ʅ͡͡͡͡͡͡͡͡͡͡͡(̸̢̛̼̞̭͋ͅ)̸͚̰͛̔̾̀̿͒͂:̴͓̞̑̌̂̆̊͋̀:̸͎̟̯̂̓̌ ҉ ͡ ͞ ͞ ͞ ҉● ࿀ ● ࿀ ● ҉⃝ ⃝͢ ͞ ͘ ͞⃝̕ ͢ ̛ ⃝ ̸ ̡ ͢⃝̧ ͡ ͡ ̀ ̧ ̢⃝͜ ҉ ͞ ͞ ⃝͞ ͘ ͞ ͡⃝ ⃝҉҈҉҈҉҈҉҈҉҈҉ :̶̢͙͙͕̠̩͆(̷̮͍͚̫͚͂̍)̵̳̗ | 00:37:11 | Electronic | Microhouse | Unplayed | Next | Wow! What a weird title. :^) |
 
 <!-- 
 | Date Added | Artist | Album | Length | Genre | Subgenre | Status | Priority | Notes |
@@ -129,5 +127,6 @@ Don't want to listen list: I don't have a good way of doing this yet
 
 | 2025/06/25 | Madlib The Beat Konducta | Vol. 1-2: Movie Scenes | 00:59:33 | Hip-Hop | Jazz | Unplayed | Low |  |
 | 2026/04/02 | Maroon 5 | V | 00:52:18 | Pop | Pop Rock | Unplayed | Low | Recommended by friend |
+| 2026/07/10 | Boris & Merzbow | Rock Dream | 01:50:34 | Rock | Noise | Unplayed | Low | Live album |
 
 -->
