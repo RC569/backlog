@@ -117,8 +117,7 @@
 | 2026/07/04 | Autechre | Tri repetae | 01:02:29 | Electronic | IDM | Unplayed | Low |  |
 | 2026/07/05 | Hiroshi Yoshimura | Green | 00:45:58 | Ambient | New-age | Unplayed | High |  |
 | 2026/07/10 | Boris & Merzbow | Rock Dream | 01:50:34 | Rock | Noise | Unplayed | Low | Live album |
-| 2026/07/10 | Merzbow | Merzbuddha | 00:59:37 | Noise | Ambient | Unplayed | Next* | More Ambient [r](https://old.reddit.com/r/merzbow/comments/12zztm4/where_do_i_start/jhuiiav/) |
-| 2026/07/10 | Merzbow | Merzzow | 01:10:31 | Noise |  | Unplayed | Next | More Guitar [r](https://old.reddit.com/r/merzbow/comments/12zztm4/where_do_i_start/jhuiiav/) |
+| 2026/07/10 | Merzbow | Merzbuddha | 00:59:37 | Noise | Ambient | Unplayed | Next | More Ambient [r](https://old.reddit.com/r/merzbow/comments/12zztm4/where_do_i_start/jhuiiav/) |
 | 2026/07/12 | TURQUOISEDEATH | Guardian | 01:05:32 | Electronic | Atmospheric drum and bass | Unplayed | Low |  |
 | 2026/07/16 | ⣎⡇ꉺლ༽இ•̛)ྀ◞ ༎ຶ ༽ৣৢ؞ৢ؞ؖ ꉺლ | ʅ()::　　　　　　　　　　● ࿀ ●  ࿀  ●　　　⃝ 　　　⃝ 　　　　⃝ 　　　　　⃝ 　　　　　　⃝ 　　　　　　⃝ 　 　　　　　⃝ 　　⃝  ⃝҈҈҈҈҈ :()(　  | 00:37:11 | Electronic | Microhouse | Not Downloaded | High | Wow! What a weird title. :^) |
 
