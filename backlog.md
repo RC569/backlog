@@ -58,7 +58,7 @@
 | 2026/04/06 | Freddie Gibbs | Piñata | 01:00:20 | Hip-Hop | Gangster Rap | Unplayed | Low |  |
 | 2026/04/06 | Brent Faiyaz | Wasteland | 01:04:08 | R&B |  | Unplayed | Low |  |
 | 2026/04/06 | Earl Sweatshirt | Some Rap Songs | 01:04:08 | Hip-Hop |  | Unplayed | Low |  |
-| 2026/04/07 | DJ Close Your Eyes to Find Me | Angel Trance Edits Volume Three | 00:21:04 | Electronic | Progressive Breaks | Unplayed | Next** |  |
+| 2026/04/07 | DJ Close Your Eyes to Find Me | Angel Trance Edits Volume Three | 00:21:04 | Electronic | Progressive Breaks | Unplayed | Next* |  |
 | 2026/04/07 | DJ Close Your Eyes to Find Me | Angel Trance Edits Volume Four | 00:21:36 | Electronic | Progressive Breaks | Unplayed | High |  |
 | 2026/04/07 | Vangelis | Blade Runner | 00:57:37 | Electronic | Progressive, Ambient | Unplayed | Low | Movie Soundtrack |
 | 2026/04/07 | Erykah Badu | Baduizm | 01:29:04 | R&B | Neo-Soul | Unplayed | Low |  |
@@ -74,8 +74,6 @@
 | 2026/04/20 | Metronomy | The English Riviera | 00:45:06 | Electronic |  | Unplayed | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
 | 2026/04/20 | El Cuarteto De Nos | Raro | 00:45:02 | Rock |  | Unplayed | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
 | 2026/04/20 | I Dont Know How but They Found Me | Razzmatazz | 00:37:20 | Rock | Indie | Unplayed | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
-| 2026/04/25 | Clint Mansell | π – Music For The Motion Picture | 01:10:03 | Electronic |  | Unplayed | Low | Movie Soundtrack |
-| 2026/04/26 | nobonoko | Music For Animal Cafés | 00:51:45 | Electronic |  | Unplayed | Next |  |
 | 2026/05/06 | Oneohtrix Point Never | R Plus Seven | 00:43:01 | Electronic | Vapor, Ambient | Unplayed | Low |  |
 | 2026/05/07 | Makoto | Believe in My Soul | 01:07:00 | Electronic | Drum n Bass | Unplayed | Medium |  |
 | 2026/05/08 | El-P | Fantastic Damage | 01:10:25 | Hip-Hop | Experimental | Unplayed | Low |  |
@@ -99,7 +97,7 @@
 | 2026/06/20 | Rav | Beneath The Toxic Jungle | 00:31:37 | Hip-Hop | Abstract, Lo-Fi | Unplayed | Low |  |
 | 2026/06/20 | Intervals | The Shape of Colour | 00:34:41 | Progressive Metal | Instrumental | Unplayed | Low | [Overstimulating instrumental](https://rym.fm/discussion/music/overstimulating-instrumental-music/) |
 | 2026/06/20 | Tangled Thoughts of Leaving | Deaden the Fields | 01:01:56 | Rock | Post-Rock, Experimental, Glitch | Unplayed | Low | [Overstimulating instrumental](https://rym.fm/discussion/music/overstimulating-instrumental-music/) |
-| 2026/06/20 | µ-Ziq | Magic Pony Ride | 00:51:21 | Electronic | IDM, Drum and Bass, Breakbeat | Unplayed | Next* | [Overstimulating instrumental](https://rym.fm/discussion/music/overstimulating-instrumental-music/) |
+| 2026/06/20 | µ-Ziq | Magic Pony Ride | 00:51:21 | Electronic | IDM, Drum and Bass, Breakbeat | Unplayed | Next | [Overstimulating instrumental](https://rym.fm/discussion/music/overstimulating-instrumental-music/) |
 | 2026/06/20 | Culprate | Deliverance | 00:56:03 | Electronic | IDM | Unplayed | Low | [Overstimulating instrumental](https://rym.fm/discussion/music/overstimulating-instrumental-music/) |
 | 2026/06/20 | Amon Tobin | Bricolage | 01:19:21 | Electronic | Nu Jazz, Jazzstep, IDM | Unplayed | Low | [Overstimulating instrumental](https://rym.fm/discussion/music/overstimulating-instrumental-music/) |
 | 2026/06/20 | Horse Lords | The Common Task | 00:41:13 | Rock | Experimental, Post-Rock | Unplayed | Low | [Overstimulating instrumental](https://rym.fm/discussion/music/overstimulating-instrumental-music/) |
@@ -127,5 +125,6 @@ Don't want to listen list: I don't have a good way of doing this yet
 | 2025/06/25 | Madlib The Beat Konducta | Vol. 1-2: Movie Scenes | 00:59:33 | Hip-Hop | Jazz | Unplayed | Low |  |
 | 2026/04/02 | Maroon 5 | V | 00:52:18 | Pop | Pop Rock | Unplayed | Low | Recommended by friend |
 | 2026/07/10 | Boris & Merzbow | Rock Dream | 01:50:34 | Rock | Noise | Unplayed | Low | Live album |
+| 2026/04/25 | Clint Mansell | π – Music For The Motion Picture | 01:10:03 | Electronic |  | Unplayed | Low | Movie Soundtrack |
 
 -->
