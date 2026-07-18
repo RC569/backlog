@@ -114,6 +114,7 @@
 | 2026/07/04 | Autechre | Tri repetae | 01:02:29 | Electronic | IDM | Unplayed | Low |  |
 | 2026/07/05 | Hiroshi Yoshimura | Green | 00:45:58 | Ambient | New-age | Unplayed | High |  |
 | 2026/07/12 | TURQUOISEDEATH | Guardian | 01:05:32 | Electronic | Atmospheric drum and bass | Unplayed | Low |  |
+| 2026/07/17 | Four Tet | Rounds | 00:44:55 | Electronic | Folktronica, IDM | Unplayed | Low |  |
 
 <!-- 
 | Date Added | Artist | Album | Length | Genre | Subgenre | Status | Priority | Notes |
