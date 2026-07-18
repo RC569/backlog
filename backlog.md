@@ -48,7 +48,7 @@
 | 2026/04/02 | Mr.Kitty | Time | 00:58:33 | Electronic | Dark Synth | Unplayed | High | Recommended by friend |
 | 2026/04/02 | Beach House | depression cherry | 00:44:48 | Pop | Dream, Indie | Unplayed | High | Recommended by friend |
 | 2026/04/02 | Gesaffelstein | Aleph | 01:06:17 | Electronic | Dark, Industrial | Unplayed | Low | Recommended by friend |
-| 2026/04/02 | David Bowie | Heroes | 00:40:44 | Rock | Glam | Unplayed | Next** | Recommended by friend |
+| 2026/04/02 | David Bowie | Heroes | 00:40:44 | Rock | Glam | Unplayed | Next* | Recommended by friend |
 | 2026/04/02 | Mitch Murder | Selection 2 | 00:26:19 | Synthwave |  | Unplayed | Low | Recommended by friend |
 | 2026/04/02 | Troye Sivan | Blue Neighbourhood | 00:58:58 | Pop | Electropop, Indie | Unplayed | Low | Recommended by friend |
 | 2026/04/03 | Flying Lotus | 1983 | 00:33:57 | Hip-Hop | Jazz Rap, Instrumental | Unplayed | Low |  |
@@ -58,7 +58,6 @@
 | 2026/04/06 | Freddie Gibbs | Piñata | 01:00:20 | Hip-Hop | Gangster Rap | Unplayed | Low |  |
 | 2026/04/06 | Brent Faiyaz | Wasteland | 01:04:08 | R&B |  | Unplayed | Low |  |
 | 2026/04/06 | Earl Sweatshirt | Some Rap Songs | 01:04:08 | Hip-Hop |  | Unplayed | Low |  |
-| 2026/04/07 | DJ Close Your Eyes to Find Me | Angel Trance Edits Volume Three | 00:21:04 | Electronic | Progressive Breaks | Unplayed | Next |  |
 | 2026/04/07 | DJ Close Your Eyes to Find Me | Angel Trance Edits Volume Four | 00:21:36 | Electronic | Progressive Breaks | Unplayed | High |  |
 | 2026/04/07 | Vangelis | Blade Runner | 00:57:37 | Electronic | Progressive, Ambient | Unplayed | Low | Movie Soundtrack |
 | 2026/04/07 | Erykah Badu | Baduizm | 01:29:04 | R&B | Neo-Soul | Unplayed | Low |  |
@@ -85,7 +84,7 @@
 | 2026/06/05 | Cocteau Twins | Heaven or Las Vegas | 00:37:42 | Pop | Dream Pop | Unplayed | Low | Recommended by friend |
 | 2026/06/05 | My Bloody Valentine | Loveless | 00:48:35 | Pop | Shoegaze, Noise Pop, Dream Pop | Unplayed | High | Recommended by friend |
 | 2026/06/07 | Leverfall | Connected | 00:15:47 |  |  | Unplayed | Low |  |
-| 2026/06/08 | Oneohtrix Point Never | Tranquilizer | 00:58:00 | Electronic |  | Unplayed | Next* |  |
+| 2026/06/08 | Oneohtrix Point Never | Tranquilizer | 00:58:00 | Electronic |  | Unplayed | Next |  |
 | 2026/06/12 | Knxwledge | Hud Dreems | 00:36:44 | Hip-Hop | Instrumental | Unplayed | Low |  |
 | 2026/06/12 | Caustic Window | Caustic Window | 01:09:26 | Electronic | Ambient, IDM | Unplayed | Low |  |
 | 2026/06/14 | Aphex Twin | Ventolin EP | 00:53:57 | Electronic | IDM | Unplayed | Low |  |
@@ -113,7 +112,8 @@
 | 2026/07/04 | Autechre | Tri repetae | 01:02:29 | Electronic | IDM | Unplayed | Low |  |
 | 2026/07/05 | Hiroshi Yoshimura | Green | 00:45:58 | Ambient | New-age | Unplayed | High |  |
 | 2026/07/12 | TURQUOISEDEATH | Guardian | 01:05:32 | Electronic | Atmospheric drum and bass | Unplayed | Low |  |
-| 2026/07/17 | Four Tet | Rounds | 00:44:55 | Electronic | Folktronica, IDM | Unplayed | Low |  |
+| 2026/07/17 | Four Tet | Rounds | 00:44:55 | Electronic | Folktronica, IDM | Unplayed | High |  |
+| 2026/07/18 | key vs. locket | I Felt Like a Sketch | 00:47:43 | Rock | Midwest Emo | Unplayed | High | Recommended by friend |
 
 <!-- 
 | Date Added | Artist | Album | Length | Genre | Subgenre | Status | Priority | Notes |
