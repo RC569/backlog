@@ -48,7 +48,6 @@
 | 2026/04/02 | Mr.Kitty | Time | 00:58:33 | Electronic | Dark Synth | Unplayed | High | Recommended by friend |
 | 2026/04/02 | Beach House | depression cherry | 00:44:48 | Pop | Dream, Indie | Unplayed | High | Recommended by friend |
 | 2026/04/02 | Gesaffelstein | Aleph | 01:06:17 | Electronic | Dark, Industrial | Unplayed | Low | Recommended by friend |
-| 2026/04/02 | David Bowie | Heroes | 00:40:44 | Rock | Glam | Unplayed | Next | Recommended by friend |
 | 2026/04/02 | Mitch Murder | Selection 2 | 00:26:19 | Synthwave |  | Unplayed | Low | Recommended by friend |
 | 2026/04/02 | Troye Sivan | Blue Neighbourhood | 00:58:58 | Pop | Electropop, Indie | Unplayed | Low | Recommended by friend |
 | 2026/04/03 | Flying Lotus | 1983 | 00:33:57 | Hip-Hop | Jazz Rap, Instrumental | Unplayed | Low |  |
@@ -111,7 +110,7 @@
 | 2026/07/04 | Autechre | Tri repetae | 01:02:29 | Electronic | IDM | Unplayed | Low |  |
 | 2026/07/05 | Hiroshi Yoshimura | Green | 00:45:58 | Ambient | New-age | Unplayed | High |  |
 | 2026/07/12 | TURQUOISEDEATH | Guardian | 01:05:32 | Electronic | Atmospheric drum and bass | Unplayed | Low |  |
-| 2026/07/17 | Four Tet | Rounds | 00:44:55 | Electronic | Folktronica, IDM | Unplayed | Next* |  |
+| 2026/07/17 | Four Tet | Rounds | 00:44:55 | Electronic | Folktronica, IDM | Unplayed | Next |  |
 | 2026/07/18 | key vs. locket | I Felt Like a Sketch | 00:47:43 | Rock | Midwest Emo | Unplayed | High | Recommended by friend |
 
 <!-- 
