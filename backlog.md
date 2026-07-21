@@ -108,9 +108,10 @@
 | 2026/07/03 | Laserdisc Visions | New Dreams Ltd. | 00:34:54 | Electronic | Vaporwave | Unplayed | Low | [v](https://www.youtube.com/watch?v=fAkA9OkHpVY) |
 | 2026/07/04 | Autechre | Tri repetae | 01:02:29 | Electronic | IDM | Unplayed | Low |  |
 | 2026/07/05 | Hiroshi Yoshimura | Green | 00:45:58 | Ambient | New-age | Unplayed | High |  |
-| 2026/07/12 | TURQUOISEDEATH | Guardian | 01:05:32 | Electronic | Atmospheric drum and bass | Unplayed | Low |  |
+| 2026/07/12 | TURQUOISEDEATH | Guardian | 01:05:32 | Electronic | Atmospheric drum and bass | Unplayed | Next |  |
 | 2026/07/18 | key vs. locket | I Felt Like a Sketch | 00:47:43 | Rock | Midwest Emo | Unplayed | High | Recommended by friend |
-| 2026/07/20 | /f | Recovered Files | Length | Electronic | Glitch, Sound Collage, IDM, Noise, Drone | Not Downloaded | Low | [Sound Collage chart](https://rateyourmusic.com/release/album/_f/recovered-files/) |
+| 2026/07/20 | /f | Recovered Files | 02:24:25 | Electronic | Glitch, Sound Collage, IDM, Noise, Drone | Unplayed | Low | [Sound Collage chart](https://rateyourmusic.com/release/album/_f/recovered-files/) |
+| 2026/07/20 | Operation Sodasteal | SLANEY VS. SODASTEAL | 00:31:32 | Pop | Pop Punk, Mashcore | Unplayed | High | Taken from friend's status |
 
 <!-- 
 | Date Added | Artist | Album | Length | Genre | Subgenre | Status | Priority | Notes |
