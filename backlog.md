@@ -112,7 +112,7 @@
 | 2026/07/18 | key vs. locket | I Felt Like a Sketch | 00:47:43 | Rock | Midwest Emo | Unplayed | High | Recommended by friend |
 | 2026/07/20 | /f | Recovered Files | 02:24:25 | Electronic | Glitch, Sound Collage, IDM, Noise, Drone | Unplayed | High | [Sound Collage chart](https://rateyourmusic.com/release/album/_f/recovered-files/) |
 | 2026/07/20 | Operation Sodasteal | SLANEY VS. SODASTEAL | 00:31:32 | Pop | Pop Punk, Mashcore | Unplayed | High | Taken from friend's status |
-| 2026/07/21 | Various Artists | The Fire This Time | 02:34:41 | Audio Documentary | IDM, Sound Collage | Unplayed | Low |  |
+| 2026/07/21 | Various Artists | The Fire This Time | 01:17:37 | Audio Documentary | IDM, Sound Collage | Unplayed | High |  |
 
 <!-- 
 | Date Added | Artist | Album | Length | Genre | Subgenre | Status | Priority | Notes |
