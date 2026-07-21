@@ -51,7 +51,7 @@
 | 2026/04/02 | Mitch Murder | Selection 2 | 00:26:19 | Synthwave |  | Unplayed | Low | Recommended by friend |
 | 2026/04/02 | Troye Sivan | Blue Neighbourhood | 00:58:58 | Pop | Electropop, Indie | Unplayed | Low | Recommended by friend |
 | 2026/04/03 | Flying Lotus | 1983 | 00:33:57 | Hip-Hop | Jazz Rap, Instrumental | Unplayed | Low |  |
-| 2026/04/03 | Flying Lotus | Ideas+drafts+loops | 01:01:22 | Hip-Hop | Jazz Rap, Experimental | Unplayed | High |  |
+| 2026/04/03 | Flying Lotus | Ideas+drafts+loops | 01:01:22 | Hip-Hop | Jazz Rap, Experimental | Unplayed | Next* |  |
 | 2026/04/04 | Animal Collective | Merriweather Post Pavilion | 00:54:45 | Pop | Experimental, Indie | Unplayed | Low |  |
 | 2026/04/04 | Bring Me The Horizon | That's The Spirit | 00:45:03 | Rock | Alternative | Unplayed | Low |  |
 | 2026/04/06 | Freddie Gibbs | Piñata | 01:00:20 | Hip-Hop | Gangster Rap | Unplayed | Low |  |
