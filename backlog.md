@@ -12,7 +12,7 @@
 | 2025/07/22 | Black Sabbath | Sabotage | 00:43:37 | Metal |  | Unplayed | Medium |  |
 | 2025/07/30 | Deftones | Deftones | 00:47:12 | Metal | Alternative, Nu-Metal | Unplayed | Low |  |
 | 2025/07/30 | Deftones | Saturday Night Wrist | 00:56:28 | Metal | Alternative, Nu-Metal | Unplayed | Low |  |
-| 2025/08/20 | X Japan | Vanishing Vision | 00:42:07 | Metal |  | Unplayed | High |  |
+| 2025/08/20 | X Japan | Vanishing Vision | 00:42:07 | Metal |  | Unplayed | Next |  |
 | 2025/08/20 | X Japan | BLUE BLOOD | 01:05:16 | Metal |  | Unplayed | Low |  |
 | 2025/08/20 | X Japan | Jealousy | 00:50:21 | Metal |  | Unplayed | Low |  |
 | 2025/08/20 | X Japan | Art Of Life | 00:29:00 | Metal |  | Unplayed | Low |  |
@@ -51,7 +51,6 @@
 | 2026/04/02 | Mitch Murder | Selection 2 | 00:26:19 | Synthwave |  | Unplayed | Low | Recommended by friend |
 | 2026/04/02 | Troye Sivan | Blue Neighbourhood | 00:58:58 | Pop | Electropop, Indie | Unplayed | Low | Recommended by friend |
 | 2026/04/03 | Flying Lotus | 1983 | 00:33:57 | Hip-Hop | Jazz Rap, Instrumental | Unplayed | Low |  |
-| 2026/04/03 | Flying Lotus | Ideas+drafts+loops | 01:01:22 | Hip-Hop | Jazz Rap, Experimental | Unplayed | Next |  |
 | 2026/04/04 | Animal Collective | Merriweather Post Pavilion | 00:54:45 | Pop | Experimental, Indie | Unplayed | Low |  |
 | 2026/04/04 | Bring Me The Horizon | That's The Spirit | 00:45:03 | Rock | Alternative | Unplayed | Low |  |
 | 2026/04/06 | Freddie Gibbs | Piñata | 01:00:20 | Hip-Hop | Gangster Rap | Unplayed | Low |  |
