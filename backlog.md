@@ -32,7 +32,6 @@
 | 2026/04/01 | The Roots | Do You Want More?!!!??! | 01:13:51 | Hip-Hop | Conscious | Unplayed | Low |  |
 | 2026/04/01 | JPEGMAFIA | Veteran | 00:42:30 | Hip-Hop | Experimental, Industrial | Unplayed | Medium |  |
 | 2026/04/01 | Scattle | Sketch | 00:34:30 | Electronic | Synthwave, Dark Synth | Unplayed | Low |  |
-| 2026/04/01 | Nirvana | In Utero | 00:41:27 | Rock | Grunge | Unplayed | Next |  |
 | 2026/04/01 | Nirvana | Bleach | 00:42:43 | Rock | Grunge | Unplayed | Low |  |
 | 2026/04/01 | Neurosis | An Undying Love For A Burning World | 01:03:33 | Metal | Post-Metal, Sludge | Unplayed | Medium |  |
 | 2026/04/02 | Childish Gambino | Because the Internet | 00:58:01 | Hip-Hop |  | Unplayed | Medium | Recommended by friend |
