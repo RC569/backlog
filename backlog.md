@@ -16,7 +16,7 @@
 | 2025/08/20 | X Japan | Jealousy | 00:50:21 | Metal |  | Unplayed | Low |  |
 | 2025/08/20 | X Japan | Art Of Life | 00:29:00 | Metal |  | Unplayed | Low |  |
 | 2025/08/20 | X Japan | Dahlia | 00:57:26 | Metal |  | Unplayed | Low |  |
-| 2025/08/20 | Dir En Grey | GAUZE | 01:04:52 | Metal |  | Unplayed | Next* |  |
+| 2025/08/20 | Dir En Grey | GAUZE | 01:04:52 | Metal |  | Unplayed | Next |  |
 | 2025/08/20 | Dir En Grey | Vulgar | 00:57:08 | Metal |  | Unplayed | Low |  |
 | 2025/08/20 | Dir En Grey | Withering to Death | 00:51:20 | Metal |  | Unplayed | Low |  |
 | 2025/08/20 | Dir En Grey | Uroboros | 01:07:46 | Metal |  | Unplayed | Low |  |
