@@ -16,7 +16,7 @@
 | 2025/08/20 | X Japan | Jealousy | 00:50:21 | Metal |  | Unplayed | Low |  |
 | 2025/08/20 | X Japan | Art Of Life | 00:29:00 | Metal |  | Unplayed | Low |  |
 | 2025/08/20 | X Japan | Dahlia | 00:57:26 | Metal |  | Unplayed | Low |  |
-| 2025/08/20 | Dir En Grey | GAUZE | 01:04:52 | Metal |  | Unplayed | Next** |  |
+| 2025/08/20 | Dir En Grey | GAUZE | 01:04:52 | Metal |  | Unplayed | Next* |  |
 | 2025/08/20 | Dir En Grey | Vulgar | 00:57:08 | Metal |  | Unplayed | Low |  |
 | 2025/08/20 | Dir En Grey | Withering to Death | 00:51:20 | Metal |  | Unplayed | Low |  |
 | 2025/08/20 | Dir En Grey | Uroboros | 01:07:46 | Metal |  | Unplayed | Low |  |
@@ -105,7 +105,6 @@
 | 2026/07/04 | Autechre | Tri repetae | 01:02:29 | Electronic | IDM | Unplayed | Low |  |
 | 2026/07/05 | Hiroshi Yoshimura | Green | 00:45:58 | Ambient | New-age | Unplayed | High |  |
 | 2026/07/18 | key vs. locket | I Felt Like a Sketch | 00:47:43 | Rock | Midwest Emo | Unplayed | High | Recommended by friend |
-| 2026/07/20 | /f | Recovered Files | 02:24:25 | Electronic | Glitch, Sound Collage, IDM, Noise, Drone | Unplayed | Next* | [Sound Collage chart](https://rateyourmusic.com/release/album/_f/recovered-files/) |
 | 2026/07/20 | Operation Sodasteal | SLANEY VS. SODASTEAL | 00:31:32 | Pop | Pop Punk, Mashcore | Unplayed | High | Taken from friend's status |
 | 2026/07/21 | Various Artists | The Fire This Time | 01:17:37 | Audio Documentary | IDM, Sound Collage | Not Downloaded | High |  |
 | 2026/07/22 | Underscores | U | 00:34:05 | Electronic | Electropop, EDM | Not Downloaded | Low |  |
