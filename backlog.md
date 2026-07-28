@@ -24,7 +24,6 @@
 | 2025/09/30 | Lil Wayne | Tha Carter II | 01:17:33 | Hip-Hop |  | Unplayed | Medium |  |
 | 2025/09/30 | Lil Wayne | Tha Carter III | 01:18:03 | Hip-Hop |  | Unplayed | Low |  |
 | 2025/09/30 | Lil Wayne | Tha Carter IV | 01:23:23 | Hip-Hop |  | Unplayed | Low |  |
-| 2025/10/25 | Edwin Birdsong | Edwin Birdsong | 01:14:25 | Funk, Soul |  | Unplayed | Low |  |
 | 2026/03/21 | Gris | Il Était Une Forêt | 00:59:32 | Metal | Black, Atmospheric | Unplayed | Medium |  |
 | 2026/03/28 | System of a Down | Steal This Album! | 00:43:31 | Metal | Alternative | Unplayed | Low |  |
 | 2026/03/29 | Pendulum | Immersion | 01:07:23 | Electronic | Industrial Rock, Drum n bass | Unplayed | Medium |  |
@@ -102,12 +101,12 @@
 | 2026/06/30 | Boards of Canada | Music Has the Right to Children | 01:03:03 | Electronic | IDM | Unplayed | Medium |  |
 | 2026/07/03 | James Ferraro | Far Side Virtual | 00:45:40 | Electronic |  | Unplayed | Low | [v](https://www.youtube.com/watch?v=fAkA9OkHpVY) |
 | 2026/07/03 | Laserdisc Visions | New Dreams Ltd. | 00:34:54 | Electronic | Vaporwave | Unplayed | Low | [v](https://www.youtube.com/watch?v=fAkA9OkHpVY) |
-| 2026/07/04 | Autechre | Tri repetae | 01:02:29 | Electronic | IDM | Unplayed | Low |  |
-| 2026/07/05 | Hiroshi Yoshimura | Green | 00:45:58 | Ambient | New-age | Unplayed | High |  |
-| 2026/07/18 | key vs. locket | I Felt Like a Sketch | 00:47:43 | Rock | Midwest Emo | Unplayed | High | Recommended by friend |
+| 2026/07/04 | Autechre | Tri repetae | 01:02:29 | Electronic | IDM | Unplayed | High |  |
+| 2026/07/05 | Hiroshi Yoshimura | Green | 00:45:58 | Ambient | New-age | Unplayed | Next |  |
+| 2026/07/18 | key vs. locket | I Felt Like a Sketch | 00:47:43 | Rock | Midwest Emo | Unplayed | Next** | Recommended by friend |
 | 2026/07/20 | Operation Sodasteal | SLANEY VS. SODASTEAL | 00:31:32 | Pop | Pop Punk, Mashcore | Unplayed | High | Taken from friend's status |
-| 2026/07/21 | Various Artists | The Fire This Time | 01:17:37 | Audio Documentary | IDM, Sound Collage | Not Downloaded | High |  |
-| 2026/07/22 | Underscores | U | 00:34:05 | Electronic | Electropop, EDM | Not Downloaded | Low |  |
+| 2026/07/21 | Various Artists | The Fire This Time | 01:17:37 | Audio Documentary | IDM, Sound Collage | Unplayed | Next* |  |
+| 2026/07/22 | Underscores | U | 00:34:05 | Electronic | Electropop, EDM | Unplayed | Low |  |
 
 <!-- 
 | Date Added | Artist | Album | Length | Genre | Subgenre | Status | Priority | Notes |
@@ -119,5 +118,6 @@ Don't want to listen list: I don't have a good way of doing this yet
 | 2026/04/02 | Maroon 5 | V | 00:52:18 | Pop | Pop Rock | Unplayed | Low | Recommended by friend |
 | 2026/07/10 | Boris & Merzbow | Rock Dream | 01:50:34 | Rock | Noise | Unplayed | Low | Live album |
 | 2026/04/25 | Clint Mansell | π – Music For The Motion Picture | 01:10:03 | Electronic |  | Unplayed | Low | Movie Soundtrack |
+| 2025/10/25 | Edwin Birdsong | Edwin Birdsong | 01:14:25 | Funk, Soul |  | Unplayed | Low |  |
 
 -->
