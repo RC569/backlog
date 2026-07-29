@@ -102,9 +102,8 @@
 | 2026/07/03 | Laserdisc Visions | New Dreams Ltd. | 00:34:54 | Electronic | Vaporwave | Unplayed | Low | [v](https://www.youtube.com/watch?v=fAkA9OkHpVY) |
 | 2026/07/04 | Autechre | Tri repetae | 01:02:29 | Electronic | IDM | Unplayed | High |  |
 | 2026/07/05 | Hiroshi Yoshimura | Green | 00:45:58 | Ambient | New-age | Unplayed | Next |  |
-| 2026/07/18 | key vs. locket | I Felt Like a Sketch | 00:47:43 | Rock | Midwest Emo | Unplayed | Next** | Recommended by friend |
+| 2026/07/18 | key vs. locket | I Felt Like a Sketch | 00:47:43 | Rock | Midwest Emo | Unplayed | Next* | Recommended by friend |
 | 2026/07/20 | Operation Sodasteal | SLANEY VS. SODASTEAL | 00:31:32 | Pop | Pop Punk, Mashcore | Unplayed | High | Taken from friend's status |
-| 2026/07/21 | Various Artists | The Fire This Time | 01:17:37 | Audio Documentary | IDM, Sound Collage | Unplayed | Next* |  |
 | 2026/07/22 | Underscores | U | 00:34:05 | Electronic | Electropop, EDM | Unplayed | Low |  |
 
 <!-- 
