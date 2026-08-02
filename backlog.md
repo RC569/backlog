@@ -104,6 +104,7 @@
 | 2026/07/18 | key vs. locket | I Felt Like a Sketch | 00:47:43 | Rock | Midwest Emo | Unplayed | Next | Recommended by friend |
 | 2026/07/20 | Operation Sodasteal | SLANEY VS. SODASTEAL | 00:31:32 | Pop | Pop Punk, Mashcore | Unplayed | High | Taken from friend's status |
 | 2026/07/22 | Underscores | U | 00:34:05 | Electronic | Electropop, EDM | Unplayed | Low |  |
+| 2026/08/02 | Burial | Untrue | 00:50:28 | Electronic | Dubstep, Future Garage | Unplayed | Medium |  |
 
 <!-- 
 | Date Added | Artist | Album | Length | Genre | Subgenre | Status | Priority | Notes |
