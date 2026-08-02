@@ -105,6 +105,7 @@
 | 2026/07/20 | Operation Sodasteal | SLANEY VS. SODASTEAL | 00:31:32 | Pop | Pop Punk, Mashcore | Unplayed | High | Taken from friend's status |
 | 2026/07/22 | Underscores | U | 00:34:05 | Electronic | Electropop, EDM | Unplayed | Low |  |
 | 2026/08/02 | Burial | Untrue | 00:50:28 | Electronic | Dubstep, Future Garage | Unplayed | Medium |  |
+| 2026/08/02 | Xiu Xiu | A Promise | 00:38:52 | Electronic | Experimental, Post-Industrial | Unplayed | High |  |
 
 <!-- 
 | Date Added | Artist | Album | Length | Genre | Subgenre | Status | Priority | Notes |
