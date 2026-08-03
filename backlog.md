@@ -106,6 +106,7 @@
 | 2026/08/02 | Burial | Untrue | 00:50:33 | Electronic | Dubstep, Future Garage | Unplayed | Next* |  |
 | 2026/08/02 | Xiu Xiu | A Promise | 00:38:56 | Electronic | Experimental, Post-Industrial | Unplayed | Next** |  |
 | 2026/08/03 | Various Artists | Trans-Central Connection | 01:12:24 | Electronic | Atmospheric Drum n Bass | Unplayed | High | [v](https://www.youtube.com/watch?v=rz3JVZbmoCg) |
+| 2026/08/03 | Venetian Snares | Traditional Synthesizer Music | 00:43:57 | Electronic | Drill n bass, IDM, breakcore | Unplayed | High |  |
 
 <!-- 
 | Date Added | Artist | Album | Length | Genre | Subgenre | Status | Priority | Notes |
@@ -118,5 +119,7 @@ Don't want to listen list: I don't have a good way of doing this yet
 | 2026/07/10 | Boris & Merzbow | Rock Dream | 01:50:34 | Rock | Noise | Unplayed | Low | Live album |
 | 2026/04/25 | Clint Mansell | π – Music For The Motion Picture | 01:10:03 | Electronic |  | Unplayed | Low | Movie Soundtrack |
 | 2025/10/25 | Edwin Birdsong | Edwin Birdsong | 01:14:25 | Funk, Soul |  | Unplayed | Low |  |
+
+TODO: Change the genre | subgenre thing. It's not that good when it's just electronic then what you're actually looking for and rym has a better system so lets just do what rym does :^)
 
 -->
