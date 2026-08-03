@@ -105,7 +105,7 @@
 | 2026/07/22 | Underscores | U | 00:34:05 | Electronic | Electropop, EDM | Unplayed | Low |  |
 | 2026/08/02 | Burial | Untrue | 00:50:33 | Electronic | Dubstep, Future Garage | Unplayed | Next* |  |
 | 2026/08/02 | Xiu Xiu | A Promise | 00:38:56 | Electronic | Experimental, Post-Industrial | Unplayed | Next** |  |
-| 2026/08/03 | Various Artists | Trans-Central Connection | Length | Electronic | Atmospheric Drum n Bass | Unplayed | High | [v](https://www.youtube.com/watch?v=rz3JVZbmoCg) |
+| 2026/08/03 | Various Artists | Trans-Central Connection | 01:12:24 | Electronic | Atmospheric Drum n Bass | Unplayed | High | [v](https://www.youtube.com/watch?v=rz3JVZbmoCg) |
 
 <!-- 
 | Date Added | Artist | Album | Length | Genre | Subgenre | Status | Priority | Notes |
