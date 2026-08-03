@@ -9,7 +9,7 @@
 | Date Added | Artist | Album | Length | Genre | Subgenre | Status | Priority | Notes |
 |---|---|---|---|---|---|---|---|---|
 | 2025/07/19 | BELL WITCH | Stygian Bough Volume I | 01:04:19 | Metal | Doom, Funeral | Unplayed | Medium |  |
-| 2025/07/22 | Black Sabbath | Sabotage | 00:43:37 | Metal |  | Unplayed | Medium |  |
+| 2025/07/22 | Black Sabbath | Sabotage | 00:43:37 | Metal |  | Unplayed | Next*** |  |
 | 2025/07/30 | Deftones | Deftones | 00:47:12 | Metal | Alternative, Nu-Metal | Unplayed | Low |  |
 | 2025/07/30 | Deftones | Saturday Night Wrist | 00:56:28 | Metal | Alternative, Nu-Metal | Unplayed | Low |  |
 | 2025/08/20 | X Japan | BLUE BLOOD | 01:05:16 | Metal |  | Unplayed | High |  |
@@ -24,8 +24,8 @@
 | 2025/09/30 | Lil Wayne | Tha Carter III | 01:18:03 | Hip-Hop |  | Unplayed | Low |  |
 | 2025/09/30 | Lil Wayne | Tha Carter IV | 01:23:23 | Hip-Hop |  | Unplayed | Low |  |
 | 2026/03/21 | Gris | Il Était Une Forêt | 00:59:32 | Metal | Black, Atmospheric | Unplayed | Medium |  |
-| 2026/03/28 | System of a Down | Steal This Album! | 00:43:31 | Metal | Alternative | Unplayed | Low |  |
-| 2026/03/29 | Pendulum | Immersion | 01:07:23 | Electronic | Industrial Rock, Drum n bass | Unplayed | Medium |  |
+| 2026/03/28 | System of a Down | Steal This Album! | 00:43:31 | Metal | Alternative | Unplayed | Medium |  |
+| 2026/03/29 | Pendulum | Immersion | 01:07:23 | Electronic | Industrial Rock, Drum n bass | Unplayed | High |  |
 | 2026/04/01 | Nujabes | Metaphorical Music | 01:02:29 | Hip-Hop | Jazz Rap, Instrumental | Unplayed | High |  |
 | 2026/04/01 | The Roots | Do You Want More?!!!??! | 01:13:51 | Hip-Hop | Conscious | Unplayed | Low |  |
 | 2026/04/01 | JPEGMAFIA | Veteran | 00:42:30 | Hip-Hop | Experimental, Industrial | Unplayed | Medium |  |
@@ -103,8 +103,9 @@
 | 2026/07/04 | Autechre | Tri repetae | 01:02:29 | Electronic | IDM | Unplayed | Next |  |
 | 2026/07/20 | Operation Sodasteal | SLANEY VS. SODASTEAL | 00:31:32 | Pop | Pop Punk, Mashcore | Unplayed | High | Taken from friend's status |
 | 2026/07/22 | Underscores | U | 00:34:05 | Electronic | Electropop, EDM | Unplayed | Low |  |
-| 2026/08/02 | Burial | Untrue | 00:50:28 | Electronic | Dubstep, Future Garage | Unplayed | Next* |  |
-| 2026/08/02 | Xiu Xiu | A Promise | 00:38:52 | Electronic | Experimental, Post-Industrial | Unplayed | Next** |  |
+| 2026/08/02 | Burial | Untrue | 00:50:33 | Electronic | Dubstep, Future Garage | Unplayed | Next* |  |
+| 2026/08/02 | Xiu Xiu | A Promise | 00:38:56 | Electronic | Experimental, Post-Industrial | Unplayed | Next** |  |
+| 2026/08/03 | Various Artists | Trans-Central Connection | Length | Electronic | Atmospheric Drum n Bass | Unplayed | High | [v](https://www.youtube.com/watch?v=rz3JVZbmoCg) |
 
 <!-- 
 | Date Added | Artist | Album | Length | Genre | Subgenre | Status | Priority | Notes |
