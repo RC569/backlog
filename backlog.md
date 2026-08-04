@@ -9,7 +9,7 @@
 | Date Added | Artist | Album | Length | Genre | Subgenre | Status | Priority | Notes |
 |---|---|---|---|---|---|---|---|---|
 | 2025/07/19 | BELL WITCH | Stygian Bough Volume I | 01:04:19 | Metal | Doom, Funeral | Unplayed | Medium |  |
-| 2025/07/22 | Black Sabbath | Sabotage | 00:43:37 | Metal |  | Unplayed | Next*** |  |
+| 2025/07/22 | Black Sabbath | Sabotage | 00:43:37 | Metal |  | Unplayed | Next** |  |
 | 2025/07/30 | Deftones | Deftones | 00:47:12 | Metal | Alternative, Nu-Metal | Unplayed | Low |  |
 | 2025/07/30 | Deftones | Saturday Night Wrist | 00:56:28 | Metal | Alternative, Nu-Metal | Unplayed | Low |  |
 | 2025/08/20 | X Japan | BLUE BLOOD | 01:05:16 | Metal |  | Unplayed | High |  |
@@ -100,11 +100,10 @@
 | 2026/06/30 | Boards of Canada | Music Has the Right to Children | 01:03:03 | Electronic | IDM | Unplayed | Medium |  |
 | 2026/07/03 | James Ferraro | Far Side Virtual | 00:45:40 | Electronic |  | Unplayed | Low | [v](https://www.youtube.com/watch?v=fAkA9OkHpVY) |
 | 2026/07/03 | Laserdisc Visions | New Dreams Ltd. | 00:34:54 | Electronic | Vaporwave | Unplayed | Low | [v](https://www.youtube.com/watch?v=fAkA9OkHpVY) |
-| 2026/07/04 | Autechre | Tri repetae | 01:02:29 | Electronic | IDM | Unplayed | Next |  |
 | 2026/07/20 | Operation Sodasteal | SLANEY VS. SODASTEAL | 00:31:32 | Pop | Pop Punk, Mashcore | Unplayed | High | Taken from friend's status |
 | 2026/07/22 | Underscores | U | 00:34:05 | Electronic | Electropop, EDM | Unplayed | Low |  |
-| 2026/08/02 | Burial | Untrue | 00:50:33 | Electronic | Dubstep, Future Garage | Unplayed | Next* |  |
-| 2026/08/02 | Xiu Xiu | A Promise | 00:38:56 | Electronic | Experimental, Post-Industrial | Unplayed | Next** |  |
+| 2026/08/02 | Burial | Untrue | 00:50:33 | Electronic | Dubstep, Future Garage | Unplayed | Next |  |
+| 2026/08/02 | Xiu Xiu | A Promise | 00:38:56 | Electronic | Experimental, Post-Industrial | Unplayed | Next* |  |
 | 2026/08/03 | Various Artists | Trans-Central Connection | 01:12:24 | Electronic | Atmospheric Drum n Bass | Unplayed | High | [v](https://www.youtube.com/watch?v=rz3JVZbmoCg) |
 | 2026/08/03 | Venetian Snares | Traditional Synthesizer Music | 00:43:57 | Electronic | Drill n bass, IDM, breakcore | Unplayed | High |  |
 
