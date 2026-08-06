@@ -9,7 +9,6 @@
 | Date Added | Artist | Album | Length | Genre | Subgenre | Status | Priority | Notes |
 |---|---|---|---|---|---|---|---|---|
 | 2025/07/19 | BELL WITCH | Stygian Bough Volume I | 01:04:19 | Metal | Doom, Funeral | Unplayed | Medium |  |
-| 2025/07/22 | Black Sabbath | Sabotage | 00:43:37 | Metal |  | Unplayed | Next |  |
 | 2025/07/30 | Deftones | Deftones | 00:47:12 | Metal | Alternative, Nu-Metal | Unplayed | Low |  |
 | 2025/07/30 | Deftones | Saturday Night Wrist | 00:56:28 | Metal | Alternative, Nu-Metal | Unplayed | Low |  |
 | 2025/08/20 | X Japan | BLUE BLOOD | 01:05:16 | Metal |  | Unplayed | High |  |
@@ -76,7 +75,7 @@
 | 2026/05/15 | METAROOM | SINGLES COLLECTION | 01:02:06 | Electronic | Glitchcore | Unplayed | Low |  |
 | 2026/06/05 | Cocteau Twins | Heaven or Las Vegas | 00:37:42 | Pop | Dream Pop | Unplayed | Low | Recommended by friend |
 | 2026/06/05 | My Bloody Valentine | Loveless | 00:48:35 | Pop | Shoegaze, Noise Pop, Dream Pop | Unplayed | High | Recommended by friend |
-| 2026/06/07 | Leverfall | Connected | 00:15:47 |  |  | Unplayed | Low |  |
+| 2026/06/07 | Leverfall | Connected | 00:15:47 |  |  | Unplayed | Next** |  |
 | 2026/06/12 | Knxwledge | Hud Dreems | 00:36:44 | Hip-Hop | Instrumental | Unplayed | Low |  |
 | 2026/06/12 | Caustic Window | Caustic Window | 01:09:26 | Electronic | Ambient, IDM | Unplayed | Low |  |
 | 2026/06/14 | Aphex Twin | Ventolin EP | 00:53:57 | Electronic | IDM | Unplayed | Low |  |
@@ -102,8 +101,8 @@
 | 2026/07/03 | Laserdisc Visions | New Dreams Ltd. | 00:34:54 | Electronic | Vaporwave | Unplayed | Low | [v](https://www.youtube.com/watch?v=fAkA9OkHpVY) |
 | 2026/07/20 | Operation Sodasteal | SLANEY VS. SODASTEAL | 00:31:32 | Pop | Pop Punk, Mashcore | Unplayed | High | Taken from friend's status |
 | 2026/07/22 | Underscores | U | 00:34:05 | Electronic | Electropop, EDM | Unplayed | Low |  |
-| 2026/08/03 | Various Artists | Trans-Central Connection | 01:12:24 | Electronic | Atmospheric Drum n Bass | Unplayed | High | [YT Recommendation](https://www.youtube.com/watch?v=rz3JVZbmoCg) |
-| 2026/08/03 | Venetian Snares | Traditional Synthesizer Music | 00:43:57 | Electronic | Drill n bass, IDM, breakcore | Unplayed | High |  |
+| 2026/08/03 | Various Artists | Trans-Central Connection | 01:12:24 | Electronic | Atmospheric Drum n Bass | Unplayed | Next* | [YT Recommendation](https://www.youtube.com/watch?v=rz3JVZbmoCg) |
+| 2026/08/03 | Venetian Snares | Traditional Synthesizer Music | 00:43:57 | Electronic | Drill n bass, IDM, breakcore | Unplayed | Next |  |
 
 <!-- 
 | Date Added | Artist | Album | Length | Genre | Subgenre | Status | Priority | Notes |
