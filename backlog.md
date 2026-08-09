@@ -101,8 +101,7 @@
 | 2026/07/03 | Laserdisc Visions | New Dreams Ltd. | 00:34:54 | Electronic | Vaporwave | Unplayed | High | [v](https://www.youtube.com/watch?v=fAkA9OkHpVY) |
 | 2026/07/20 | Operation Sodasteal | SLANEY VS. SODASTEAL | 00:31:32 | Pop | Pop Punk, Mashcore | Unplayed | High | Taken from friend's status |
 | 2026/07/22 | Underscores | U | 00:34:05 | Electronic | Electropop, EDM | Unplayed | Low |  |
-| 2026/08/09 | PinkPantheress  | To Hell With It  | 18:36 | God I need to fucking change this stupid genre system | 
-Atmospheric Drum and Bass, Contemporary R&B, Alt-Pop | Unplayed | Next* |  |
+| 2026/08/09 | PinkPantheress  | To Hell With It  | 18:36 | God I need to fucking change this stupid genre system | Atmospheric Drum and Bass, Contemporary R&B, Alt-Pop | Unplayed | Next* |  |
 
 <!-- 
 | Date Added | Artist | Album | Length | Genre | Subgenre | Status | Priority | Notes |
