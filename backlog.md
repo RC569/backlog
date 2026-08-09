@@ -74,10 +74,10 @@
 | 2026/05/15 | Steve Brenner | Signals | 00:37:54 | Electronic | Ambient | Unplayed | Low | [YT Recommendation](https://www.youtube.com/watch?v=pP4Cct_1di8) |
 | 2026/05/15 | METAROOM | SINGLES COLLECTION | 01:02:06 | Electronic | Glitchcore | Unplayed | Low |  |
 | 2026/06/05 | Cocteau Twins | Heaven or Las Vegas | 00:37:42 | Pop | Dream Pop | Unplayed | Low | Recommended by friend |
-| 2026/06/05 | My Bloody Valentine | Loveless | 00:48:35 | Pop | Shoegaze, Noise Pop, Dream Pop | Unplayed | High | Recommended by friend |
-| 2026/06/07 | Leverfall | Connected | 00:15:47 |  |  | Unplayed | Next** |  |
-| 2026/06/12 | Knxwledge | Hud Dreems | 00:36:44 | Hip-Hop | Instrumental | Unplayed | Low |  |
-| 2026/06/12 | Caustic Window | Caustic Window | 01:09:26 | Electronic | Ambient, IDM | Unplayed | Low |  |
+| 2026/06/05 | My Bloody Valentine | Loveless | 00:48:35 | Pop | Shoegaze, Noise Pop, Dream Pop | Unplayed | Next** | Recommended by friend |
+| 2026/06/07 | Leverfall | Connected | 00:15:47 |  |  | Unplayed | Next |  |
+| 2026/06/12 | Knxwledge | Hud Dreems | 00:36:44 | Hip-Hop | Instrumental | Unplayed | Medium |  |
+| 2026/06/12 | Caustic Window | Caustic Window | 01:09:26 | Electronic | Ambient, IDM | Unplayed | High |  |
 | 2026/06/14 | Aphex Twin | Ventolin EP | 00:53:57 | Electronic | IDM | Unplayed | Low |  |
 | 2026/06/15 | runescape斯凱利 | runescape.wav符文風景骨架 | 00:54:49 | Electronic | Ambient, Experimental, Vaporwave | Unplayed | Low |  |
 | 2026/06/17 | Time Fragment | 装甲艦 (remastered edition) | 00:37:59 | Electronic | Ambient, IDM, Vaporwave | Unplayed | Medium | https://www.youtube.com/watch?v=s8WdtR-Jcv8 |
@@ -97,11 +97,12 @@
 | 2026/06/23 | Dälek | Absence | 00:57:12 | Hip-Hop | Ambient, Experimental | Unplayed | Medium |  |
 | 2026/06/28 | Boards of Canada | Inferno | 01:09:51 | Electronic | Downtempo, Hauntology | Unplayed | High |  |
 | 2026/06/30 | Boards of Canada | Music Has the Right to Children | 01:03:03 | Electronic | IDM | Unplayed | Medium |  |
-| 2026/07/03 | James Ferraro | Far Side Virtual | 00:45:40 | Electronic |  | Unplayed | Low | [v](https://www.youtube.com/watch?v=fAkA9OkHpVY) |
-| 2026/07/03 | Laserdisc Visions | New Dreams Ltd. | 00:34:54 | Electronic | Vaporwave | Unplayed | Low | [v](https://www.youtube.com/watch?v=fAkA9OkHpVY) |
+| 2026/07/03 | James Ferraro | Far Side Virtual | 00:45:40 | Electronic |  | Unplayed | High | [v](https://www.youtube.com/watch?v=fAkA9OkHpVY) |
+| 2026/07/03 | Laserdisc Visions | New Dreams Ltd. | 00:34:54 | Electronic | Vaporwave | Unplayed | High | [v](https://www.youtube.com/watch?v=fAkA9OkHpVY) |
 | 2026/07/20 | Operation Sodasteal | SLANEY VS. SODASTEAL | 00:31:32 | Pop | Pop Punk, Mashcore | Unplayed | High | Taken from friend's status |
 | 2026/07/22 | Underscores | U | 00:34:05 | Electronic | Electropop, EDM | Unplayed | Low |  |
-| 2026/08/03 | Various Artists | Trans-Central Connection | 01:12:24 | Electronic | Atmospheric Drum n Bass | Unplayed | Next | [YT Recommendation](https://www.youtube.com/watch?v=rz3JVZbmoCg) |
+| 2026/08/09 | PinkPantheress  | To Hell With It  | 18:36 | God I need to fucking change this stupid genre system | 
+Atmospheric Drum and Bass, Contemporary R&B, Alt-Pop | Unplayed | Next* |  |
 
 <!-- 
 | Date Added | Artist | Album | Length | Genre | Subgenre | Status | Priority | Notes |
