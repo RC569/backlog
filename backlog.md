@@ -74,7 +74,7 @@
 | 2026/05/15 | Steve Brenner | Signals | 00:37:54 | Electronic | Ambient | Unplayed | Low | [YT Recommendation](https://www.youtube.com/watch?v=pP4Cct_1di8) |
 | 2026/05/15 | METAROOM | SINGLES COLLECTION | 01:02:06 | Electronic | Glitchcore | Unplayed | Low |  |
 | 2026/06/05 | Cocteau Twins | Heaven or Las Vegas | 00:37:42 | Pop | Dream Pop | Unplayed | Low | Recommended by friend |
-| 2026/06/05 | My Bloody Valentine | Loveless | 00:48:35 | Pop | Shoegaze, Noise Pop, Dream Pop | Unplayed | Next** | Recommended by friend |
+| 2026/06/05 | My Bloody Valentine | Loveless | 00:48:35 | Pop | Shoegaze, Noise Pop, Dream Pop | Unplayed | Next* | Recommended by friend |
 | 2026/06/12 | Knxwledge | Hud Dreems | 00:36:44 | Hip-Hop | Instrumental | Unplayed | Medium |  |
 | 2026/06/12 | Caustic Window | Caustic Window | 01:09:26 | Electronic | Ambient, IDM | Unplayed | High |  |
 | 2026/06/14 | Aphex Twin | Ventolin EP | 00:53:57 | Electronic | IDM | Unplayed | Low |  |
@@ -91,7 +91,7 @@
 | 2026/06/20 | Glenn Branca | The Ascension | 00:42:07 | Rock | Noise, Experimental, Punk, Post-Rock | Unplayed | Low | [Overstimulating instrumental](https://rym.fm/discussion/music/overstimulating-instrumental-music/) |
 | 2026/06/20 | Steve Reich | Music for 18 Musicians | 00:58:55 |  |  | Unplayed | Low | [Overstimulating instrumental](https://rym.fm/discussion/music/overstimulating-instrumental-music/) |
 | 2026/06/20 | Plus-Tech Squeeze Box | Cartooom! | 00:28:05 |  | Picopop | Unplayed | Low | [Overstimulating instrumental](https://rym.fm/discussion/music/overstimulating-instrumental-music/) |
-| 2026/06/20 | i broke my robot | Tomorrow Does Not Exist | 00:49:32 | Electronic | IDM, Breakcore | Unplayed | Next* | [Overstimulating instrumental](https://rym.fm/discussion/music/overstimulating-instrumental-music/) |
+| 2026/06/20 | i broke my robot | Tomorrow Does Not Exist | 00:49:32 | Electronic | IDM, Breakcore | Unplayed | Next | [Overstimulating instrumental](https://rym.fm/discussion/music/overstimulating-instrumental-music/) |
 | 2026/06/23 | Vince Staples | Big Fish Theory | 00:36:08 | Hip-Hop |  | Unplayed | Low |  |
 | 2026/06/23 | Dälek | Absence | 00:57:12 | Hip-Hop | Ambient, Experimental | Unplayed | Medium |  |
 | 2026/06/28 | Boards of Canada | Inferno | 01:09:51 | Electronic | Downtempo, Hauntology | Unplayed | High |  |
@@ -100,7 +100,6 @@
 | 2026/07/03 | Laserdisc Visions | New Dreams Ltd. | 00:34:54 | Electronic | Vaporwave | Unplayed | High | [v](https://www.youtube.com/watch?v=fAkA9OkHpVY) |
 | 2026/07/20 | Operation Sodasteal | SLANEY VS. SODASTEAL | 00:31:32 | Pop | Pop Punk, Mashcore | Unplayed | High | Taken from friend's status |
 | 2026/07/22 | Underscores | U | 00:34:05 | Electronic | Electropop, EDM | Unplayed | Low |  |
-| 2026/08/09 | PinkPantheress  | To Hell With It  | 18:36 | God I need to fucking change this stupid genre system | Atmospheric Drum and Bass, Contemporary R&B, Alt-Pop | Unplayed | Next |  |
 
 <!-- 
 | Date Added | Artist | Album | Length | Genre | Subgenre | Status | Priority | Notes |
