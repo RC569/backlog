@@ -1,3 +1,17 @@
+# Music Backlog 	
+
+	
+<div id="betterview"> 	
+
+	
+## Click [here](https://rc569.github.io/backlog) for a better view. 	
+
+	
+</div> 	
+
+	
+| Date Added | Artist | Album | Length | Genre | Subgenre | Status | Priority | Notes | 	
+|---|---|---|---|---|---|---|---|---|
 | 2025/07/19 | BELL WITCH | Stygian Bough Volume I | 01:04:19 | Metal | Doom, Funeral | Unplayed | Medium |  |
 | 2025/07/30 | Deftones | Deftones | 00:47:12 | Metal | Alternative, Nu-Metal | Unplayed | Low |  |
 | 2025/07/30 | Deftones | Saturday Night Wrist | 00:56:28 | Metal | Alternative, Nu-Metal | Unplayed | Low |  |
