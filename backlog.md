@@ -1,13 +1,3 @@
-# Music Backlog
-
-<div id="betterview">
-
-## Click [here](https://rc569.github.io/backlog) for a better view.
-
-</div>
-
-| Date Added | Artist | Album | Length | Genre | Subgenre | Status | Priority | Notes |
-|---|---|---|---|---|---|---|---|---|
 | 2025/07/19 | BELL WITCH | Stygian Bough Volume I | 01:04:19 | Metal | Doom, Funeral | Unplayed | Medium |  |
 | 2025/07/30 | Deftones | Deftones | 00:47:12 | Metal | Alternative, Nu-Metal | Unplayed | Low |  |
 | 2025/07/30 | Deftones | Saturday Night Wrist | 00:56:28 | Metal | Alternative, Nu-Metal | Unplayed | Low |  |
@@ -65,7 +55,7 @@
 | 2026/04/20 | Metronomy | The English Riviera | 00:45:06 | Electronic |  | Unplayed | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
 | 2026/04/20 | El Cuarteto De Nos | Raro | 00:45:02 | Rock |  | Unplayed | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
 | 2026/04/20 | I Dont Know How but They Found Me | Razzmatazz | 00:37:20 | Rock | Indie | Unplayed | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
-| 2026/05/06 | Oneohtrix Point Never | R Plus Seven | 00:43:01 | Electronic | Vapor, Ambient | Unplayed | Low |  |
+| 2026/05/06 | Oneohtrix Point Never | R Plus Seven | 00:43:01 | Electronic | Vapor, Ambient | Unplayed | Next** |  |
 | 2026/05/07 | Makoto | Believe in My Soul | 01:07:00 | Electronic | Drum n Bass | Unplayed | Medium |  |
 | 2026/05/08 | El-P | Fantastic Damage | 01:10:25 | Hip-Hop | Experimental | Unplayed | Low |  |
 | 2026/05/08 | Deltron 3030 | Deltron 3030 | 01:00:28 | Hip-Hop | Abstract, Experimental | Unplayed | Low |  |
