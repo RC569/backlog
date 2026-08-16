@@ -1,15 +1,9 @@
-# Music Backlog 	
-
-	
 <div id="betterview"> 	
 
-	
-## Click [here](https://rc569.github.io/backlog) for a better view. 	
+## Click [here](https://rc569.github.io/backlog) for a better view.
 
-	
-</div> 	
+</div>
 
-	
 | Date Added | Artist | Album | Length | Genre | Subgenre | Status | Priority | Notes | 	
 |---|---|---|---|---|---|---|---|---|
 | 2025/07/19 | BELL WITCH | Stygian Bough Volume I | 01:04:19 | Metal | Doom, Funeral | Unplayed | Medium |  |
@@ -63,13 +57,12 @@
 | 2026/04/11 | The Velvet Underground & Nico | The Velvet Underground & Nico | 00:48:57 | Rock | Garage, Experimental | Unplayed | Low |  |
 | 2026/04/20 | LemKuuja | CHEESECAKE+ | 01:03:17 | Electronic | | Unplayed | Medium | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
 | 2026/04/20 | The Misfits | Static Age | 00:35:04 | Rock | Punk | Unplayed | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
-| 2026/04/20 | Style Of Eye & Magnus The Magnus | Antidote | 00:06:30 | Electronic |  | Unplayed | Next*** | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
+| 2026/04/20 | Style Of Eye & Magnus The Magnus | Antidote | 00:06:30 | Electronic |  | Unplayed | Next** | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
 | 2026/04/20 | Justice | Cross | 01:02:47 | Electronic | Electro house | Unplayed | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
 | 2026/04/20 | REZNYCK | MUSCLE CARDIAC | 00:41:46 | Electronic | Synthwave | Unplayed | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
 | 2026/04/20 | Metronomy | The English Riviera | 00:45:06 | Electronic |  | Unplayed | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
 | 2026/04/20 | El Cuarteto De Nos | Raro | 00:45:02 | Rock |  | Unplayed | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
 | 2026/04/20 | I Dont Know How but They Found Me | Razzmatazz | 00:37:20 | Rock | Indie | Unplayed | Low | [Everpine Mall](https://steamcommunity.com/sharedfiles/filedetails/?id=3460960868) |
-| 2026/05/06 | Oneohtrix Point Never | R Plus Seven | 00:43:01 | Electronic | Vapor, Ambient | Unplayed | Next |  |
 | 2026/05/07 | Makoto | Believe in My Soul | 01:07:00 | Electronic | Drum n Bass | Unplayed | Medium |  |
 | 2026/05/08 | El-P | Fantastic Damage | 01:10:25 | Hip-Hop | Experimental | Unplayed | Low |  |
 | 2026/05/08 | Deltron 3030 | Deltron 3030 | 01:00:28 | Hip-Hop | Abstract, Experimental | Unplayed | Low |  |
@@ -98,8 +91,8 @@
 | 2026/06/23 | Dälek | Absence | 00:57:12 | Hip-Hop | Ambient, Experimental | Unplayed | Medium |  |
 | 2026/06/28 | Boards of Canada | Inferno | 01:09:51 | Electronic | Downtempo, Hauntology | Unplayed | High |  |
 | 2026/06/30 | Boards of Canada | Music Has the Right to Children | 01:03:03 | Electronic | IDM | Unplayed | Medium |  |
-| 2026/07/03 | James Ferraro | Far Side Virtual | 00:45:40 | Electronic |  | Unplayed | Next** | [v](https://www.youtube.com/watch?v=fAkA9OkHpVY) |
-| 2026/07/03 | Laserdisc Visions | New Dreams Ltd. | 00:34:54 | Electronic | Vaporwave | Unplayed | Next* | [v](https://www.youtube.com/watch?v=fAkA9OkHpVY) |
+| 2026/07/03 | James Ferraro | Far Side Virtual | 00:45:40 | Electronic |  | Unplayed | Next* | [v](https://www.youtube.com/watch?v=fAkA9OkHpVY) |
+| 2026/07/03 | Laserdisc Visions | New Dreams Ltd. | 00:34:54 | Electronic | Vaporwave | Unplayed | Next | [v](https://www.youtube.com/watch?v=fAkA9OkHpVY) |
 | 2026/07/20 | Operation Sodasteal | SLANEY VS. SODASTEAL | 00:31:32 | Pop | Pop Punk, Mashcore | Unplayed | High | Taken from friend's status |
 | 2026/07/22 | Underscores | U | 00:34:05 | Electronic | Electropop, EDM | Unplayed | High |  |
 
