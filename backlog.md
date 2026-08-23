@@ -84,6 +84,7 @@
 | 2026/06/30 | Boards of Canada | Music Has the Right to Children | 01:03:03 | Electronic | IDM | Unplayed | Medium |  |
 | 2026/07/20 | Operation Sodasteal | SLANEY VS. SODASTEAL | 00:31:32 | Pop | Pop Punk, Mashcore | Unplayed | High | Taken from friend's status |
 | 2026/07/22 | Underscores | U | 00:34:05 | Electronic | Electropop, EDM | Unplayed | Next |  |
+| 2026/08/22 | TURQUOISEDEATH | Soundsystem, Breathe! | 00:26:00 |  |  | Unplayed | High |  |
 
 <!-- 
 | Date Added | Artist | Album | Length | Genre | Subgenre | Status | Priority | Notes |
