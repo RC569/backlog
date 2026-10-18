@@ -84,7 +84,8 @@
 | 2026/06/30 | Boards of Canada | Music Has the Right to Children | 01:03:03 | Electronic | IDM | Unplayed | Medium |  |
 | 2026/07/20 | Operation Sodasteal | SLANEY VS. SODASTEAL | 00:31:32 | Pop | Pop Punk, Mashcore | Unplayed | High | Taken from friend's status |
 | 2026/08/22 | TURQUOISEDEATH | Soundsystem, Breathe! | 00:26:00 |  |  | Unplayed | High |  |
-| 2026/08/31 | Radiohead | Kid A | 00:49:56 |  |  | Unplayed | Next** | <img src="https://forge.makearmy.io/woofmeow/straywild/raw/branch/main/art/exported/creatures/fish_placeholder.png"> |
+| 2026/08/31 | Radiohead | Kid A | 00:49:56 |  |  | Unplayed | Next** |  |
+| 2026/10/18 | NoisyRejects | corru.observer side c |  |  |  | Unplayed | High |  |
 
 <!-- 
 | Date Added | Artist | Album | Length | Genre | Subgenre | Status | Priority | Notes |
