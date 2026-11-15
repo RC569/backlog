@@ -86,7 +86,6 @@
 | 2026/08/22 | TURQUOISEDEATH | Soundsystem, Breathe! | 00:26:00 |  |  | Unplayed | High |  |
 | 2026/08/31 | Radiohead | Kid A | 00:49:56 |  |  | Unplayed | Next** |  |
 | 2026/10/18 | NoisyRejects | corru.observer side c |  |  |  | Unplayed | High |  |
-| 2026/10/23 | mudeth | Antibirth: OST |  |  |  | Unplayed | Medium |  |
 
 <!-- 
 | Date Added | Artist | Album | Length | Genre | Subgenre | Status | Priority | Notes |
