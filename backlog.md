@@ -1,4 +1,4 @@
-| Date Added | Artist | Album | Length | Genre | Subgenre | Status | Priority | Notes | 	
+| Date Added | Artist | Album | Length | Genre | Subgenre | Status | Priority | Notes |
 |---|---|---|---|---|---|---|---|---|
 | 2025/07/19 | BELL WITCH | Stygian Bough Volume I | 01:04:19 | Metal | Doom, Funeral | Unplayed | Medium |  |
 | 2025/07/30 | Deftones | Deftones | 00:47:12 | Metal | Alternative, Nu-Metal | Unplayed | Low |  |
@@ -86,7 +86,7 @@
 | 2026/08/22 | TURQUOISEDEATH | Soundsystem, Breathe! | 00:26:00 |  |  | Unplayed | High |  |
 | 2026/08/31 | Radiohead | Kid A | 00:49:56 |  |  | Unplayed | High |  |
 
-<!-- 
+<!--
 | Date Added | Artist | Album | Length | Genre | Subgenre | Status | Priority | Notes |
 | Unplayed | Low |  |
 
