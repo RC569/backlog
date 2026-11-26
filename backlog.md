@@ -85,6 +85,7 @@
 | 2026/07/20 | Operation Sodasteal | SLANEY VS. SODASTEAL | 00:31:32 | Pop | Pop Punk, Mashcore | Unplayed | High | Taken from friend's status |
 | 2026/08/22 | TURQUOISEDEATH | Soundsystem, Breathe! | 00:26:00 |  |  | Unplayed | High |  |
 | 2026/08/31 | Radiohead | Kid A | 00:49:56 |  |  | Unplayed | High |  |
+| 2026/11/25 | Vylet Pony | Love & Ponystep | 01:35:38 | Electronic Dance Music, Electropop | Brostep, Hyperpop, Trap \[EDM\], Digicore, Complextro, Dance-Pop, Electro House, Indietronica | Unplayed | High |  |
 
 <!--
 | Date Added | Artist | Album | Length | Genre | Subgenre | Status | Priority | Notes |
