@@ -83,8 +83,7 @@
 | 2026/06/28 | Boards of Canada | Inferno | 01:09:51 | Electronic | Downtempo, Hauntology | Unplayed | High |  |
 | 2026/06/30 | Boards of Canada | Music Has the Right to Children | 01:03:03 | Electronic | IDM | Unplayed | Medium |  |
 | 2026/07/20 | Operation Sodasteal | SLANEY VS. SODASTEAL | 00:31:32 | Pop | Pop Punk, Mashcore | Unplayed | High | Taken from friend's status |
-| 2026/08/22 | TURQUOISEDEATH | Soundsystem, Breathe! | 00:26:00 |  |  | Unplayed | High |  |
-| 2026/08/31 | Radiohead | Kid A | 00:49:56 |  |  | Unplayed | Next |  |
+| 2026/08/22 | TURQUOISEDEATH | Soundsystem, Breathe! | 00:26:00 |  |  | Unplayed | Next |  |
 | 2026/11/25 | Vylet Pony | Love & Ponystep | 01:35:38 | Electronic Dance Music, Electropop | Brostep, Hyperpop, Trap \[EDM\], Digicore, Complextro, Dance-Pop, Electro House, Indietronica | Unplayed | High |  |
 
 <!--
