@@ -79,11 +79,10 @@
 | 2026/06/20 | Steve Reich | Music for 18 Musicians | 00:58:55 |  |  | Unplayed | Low | [Overstimulating instrumental](https://rym.fm/discussion/music/overstimulating-instrumental-music/) |
 | 2026/06/20 | Plus-Tech Squeeze Box | Cartooom! | 00:28:05 |  | Picopop | Unplayed | Low | [Overstimulating instrumental](https://rym.fm/discussion/music/overstimulating-instrumental-music/) |
 | 2026/06/23 | Vince Staples | Big Fish Theory | 00:36:08 | Hip-Hop |  | Unplayed | Low |  |
-| 2026/06/23 | Dälek | Absence | 00:57:12 | Hip-Hop | Ambient, Experimental | Unplayed | Medium |  |
+| 2026/06/23 | Dälek | Absence | 00:57:12 | Hip-Hop | Ambient, Experimental | Unplayed | Next* |  |
 | 2026/06/28 | Boards of Canada | Inferno | 01:09:51 | Electronic | Downtempo, Hauntology | Unplayed | High |  |
 | 2026/06/30 | Boards of Canada | Music Has the Right to Children | 01:03:03 | Electronic | IDM | Unplayed | Medium |  |
-| 2026/07/20 | Operation Sodasteal | SLANEY VS. SODASTEAL | 00:31:32 | Pop | Pop Punk, Mashcore | Unplayed | High | Taken from friend's status |
-| 2026/08/22 | TURQUOISEDEATH | Soundsystem, Breathe! | 00:26:00 |  |  | Unplayed | Next |  |
+| 2026/07/20 | Operation Sodasteal | SLANEY VS. SODASTEAL | 00:31:32 | Pop | Pop Punk, Mashcore | Unplayed | Next | Taken from friend's status |
 | 2026/11/25 | Vylet Pony | Love & Ponystep | 01:35:38 | Electronic Dance Music, Electropop | Brostep, Hyperpop, Trap \[EDM\], Digicore, Complextro, Dance-Pop, Electro House, Indietronica | Unplayed | High |  |
 
 <!--
